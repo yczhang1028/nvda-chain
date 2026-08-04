@@ -7,6 +7,7 @@ from datetime import datetime
 ROOT = Path.home() / "hermes_share" / "nvda_chain"
 DATA = ROOT / "data"
 NEWS = DATA / "news"
+OUT = ROOT / "nvda_chain" / "index.html"
 
 stocks_meta = {s["ticker"]: s for s in json.loads((DATA / "stocks.json").read_text())["stocks"]}
 categories = json.loads((DATA / "stocks.json").read_text())["categories"]
@@ -334,5 +335,5 @@ html = f"""<!DOCTYPE html>
 <footer>数据：yfinance（价格） + Agent Reach/Exa（新闻） · 自动更新中</footer>
 </body></html>"""
 
-(ROOT / "index.html").write_text(html)
-print(f"Wrote {ROOT/'index.html'} ({len(html):,} bytes)")
+(OUT).write_text(html)
+print(f"Wrote {OUT} ({len(html):,} bytes)")
