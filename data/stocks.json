@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "description": "NVIDIA Vera Rubin 供应链 — 15 只 A 股精选 + 5 只海外参照",
+  "categories": {
+    "光模块": {"color": "#22d3ee", "thesis": "NVDA 光互连核心，Rubin 1.6T 起步"},
+    "PCB材料": {"color": "#34d399", "thesis": "Rubin BOM PCB +233%，CCL +M9材料卡位"},
+    "液冷": {"color": "#a78bfa", "thesis": "Rubin 全液冷强制升级"},
+    "HVDC电源": {"color": "#fbbf24", "thesis": "Rubin 800V 高压直流电源是新增量"},
+    "AI服务器": {"color": "#fb923c", "thesis": "Rubin 机架代工 + 边缘 AI"},
+    "国产算力": {"color": "#f472b6", "thesis": "国产 AI 芯片/服务器/推理卡，受益于出口管制 + 国产替代"},
+    "海外参照": {"color": "#94a3b8", "thesis": "海外标杆，用于 A 股交叉验证"}
+  },
+  "stocks": [
+    {
+      "ticker": "300308.SZ", "yf": "300308.SZ", "name": "中际旭创", "market": "A股",
+      "category": "光模块", "tier": "S",
+      "role": "1.6T 光模块全球市占 50–70%，NVIDIA 核心供应商",
+      "rated_by": ["中信建投", "天风", "高盛"],
+      "tags": ["⭐被点名", "全球第一", "光互连"]
+    },
+    {
+      "ticker": "300394.SZ", "yf": "300394.SZ", "name": "天孚通信", "market": "A股",
+      "category": "光模块", "tier": "S",
+      "role": "国内唯一直供 NVIDIA 光引擎/光源",
+      "rated_by": ["中信建投"],
+      "tags": ["⭐被点名", "国内独家", "光引擎"]
+    },
+    {
+      "ticker": "300502.SZ", "yf": "300502.SZ", "name": "新易盛", "market": "A股",
+      "category": "光模块", "tier": "S",
+      "role": "800G LPO 直供 NVIDIA，GB300 光互联独家方案",
+      "rated_by": ["中信建投", "天风"],
+      "tags": ["⭐被点名", "LPO独家", "GB300直供"]
+    },
+    {
+      "ticker": "002463.SZ", "yf": "002463.SZ", "name": "沪电股份", "market": "A股",
+      "category": "PCB材料", "tier": "S",
+      "role": "Rubin 正交背板 50%+ 独家，GB300 UBB 主供",
+      "rated_by": ["天风", "中信"],
+      "tags": ["⭐被点名", "正交背板独家", "UBB主供"]
+    },
+    {
+      "ticker": "300476.SZ", "yf": "300476.SZ", "name": "胜宏科技", "market": "A股",
+      "category": "PCB材料", "tier": "S",
+      "role": "GB300 OAM 5阶 HDI 全球独家；Rubin M9 正交背板唯一通过验证",
+      "rated_by": ["天风", "中金"],
+      "tags": ["⭐被点名", "M9独家验证", "5阶HDI"]
+    },
+    {
+      "ticker": "600183.SH", "yf": "600183.SS", "name": "生益科技", "market": "A股",
+      "category": "PCB材料", "tier": "A",
+      "role": "M9 CCL 大陆唯一认证，与沪电联合开发",
+      "rated_by": ["天风", "中金"],
+      "tags": ["⭐被点名", "M9 CCL", "大陆唯一"]
+    },
+    {
+      "ticker": "300395.SZ", "yf": "300395.SZ", "name": "菲利华", "market": "A股",
+      "category": "PCB材料", "tier": "A",
+      "role": "NVIDIA Q 布（ABF 用石英布）唯一供应商",
+      "rated_by": ["中金"],
+      "tags": ["⭐被点名", "Q布独家", "ABF材料"]
+    },
+    {
+      "ticker": "002837.SZ", "yf": "002837.SZ", "name": "英维克", "market": "A股",
+      "category": "液冷", "tier": "S",
+      "role": "UQD/MQD 进入 NVIDIA MGX 名单，GB300 液冷柜 1200 台订单",
+      "rated_by": ["高盛"],
+      "tags": ["⭐被点名", "MGX名单", "GB300订单"]
+    },
+    {
+      "ticker": "300499.SZ", "yf": "300499.SZ", "name": "高澜股份", "market": "A股",
+      "category": "液冷", "tier": "A",
+      "role": "CDU/冷板/UQD 三件套，通过 Vertiv 供 GB300/Rubin",
+      "rated_by": ["中金"],
+      "tags": ["液冷三件套", "Vertiv供应链"]
+    },
+    {
+      "ticker": "002179.SZ", "yf": "002179.SZ", "name": "中航光电", "market": "A股",
+      "category": "液冷", "tier": "A",
+      "role": "UQD 液冷接头 + 高速互连",
+      "rated_by": ["中信"],
+      "tags": ["UQD接头", "高速互连"]
+    },
+    {
+      "ticker": "002851.SZ", "yf": "002851.SZ", "name": "麦格米特", "market": "A股",
+      "category": "HVDC电源", "tier": "S",
+      "role": "大陆唯一进入 NVIDIA HVDC 名单，800V/570kW Side Rack",
+      "rated_by": ["NVIDIA官方", "国盛"],
+      "tags": ["⭐⭐NVIDIA点名", "HVDC独家", "大陆唯一"]
+    },
+    {
+      "ticker": "002364.SZ", "yf": "002364.SZ", "name": "中恒电气", "market": "A股",
+      "category": "HVDC电源", "tier": "A",
+      "role": "国内 HVDC 市占率第一；阿里巴拿马电源；与 ABB/施耐德合作",
+      "rated_by": ["西南", "银河"],
+      "tags": ["HVDC国内第一", "巴拿马电源"]
+    },
+    {
+      "ticker": "300870.SZ", "yf": "300870.SZ", "name": "欧陆通", "market": "A股",
+      "category": "HVDC电源", "tier": "A",
+      "role": "服务器 PSU 国产替代龙头",
+      "rated_by": ["中金"],
+      "tags": ["PSU国产替代"]
+    },
+    {
+      "ticker": "601138.SH", "yf": "601138.SS", "name": "工业富联", "market": "A股",
+      "category": "AI服务器", "tier": "S",
+      "role": "Rubin 机架代工核心，2025 订单 >150 亿",
+      "rated_by": ["天风", "中金"],
+      "tags": ["⭐被点名", "Rubin代工", "鸿海系"]
+    },
+    {
+      "ticker": "002475.SZ", "yf": "002475.SZ", "name": "立讯精密", "market": "A股",
+      "category": "AI服务器", "tier": "A",
+      "role": "高速铜缆 + 互连 + 液冷连接",
+      "rated_by": ["中信", "中金"],
+      "tags": ["高速铜缆", "互连"]
+    },
+    {
+      "ticker": "688256.SH", "yf": "688256.SS", "name": "寒武纪", "market": "A股",
+      "category": "国产算力", "tier": "S",
+      "role": "国产 AI 芯片龙头，思元系列推理卡，承接 H20/H100 替代订单",
+      "rated_by": ["中信", "中金", "招商"],
+      "tags": ["⭐国产替代", "思元系列", "推理卡龙头"]
+    },
+    {
+      "ticker": "688041.SH", "yf": "688041.SS", "name": "海光信息", "market": "A股",
+      "category": "国产算力", "tier": "S",
+      "role": "x86 CPU + DCU 深算系列，中科曙光体系，深算三号已规模化",
+      "rated_by": ["中信", "中金"],
+      "tags": ["⭐国产替代", "深算DCU", "曙光生态"]
+    },
+    {
+      "ticker": "000977.SZ", "yf": "000977.SZ", "name": "浪潮信息", "market": "A股",
+      "category": "国产算力", "tier": "S",
+      "role": "国产 AI 服务器整机龙头，承接昇腾/海光/寒武纪适配",
+      "rated_by": ["中信建投", "国泰君安"],
+      "tags": ["国产服务器第一", "多芯片适配"]
+    },
+    {
+      "ticker": "000938.SZ", "yf": "000938.SZ", "name": "紫光股份", "market": "A股",
+      "category": "国产算力", "tier": "A",
+      "role": "新华三 AI 服务器 + 网络设备，国资云重要供应商",
+      "rated_by": ["中信", "民生"],
+      "tags": ["新华三", "AI服务器", "国资云"]
+    },
+    {
+      "ticker": "300474.SZ", "yf": "300474.SZ", "name": "景嘉微", "market": "A股",
+      "category": "国产算力", "tier": "A",
+      "role": "国产 GPU JM 系列，军工+政企国产化",
+      "rated_by": ["招商", "西南"],
+      "tags": ["国产GPU", "军工政企"]
+    },
+    {
+      "ticker": "NVDA", "yf": "NVDA", "name": "NVIDIA", "market": "NASDAQ",
+      "category": "海外参照", "tier": "REF",
+      "role": "上游平台主导者，整个供应链的引擎",
+      "rated_by": ["全市场"],
+      "tags": ["上游平台"]
+    },
+    {
+      "ticker": "TSM", "yf": "TSM", "name": "台积电 ADR", "market": "NYSE",
+      "category": "海外参照", "tier": "REF",
+      "role": "CoWoS 独家，Rubin 出货决定权",
+      "rated_by": ["全市场"],
+      "tags": ["CoWoS独家"]
+    },
+    {
+      "ticker": "000660.KS", "yf": "000660.KS", "name": "SK 海力士", "market": "KS",
+      "category": "海外参照", "tier": "REF",
+      "role": "HBM4 主供（~70%），Rubin 内存瓶颈",
+      "rated_by": ["全市场"],
+      "tags": ["HBM4主供"]
+    },
+    {
+      "ticker": "VRT", "yf": "VRT", "name": "Vertiv", "market": "NYSE",
+      "category": "海外参照", "tier": "REF",
+      "role": "数据中心电力 + 液冷 CDU，Rubin 系统级独家伙伴",
+      "rated_by": ["高盛", "Reuters"],
+      "tags": ["数据中心电力", "CDU"]
+    },
+    {
+      "ticker": "2308.TW", "yf": "2308.TW", "name": "台达电", "market": "TPE",
+      "category": "海外参照", "tier": "REF",
+      "role": "大摩 Rubin Fab Five，HVDC + Power Shelf + SST",
+      "rated_by": ["大摩"],
+      "tags": ["Fab Five", "HVDC标杆"]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+# Data snapshots (heavy, historical)
+data/snapshots/
+data/prices_history/
+data/news_archive/
+data/analysis_history.jsonl
+data/tunnel_url.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# System
+.DS_Store
