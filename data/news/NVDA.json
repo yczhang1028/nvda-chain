@@ -1,12 +1,33 @@
 {
   "ticker": "NVDA",
   "name": "NVIDIA",
-  "fetched_at": "2026-08-03T10:08:20",
-  "count": 9,
+  "fetched_at": "2026-08-05T10:03:33",
+  "count": 10,
   "items": [
     {
+      "title": "Document",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000051/q1fy27pr.htm",
+      "published": "N/A",
+      "author": "N/A",
+      "highlights": " NVIDIA Announces Financial Results for First Quarter Fiscal 2027 ... •Record revenue of $81.6 billion, up 85% from a year ago ... •Record Data Center revenue of $75.2 billion, up 92% from a year ago ... •NVIDIA announces $80.0 billion additional share repurchase ... and increases its quarterly cash dividend from $0.01 per share to $0.25 per ... SANTA CLARA, Calif.—May 20, 2026―NVIDIA (NASDAQ: NVDA) today reported record revenue for the first quarter ended April 26, 2026, of $81.6 billion, up 20% from the previous quarter and up 85% from a year ago. ... “The buildout of AI factories — the larg"
+    },
+    {
+      "title": "Nvidia's U.S. AI Supply Chain Expands",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-u-ai-supply-chain-124356698.html",
+      "published": "2026-07-22T00:00:00.000Z",
+      "author": "Moz Farooque ACCA      July 22, 2026   1 min read",
+      "highlights": " Nvidia's U.S. AI Supply Chain Expands ... # Nvidia's U.S. AI Supply Chain Expands ... Nvidia (NASDAQ:NVDA) supplier Wistron has opened its first U.S. AI server factory in Fort Worth, Texas, expanding the chipmaker's domestic manufacturing network as demand for AI infrastructure continues to surge. ... The 324,000-square-foot facility will produce Nvidia Grace Blackwell Ultra systems and eventually Vera Rubin Superchips. Wistron is investing a combined $700 million in advanced U.S. manufacturing, with output expected to reach tens of thousands of AI server boards per month this year. ... Nvidi"
+    },
+    {
+      "title": "NVIDIA Corporation - NVIDIA Announces Financial Results for Second Quarter Fiscal 2026",
+      "url": "https://investor.nvidia.com/news/press-release-details/2025/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2026/default.aspx",
+      "published": "N/A",
+      "author": "N/A",
+      "highlights": " NVIDIA Corporation - NVIDIA Announces Financial Results for Second Quarter Fiscal 2026 ... ### NVIDIA Announces Financial Results for Second Quarter Fiscal 2026 ... - Revenue of $46.7 billion, up 6% from Q1 and up 56% from a year ago - Data Center revenue of $41.1 billion, up 5% from Q1 and up 56% from a year ago - Blackwell Data Center revenue grew 17% sequentially ... SANTA CLARA, Calif., Aug. 27, 2025 (GLOBE NEWSWIRE) -- NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 27, 2025, of $46.7 billion, up 6% from the previous quarter and up 56% from a year ago. NVID"
+    },
+    {
       "title": "NVIDIA Corporation - NVIDIA Announces Financial Results for First Quarter Fiscal 2027",
-      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-First-Quarter-Fiscal-2027/default.aspx",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-First-Quarter-Fiscal-2027/",
       "published": "N/A",
       "author": "N/A",
       "highlights": " - Record revenue of $81.6 billion, up 85% from a year ago - Record Data Center revenue of $75.2 billion, up 92% from a year ago - NVIDIA announces $80.0 billion additional share repurchase authorization and increases its quarterly cash dividend from $0.01 per share to $0.25 per share ... SANTA CLARA, Calif., May 20, 2026 (GLOBE NEWSWIRE) -- NVIDIA (NASDAQ: NVDA) today reported record revenue for the first quarter ended April 26, 2026, of $81.6 billion, up 20% from the previous quarter and up 85% from a year ago. ... “The buildout of AI factories — the largest infrastructure expansion in human"
@@ -19,39 +40,11 @@
       "highlights": " NVIDIA Corporation - NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2026 ... - Record quarterly revenue of $68.1 billion, up 20% from Q3 and up 73% from a year ago - Record quarterly Data Center revenue of $62.3 billion, up 22% from Q3 and up 75% from a year ago - Record full-year revenue of $215.9 billion, up 65% ... SANTA CLARA, Calif., Feb. 25, 2026 (GLOBE NEWSWIRE) -- NVIDIA (NASDAQ: NVDA) today reported record revenue for the fourth quarter ended January 25, 2026, of $68.1 billion, up 20% from the previous quarter and up 73% from a year ago. For fiscal 2026, revenue was"
     },
     {
-      "title": "NVIDIA Announces Financial Results for First Quarter",
-      "url": "https://nvidianews.nvidia.com/_gallery/download_pdf/6a0e17dc3d633295d45282e6/",
+      "title": "NVIDIA CEO Courts Japan Suppliers as $5.1 Trillion AI Push Expands",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-courts-japan-suppliers-194801151.html",
       "published": "N/A",
-      "author": "N/A",
-      "highlights": " Record revenue of $81.6 billion, up 85% from a year ago Record Data Center revenue of $75.2 billion, up 92% from a year ago NVIDIA announces $80.0 billion additional share repurchase authorization and increases its quarterly cash dividend from $0.01 per share to $0.25 per share NVIDIA (NASDAQ: NVDA) today reported record revenue for the first quarter ended April 26, 2026, of $81.6 billion, up 20% from the previous quarter and up 85% from a year ago. For the quarter, GAAP and non-GAAP gross margins were 74.9% and 75.0%, respectively. For the quarter, GAAP and non-GAAP earnings per diluted shar"
-    },
-    {
-      "title": "NVIDIA Corporation - NVIDIA Announces Financial Results for Second Quarter Fiscal 2026",
-      "url": "https://investor.nvidia.com/news/press-release-details/2025/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2026/default.aspx",
-      "published": "N/A",
-      "author": "N/A",
-      "highlights": " NVIDIA Corporation - NVIDIA Announces Financial Results for Second Quarter Fiscal 2026 ... ### NVIDIA Announces Financial Results for Second Quarter Fiscal 2026 ... - Revenue of $46.7 billion, up 6% from Q1 and up 56% from a year ago - Data Center revenue of $41.1 billion, up 5% from Q1 and up 56% from a year ago - Blackwell Data Center revenue grew 17% sequentially ... SANTA CLARA, Calif., Aug. 27, 2025 (GLOBE NEWSWIRE) -- NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 27, 2025, of $46.7 billion, up 6% from the previous quarter and up 56% from a year ago. NVID"
-    },
-    {
-      "title": "NVIDIA's AI infrastructure story after a 63% run: what the filings confirm | EvidInvest",
-      "url": "https://evidinvest.com/blog/nvda-ai-infrastructure-aether-sec-analysis-2026-06-02",
-      "published": "2026-06-02T17:52:52.000Z",
-      "author": "EvidInvest",
-      "highlights": " NVIDIA is no longer simply a semiconductor company with AI exposure. Its own filings now frame the business around data-center-scale AI infrastructure. ... 1. AI infrastructure is now the dominant growth engine. FY2026 revenue was $215.9B, up 65%, and Data Center revenue was up 68%. Q1 FY2027 revenue was $81.6B, up 85%, while Data Center revenue was $75.2B, up 92%. 2. The growth is tied to systems, networking, and interconnects, not only chips. NVIDIA cites Blackwell systems, InfiniBand, Spectrum-X Ethernet, and NVLink as Data Center growth drivers. ... 3. The upside has real constraints. Cus"
-    },
-    {
-      "title": "NVIDIA Q1 FY2027: $81.6B Revenue, and $15.9B of Net Income That Isn't From Chips | Beancount.io",
-      "url": "https://beancount.io/blog/2026/07/13/nvidia-fy2027-q1-earnings-analysis",
-      "published": "2026-07-13T08:36:04.000Z",
-      "author": "N/A",
-      "highlights": " On May 20, 2026, NVIDIA reported first-quarter fiscal 2027 revenue of $81.6 billion, up 85% year over year and up 20% sequentially from a record Q4 — and quietly retired the five-segment scoreboard (Data Center, Gaming, Professional Visualization, Automotive, OEM & Other) that investors have used to read the company for a decade. In its place: two \"market platforms,\" Data Center and Edge Computing. Net income hit $58.3 billion, the board tripled the quarterly dividend from a penny to a quarter, and NVIDIA authorized another $80 billion in buybacks. But roughly a quarter of that net income cam"
-    },
-    {
-      "title": "NVIDIA Announces Financial Results for Fourth Quarter ...",
-      "url": "http://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026",
-      "published": "2026-02-25T00:00:00.000Z",
-      "author": "N/A",
-      "highlights": " - Record quarterly revenue of $68.1 billion, up 20% from Q3 and up 73% from a year ago - Record quarterly Data Center revenue of $62.3 billion, up 22% from Q3 and up 75% from a year ago - Record full-year revenue of $215.9 billion, up 65% ... NVIDIA (NASDAQ: NVDA) today reported record revenue for the fourth quarter ended January 25, 2026, of $68.1 billion, up 20% from the previous quarter and up 73% from a year ago. For fiscal 2026, revenue was $215.9 billion, up 65% from a year ago. ... “Computing demand is growing exponentially — the agentic AI inflection point has arrived. Grace Blackwell"
+      "author": "Khac Phu Nguyen      Thu, July 16, 2026 at 3:48 PM EDT   2 min read",
+      "highlights": " NVIDIA CEO Courts Japan Suppliers as $5.1 Trillion AI Push Expands ... # NVIDIA CEO Courts Japan Suppliers as $5.1 Trillion AI Push Expands ... NVIDIA (NASDAQ:NVDA), the U.S. chipmaker whose graphics processors have become central to the global artificial intelligence race, is strengthening its relationship with the Japanese companies supporting its next generation of AI systems. On Wednesday night, CEO Jensen Huang met executives from several specialist suppliers at an izakaya in Tokyo's Kanda district, highlighting how NVIDIA's growth depends on more than its own processors. The company als"
     },
     {
       "title": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2026 | NVIDIA Newsroom",
@@ -61,8 +54,25 @@
       "highlights": " - Revenue of $46.7 billion, up 6% from Q1 and up 56% from a year ago - Data Center revenue of $41.1 billion, up 5% from Q1 and up 56% from a year ago - Blackwell Data Center revenue grew 17% sequentially ... NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 27, 2025, of $46.7 billion, up 6% from the previous quarter and up 56% from a year ago. NVIDIA’s Blackwell Data Center revenue grew 17% sequentially. ... “Blackwell is the AI platform the world has been waiting for, delivering an exceptional generational leap — production of Blackwell Ultra is ramping at full s"
     },
     {
-      "title": "Nvidia Earnings: Updates and Commentary May 2026",
-      "url": "https://www.kipling"
+      "title": "NVIDIA Announces Financial Results for First Quarter",
+      "url": "https://nvidianews.nvidia.com/_gallery/download_pdf/6a0e17dc3d633295d45282e6/",
+      "published": "N/A",
+      "author": "N/A",
+      "highlights": " Record revenue of $81.6 billion, up 85% from a year ago Record Data Center revenue of $75.2 billion, up 92% from a year ago NVIDIA announces $80.0 billion additional share repurchase authorization and increases its quarterly cash dividend from $0.01 per share to $0.25 per share NVIDIA (NASDAQ: NVDA) today reported record revenue for the first quarter ended April 26, 2026, of $81.6 billion, up 20% from the previous quarter and up 85% from a year ago. For the quarter, GAAP and non-GAAP gross margins were 74.9% and 75.0%, respectively. For the quarter, GAAP and non-GAAP earnings per diluted shar"
+    },
+    {
+      "title": "The AI Supply Chain Just Confirmed Nvidia's Future (NASDAQ:NVDA)",
+      "url": "https://seekingalpha.com/article/4922584-ai-supply-chain-just-confirmed-nvidia-future",
+      "published": "2026-07-16T00:00:00.000Z",
+      "author": "N/A",
+      "highlights": " The AI Supply Chain Just Confirmed Nvidia's Future (NASDAQ:NVDA) | Seeking Alpha ... - TSMC and ASML both raised guidance, confirming AI infrastructure remains supply constrained, while Rubin's N3 node is fully booked and CoWoS capacity expands nearly 50%. - Nvidia's Kyber delay concerns appear limited to Rubin Ultra, leaving mainstream Rubin NVL72 deployments and near-term revenue expectations largely unchanged. - Qualification of Samsung, SK hynix and Micron for HBM4 reduces supply-chain risk as the industry shifts toward higher-capacity 16-Hi HBM4 memory. - Despite 82% projected FY2027 rev"
+    },
+    {
+      "title": "NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2026",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026",
+      "published": "2026-02-25T00:00:00.000Z",
+      "author": "N/A",
+      "highlights": " - Record quarterly revenue of $68.1 billion, up 20% from Q3 and up 73% from a year ago - Record quarterly Data Center revenue of $62.3 billion, up 22% from Q3 and up 75% from a year ago - Record full-year revenue of $215.9 billion, up 65% ... NVIDIA (NASDAQ: NVDA) today reported record revenue for the fourth quarter ended January 25, 2026, of $68.1 billion, up 20% from the previous quarter and up 73% from a year ago. For fiscal 2026, revenue was $215.9 billion, up 65% from a year ago. ... “Computing demand is growing exponentially — the agentic AI inflection point has arrived. Grace Blackwell"
     }
   ]
 }
