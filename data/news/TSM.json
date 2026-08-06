@@ -1,15 +1,36 @@
 {
   "ticker": "TSM",
   "name": "台积电 ADR",
-  "fetched_at": "2026-08-05T10:03:33",
+  "fetched_at": "2026-08-06T10:02:13",
   "count": 10,
   "items": [
+    {
+      "title": "TSMC 2026 Q2 Quarterly Results - Taiwan Semiconductor Manufacturing Company Limited",
+      "url": "https://investor.tsmc.com/english/quarterly-results/2026/q2",
+      "published": "N/A",
+      "author": "N/A",
+      "highlights": " TSMC 2026 Q2 Quarterly Results - Taiwan Semiconductor Manufacturing Company Limited ... | | | 2Q26 | | 3Q26 | | --- | --- | --- | --- | --- | | | | Actual | Guidance | Guidance | | Net Revenue(US$ billion) | 40.20 | 39.0-40.2 | 44.6-45.8 | | Exchange Rate(USD/NTD) | 31.60 | 31.7 | 32.0 | | Gross Margin | 67.7% | 65.5%-67.5% | 65.0%-67.0% | | Operating Margin | 60.3% | 56.5%-58.5% | 56.0%-58.0% |"
+    },
+    {
+      "title": "TSMC Reports Second Quarter EPS of NT$27.25",
+      "url": "https://pr.tsmc.com/english/news/3326",
+      "published": "N/A",
+      "author": "N/A",
+      "highlights": " HSINCHU, Taiwan, R.O.C., Jul. 16, 2026 -- TSMC (TWSE: 2330, NYSE: TSM) today announced consolidated revenue of NT$1,270.38 billion, net income of NT$706.56 billion, and diluted earnings per share of NT$27.25 (US$4.31 per ADR unit) for the second quarter ended June 30, 2026. ... Year-over-year, second quarter revenue increased 36.0%, while net income and diluted EPS both increased 77.4%. Compared to first quarter 2026, second quarter results represented a 12.0% increase in revenue and a 23.4% increase in net income. All figures were prepared in accordance with TIFRS on a consolidated basis. .."
+    },
     {
       "title": "TSMC Reports Second Quarter",
       "url": "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-07/a80d7933be643644081584087731f73b22ea5a2c/2Q26%20EarningsRelease.pdf",
       "published": "N/A",
       "author": "N/A",
-      "highlights": " Hsinchu, Taiwan, R.O.C., July 16, 2026 -- TSMC today announced consolidated revenue of NT$1,270.38 billion, net income of NT$706.56 billion, and diluted earnings per share of NT$27.25 (US$4.31 per ADR unit) for the second quarter ended June 30, 2026. ... Year-over-year, second quarter revenue increased 36.0%, while net income and diluted EPS both increased 77.4%. Compared to first quarter 2026, second quarter results represented a 12.0% increase in revenue and a 23.4% increase in net income. All figures were prepared in accordance with TIFRS on a consolidated basis. ... In the second quarter,"
+      "highlights": " Hsinchu, Taiwan, R.O.C., July 16, 2026 -- TSMC today announced consolidated revenue of NT$1,270.38 billion, net income of NT$706.56 billion, and diluted earnings per share of NT$27.25 (US$4.31 per ADR unit) for the second quarter ended June 30, 2026. ... Year-over-year, second quarter revenue increased 36.0%, while net income and diluted EPS both increased 77.4%. Compared to first quarter 2026, second quarter results represented a 12.0% increase in revenue and a 23.4% increase in net income. All figures were prepared in accordance with TIFRS on a consolidated basis. ... In US dollars, second "
+    },
+    {
+      "title": "TSMC second-quarter profit spikes over 77%, topping estimates",
+      "url": "https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html",
+      "published": "2026-07-16T00:00:00.000Z",
+      "author": "Jenny Lee",
+      "highlights": " - TSMC recorded over 77% year on year profit jump, and over 23% from prior quarter. - The company forecast third-quarter revenue between $44.6 billion and $45.8 billion. - Both the company's quarterly revenue and profit both topped estimates. ... Taiwan Semiconductor Manufacturing Co on Thursday reported a 77.4% jump in second-quarter profit year on year, soaring past estimates as the world's largest contract-chipmaker continues to set consecutive record-breaking milestones. ... - Revenue: 1.27 trillion new Taiwan dollars ($39.45 billion ) vs. NT$1.264 trillion expected - Net income: NT$706.5"
     },
     {
       "title": "Document",
@@ -19,60 +40,39 @@
       "highlights": " TSMC Reports Second Quarter EPS of NT$27.25 ... HSINCHU, Taiwan, R.O.C., Jul. 16, 2026 -- TSMC (TWSE: 2330, NYSE: TSM) today announced consolidated revenue of NT$1,270.38 billion, net income of NT$706.56 billion, and diluted earnings per share of NT$27.25 (US$4.31 per ADR unit) for the second quarter ended June 30, 2026. ... Year-over-year, second quarter revenue increased 36.0%, while net income and diluted EPS both increased 77.4%. Compared to first quarter 2026, second quarter results represented a 12.0% increase in revenue and a 23.4% increase in net income. All figures were prepared in a"
     },
     {
-      "title": "Q2 2026 Taiwan Semiconductor Manufacturing Co Ltd Earnings Call (Chinese, English) on July 16, 2026 / 6:00AM",
-      "url": "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-07/547d1696765e05ce3adb81c108ce1c8c1682b80c/TSMC%202Q26%20Transcript.pdf",
+      "title": "2026 Second Quarter Earnings Conference",
+      "url": "https://investor.tsmc.com/schinese/encrypt/files/encrypt_file/reports/2026-07/72ec92e3257f3c27ddab7267c3b171f66194aab3/2Q26%20Presentation%20%28E%29.pdf",
       "published": "N/A",
-      "author": "Refinitiv StreetEvents",
-      "highlights": " At TSMC, a higher level of capital expenditures is always correlated to higher growth opportunities in following years. With ourstrong technology leadership and differentiation, we are well positioned to capture the multi-year structural demand from theindustry megatrends of 5G, AI, and HPC. Given the continued strong structural demand from our customers, including the newly emerging agentic AI market, we havedecided to raise our full-year 2026 capital budget to be between USD60 billion and USD64 billion as we continue to invest heavilyto support our customers' growth. ... Having said that, A"
-    },
-    {
-      "title": "TSMC Reports Second Quarter EPS of NT$27.25",
-      "url": "https://pr.tsmc.com/system/files/newspdf/attachment/e98d0838eea3c47083fb67dbc349c059d8457c25/2Q26%20%28E%29_with%20gudiance_final_wmn.pdf",
-      "published": "N/A",
-      "author": "pdkramer",
-      "highlights": " HSINCHU, Taiwan, R.O.C., Jul. 16, 2026 -- TSMC (TWSE: 2330, NYSE: TSM) today announced consolidated revenue of NT$1,270.38 billion, net income of NT$706.56 billion, and diluted earnings per share of NT$27.25 (US$4.31 per ADR unit) for the second quarter ended June 30, 2026. ... Year-over-year, second quarter revenue increased 36.0%, while net income and diluted EPS both increased 77.4%. Compared to first quarter 2026, second quarter results represented a 12.0% increase in revenue and a 23.4% increase in net income. All figures were prepared in accordance with TIFRS on a consolidated basis. .."
+      "author": "N/A",
+      "highlights": " ## 2026 Second Quarter Earnings Conference ... July 16, 2026 ... ##### • Welcome Jeff Su, IR Director • 2Q26 Financial Results and 3Q26 Outlook Wendell Huang, CFO • Key Messages Wendell Huang, CFO ... | Selected Items from Statements of Comprehensive Income | | | --- | --- | | | | | (In NT$ billions unless otherwise noted) | 2Q26 Guidance 2Q25 | | | | | Net Revenue (US$ billions) | 40.20 39.0-40.2 35.90 30.07 +12.0% +33.7% | | Net Revenue | 1,270.38 1,134.10 933.79 +12.0% +36.0% | | Gross Margin | 67.7% 65.5%-67.5% 66.2% 58.6% +1.5 ppts +9.1 ppts | | Operating Expenses | (98.98) (94.01) (84.5"
     },
     {
       "title": "FOR IMMEDIATE RELEASE",
-      "url": "https://investor.tsmc.com/chinese/encrypt/files/encrypt_file/reports/2026-07/6f49632674bd2d0fd48cb65aaf89ec6ab510b559/2Q26%20ManagementReport.pdf",
+      "url": "https://investor.tsmc.com/schinese/encrypt/files/encrypt_file/reports/2026-07/6f49632674bd2d0fd48cb65aaf89ec6ab510b559/2Q26%20ManagementReport.pdf",
       "published": "N/A",
       "author": "N/A",
       "highlights": " • Revenue Analysis • Profit & Expense Analysis • Financial Condition Review • Cash Flow • CapEx • Recap of Recent Important Events & Announcements Financial Highlights: Second Quarter 2026 l Net revenue was NT$1,270.38 billion, representing a 12.0% increase from NT$1,134.10 billion in 1Q26 and a 36.0% increase from NT$933.79 billion in 2Q25. l Gross margin was 67.7%, 1.5 percentage points higher than 1Q26 and 9.1 percentage points higher than 2Q25. l Operating margin was 60.3%, up 2.2 percentage points from 1Q26 and up 10.7 percentage points from 2Q25. l Non-operating items were a gain of NT$"
     },
     {
-      "title": "a2q26presentatione",
-      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000451/a2q26presentatione.htm",
+      "title": "TSMC posts record profits on continued AI demand",
+      "url": "https://www.cnbc.com/2026/04/16/tsmc-q1-profit-58-percent-ai-chip-demand-record.html",
+      "published": "2026-04-16T00:00:00.000Z",
+      "author": "Dylan Butts",
+      "highlights": " TSMC posts record profits on continued AI demand ... - TSMC posted a 58% profit jump, driven by strong AI chip demand. - Revenue beat forecasts, marking a fourth straight quarterly record. - TSMC said advanced chips accounted for about 75% of total wafer revenue in the quarter. ... Taiwan Semiconductor Manufacturing Company on Thursday reported a 58% increase in first-quarter profit, beating estimates and hitting a fresh record as demand for artificial intelligence chips stayed strong. ... 134 ... TSMC's net income of NT$572.48 billion for the three months ended in March represented a fourth "
+    },
+    {
+      "title": "Nvidia vs TSM-Earnings Reveal AI Hardware Power Split",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-tsm-earnings-reveal-134322690.html",
+      "published": "2026-04-29T00:00:00.000Z",
+      "author": "Vandita Jadeja      April 29, 2026   4 min read",
+      "highlights": " Nvidia (NVDA) posted 73.21% revenue growth with Data Center segment at $62.31B and networking surging 263% year-over-year, while Taiwan Semiconductor Manufacturing (TSM) grew 35.1% with 3nm wafers representing 25% of revenue and HPC platforms driving 61% of platform revenue. Nvidia carries $95.2B in supply commitments, primarily flowing to TSMC. ... Nvidia dominates chip design and software stack economics as hyperscalers deploy Blackwell and prepare for Rubin instances, while TSMC captures foundry value through advanced node capacity at 74% of wafer revenue and 58.1% operating margins, makin"
+    },
+    {
+      "title": "Document",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000199/a1q26e_withguidancexfinal.htm",
       "published": "N/A",
       "author": "N/A",
-      "highlights": " Unleash Innovation © 12026 TSMC, Ltd TSMC Property Unleash Innovation 2026 Second Quarter Earnings Conference July 16, 2026 ... Unleash Innovation © 22026 TSMC, Ltd TSMC Property Agenda • Welcome Jeff Su, IR Director • 2Q26 Financial Results and 3Q26 Outlook Wendell Huang, CFO • Key Messages Wendell Huang, CFO C.C. Wei, Chairman & CEO • Q&A ... Unleash Innovation © 42026 TSMC, Ltd TSMC Property Statements of Comprehensive Income Selected Items from Statements of Comprehensive Income 2Q26 2Q26 1Q26 2Q25 2Q26 Over 1Q26 2Q26 Over 2Q25(In NT$ billions unless otherwise noted) Guidance Net Revenue "
-    },
-    {
-      "title": "TSM (TSM) Q2 2026 Earnings Call Transcript | The Motley Fool",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/07/16/tsm-tsm-q2-2026-earnings-call-transcript/",
-      "published": "2026-07-17T00:00:00.000Z",
-      "author": "Motley Fool Transcribing",
-      "highlights": " - 2026 Capital Expenditures -- Raised to $60 billion to $64 billion to support multiyear structural demand from artificial intelligence and High Performance Computing. ... Management reported that second quarter results were supported by demand for leading-edge process technologies, specifically within the High Performance Computing platform. The company raised its full-year revenue guidance and expanded its 2026 capital budget to address structural demand from artificial intelligence and 5G megatrends. Strategic initiatives included a significant increase in U.S. capital investment and the a"
-    },
-    {
-      "title": "Q2 2026 Taiwan Semiconductor Manufacturing Co Ltd Earnings Call (Chinese, English) on July 16, 2026 / 6:00AM",
-      "url": "https://investor.tsmc.com/chinese/encrypt/files/encrypt_file/reports/2026-07/547d1696765e05ce3adb81c108ce1c8c1682b80c/TSMC%202Q26%20Transcript.pdf",
-      "published": "N/A",
-      "author": "Refinitiv StreetEvents",
-      "highlights": " At TSMC, a higher level of capital expenditures is always correlated to higher growth opportunities in following years. With ourstrong technology leadership and differentiation, we are well positioned to capture the multi-year structural demand from theindustry megatrends of 5G, AI, and HPC. Given the continued strong structural demand from our customers, including the newly emerging agentic AI market, we havedecided to raise our full-year 2026 capital budget to be between USD60 billion and USD64 billion as we continue to invest heavilyto support our customers' growth. ... Having said that, A"
-    },
-    {
-      "title": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Q2 FY2026 Earnings Call Transcript - July 16, 2026 | Roic AI",
-      "url": "https://www.roic.ai/quote/TSM/transcripts/2026-year/2-quarter",
-      "published": "2026-07-16T00:00:00.000Z",
-      "author": "N/A",
-      "highlights": " , and welcome to TSMC's second quarter 2026 earnings conference and conference call. This is Jeff Su, ... Based on the current business outlook, we expect our third quarter revenue to be between $44.6 billion and $45.8 billion, which represents a 12% sequential increase or a 37% year-over-year increase at the midpoint. Based on the exchange rate assumption of $1 to TWD 32, gross margin is expected to be between 65% and 67%. ... With our strong technology leadership and differentiation, we are well-positioned to capture the multi-year structural demand from the industry megatrends of 5G, AI, a"
-    },
-    {
-      "title": "TSMC AI-heavy product mix boosts profit-per-wafer gauge by 42% as capex rises",
-      "url": "https://ts2.tech/en/tsmc-ai-heavy-product-mix-boosts-profit-per-wafer-gauge-by-42-as-capex-rises/",
-      "published": "2026-07-16T00:00:00.000Z",
-      "author": "Roman Perkowski",
-      "highlights": " TSMC AI-heavy product mix boosts profit ... per-wafer gauge by 42% as capex rises ... - Operating income for the second quarter was up 65.4% as wafer shipments climbed 16.6%. The blended profit-per-wafer proxy was up around 42%. - High-performance computing made up about 83% of the year-on-year revenue growth, using the company’s rounded platform shares. - TSMC hiked its 2026 capital spending outlook to $60 billion-$64 billion and said it now sees dollar revenue growth just over 40%. ... Taiwan Semiconductor Manufacturing Co (TPE:2330; NYSE:TSM) reported a 16.6% boost in second-quarter wafer "
+      "highlights": " TSMC Reports First Quarter EPS of NT$22.08 ... HSINCHU, Taiwan, R.O.C., Apr. 16, 2026 -- TSMC (TWSE: 2330, NYSE: TSM) today announced consolidated revenue of NT$1,134.10 billion, net income of NT$572.48 billion, and diluted earnings per share of NT$22.08 (US$3.49 per ADR unit) for the first quarter ended March 31, 2026. ... Year-over-year, first quarter revenue increased 35.1%, while net income and diluted EPS both increased 58.3%. Compared to fourth quarter 2025, first quarter results represented an 8.4% increase in revenue and a 13.2% increase in net income. All figures were prepared in acc"
     }
   ]
 }
