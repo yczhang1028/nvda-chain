@@ -1,7 +1,7 @@
 {
   "ticker": "000660.KS",
   "name": "SK 海力士",
-  "fetched_at": "2026-08-10T10:04:39",
+  "fetched_at": "2026-08-11T10:01:56",
   "count": 10,
   "items": [
     {
@@ -26,11 +26,11 @@
       "highlights": " ▪ SK Group and NVIDIA expand strategic collaboration with a $500 billion plus initiative spanning AI factories and next-generation memory. ▪ SK Telecom to build 2-gigawatt NVIDIA Vera Rubin, DSX AI Factory to serve global compute demand. ▪ NVIDIA and SK hynix establish long-term partnership to secure and co-develop next-generation AI memory, including HBM. ... Seoul, July 25, 2026 – SK Group and NVIDIA today announced plans for a $500 billion plus comprehensive partnership to establish AI infrastructure serving the surging demand for global compute. The two sides signed Letters of Intent to f"
     },
     {
-      "title": "NVIDIA Corporation - NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance Memory for AI Factories",
-      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-SK-hynix-Announce-Multiyear-Technology-Partnership-to-Advance-Memory-for-AI-Factories/default.aspx",
-      "published": "N/A",
-      "author": "N/A",
-      "highlights": " NVIDIA Corporation - NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance Memory for AI Factories ... ### NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance Memory for AI Factories ... Collaboration Supports Next-Generation Memory Codevelopment With NVIDIA’s AI Infrastructure Roadmap and Expands Supply for the Accelerating Global AI Factory Buildout ... - NVIDIA and SK hynix announce multiyear technology partnership for next-generation memory aligned to NVIDIA’s AI infrastructure roadmap. - The agreement supports supply for advanced memory, addressing"
+      "title": "Nvidia locks down memory from SK Hynix as part of $500 billion AI deal",
+      "url": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
+      "published": "2026-07-25T00:00:00.000Z",
+      "author": "Kif Leswing",
+      "highlights": " Nvidia locks down memory from SK Hynix as part of $500 billion AI deal ... - Nvidia said it's secured AI memory supply from SK Hynix, potentially alleviating a concern as the memory market faces a global shortage. - The chipmaker is aggressively securing supply of high-bandwidth memory, an essential component for its graphics processing units and AI systems. - SK Hynix' affiliate SK Telecom will build a cloud business using Nvidia's Vera Rubin systems. ... Nvidia said it's secured AI memory supply from South Korea's SK Hynix, as the chipmaker tries to lock in a key component for its advanced "
     },
     {
       "title": "SK Hynix Hits Record Q2 Profit on AI Demand Despite Revenue and Operating Miss - Stock Market Watch",
@@ -40,11 +40,11 @@
       "highlights": " - SK Hynix (000660) reported an all-time high quarterly operating profit of KRW 60.54 trillion, a massive 557% increase year-over-year, though it fell short of the KRW 64.22 trillion analyst consensus. ... - Net profit surged to KRW 93.82 ... , vastly outperforming the estimated KRW 54.32 trillion, primarily driven by a significant KRW 27.4 billion windfall from the company's investment in Kioxia. ... - Quarterly revenue reached KRW 79.32 trillion, missing the KRW 83.85 trillion estimate, as the company's heavy focus on high-end AI memory meant it benefited less from the broader price rally i"
     },
     {
-      "title": "SK 海力士（紀要）：LTA 包含保證金，擴產不會導致立即過剩｜長橋證券",
-      "url": "https://longbridge.com/zh-HK/dolphin/post/43014847",
+      "title": "Nvidia, Micron, AMD sink after SK Hynix results fail to impress, AI ...",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-micron-amd-sink-after-sk-hynix-results-fail-to-impress-ai-trade-unwinds-130352334.html",
       "published": "2026-07-29T00:00:00.000Z",
-      "author": "N/A",
-      "highlights": " 以下為海豚君整理的$SK海力士(SKHY.US) FY26 第二季度（2026Q2）的財報電話會紀要。 ... 2. 業績指引（Q3 2026）：DRAM 出貨量預計環比增長約 10%（以服務器產品為重心積極響應需求）；NAND bit 出貨量預計環比低個位數百分比增長。受 HBM4 放量、1C nm 常規 DRAM 出貨增加帶動，下半年 bit 增長將高於上半年；隨着高附加值產品佔比提升與 HBM4 放量，混合 ASP 將獲正向拉動。 ... 3. Q2 盈利創歷史新高：收入 79.3 萬億韓元，環比 +51%、同比 +257%；營業利潤 60.5 萬億韓元，環比 +61%、同比約 +57%，營業利潤率環比 +5pct 至 76%，營業利潤與利潤率均創歷史新高；D&A 4 萬億韓元，EBITDA 64.6 萬億韓元、EBITDA 利潤率 81%。 ... 6. 資本開支：因 M15X 量產計劃提前、投資擴大，2026 年 CapEx 預計升至\"高 40 萬億韓元區間（40-45 萬億）\"；新宣佈 PMD7（先進封裝）、M17（新 NAND 生產基地）等投資，並規劃新建國內半導體集羣以應對長期需求。 ... a. Q2 在 AI 基礎設施投資擴張與供給偏緊下，價格延續上行；DRAM、NAND 價格均較上季度顯著上漲，Server DRAM、企業級 SSD 等 AI 相關產品為主要"
+      "author": "Ines Ferré      ·  Senior Business Reporter     July 29, 2026   2 min read",
+      "highlights": " after SK Hynix results ... Hynix results ... to impress, ... What happened: Semiconductor stocks fell on Wednesday as a record profit from memory maker SK Hynix (000660.KS, SKHY) failed to lift the sector, further unwinding the AI trade. ... The PHLX Semiconductor Index (^SOX) fell more than 5%, extending losses from the prior session. AI chip heavyweight Nvidia(NVDA) stock dropped more than 3%, while peer AMD (AMD) fell roughly 5%. ... What's behind the move: SK Hynix reported a record second quarter operating profit, which rose 557% from a year earlier but fell short of lofty expectations, "
     },
     {
       "title": "招商证券-SK海力士-000660.KS-26Q2跟踪报告：Q2 HBM价格和长协影响已现，与10家客户签署LTA保障长期供应-260729-慧云研",
@@ -54,25 +54,25 @@
       "highlights": " 1、综合财报及交流会议信息，总结要点如下：评论：1、Q2营收与利润同环比均高增，价格持续上涨SK海力士-000660.KS-26Q2跟踪报告营业利润率高达76%。 ... 2、 26Q2收入7932万亿韩元，同比+257%/环比+5Q2 HBM价格和长协影响已现1%；毛利率为83%，同比+29pcts/环比+4pcts；营业利润6054万亿韩元，同比+557%/环比+61%，营业利润率高达76%。 ... 3、公司业绩再创新高，主要系AI基础设施投资扩张带来旺盛需求，叠加供给环境偏紧，DRAM、NAND价格在上一季度基础上再度实现上涨，ServerDRAM、EnterpriseSSDs等AI相关与10家客户签署LTA保障长期供应产品成为增长主要驱动力。 ... 11、 1）Q3出货量指引：随着HBM4出货全面爬坡以Q2 HBM价格和长协影响已现及1c纳米常规DRAM出货增加，公司预计下半年bit增速将高于上半年。 ... 12、与10家客户签署LTA保障长期供应预计DRAM位元出货量环比约+10%，NAND预计位元出货量环比+low-single%。 ... 17、 3）资本开支：2026年资本支出预计处于high-40万亿韩元区间，公司提前M15X量产时间表，龙仁Fab1洁净室将于2Q2 HBM价格和长协影响已现027年初启用，布局PMD7以强化先进封装能力，新建NAND生产基"
     },
     {
-      "title": "SK Hynix sets record as quarterly profit jumps five-fold ...",
-      "url": "https://www.reuters.com/world/asia-pacific/nvidia-supplier-sk-hynix-q1-profit-rises-406-meets-forecasts-2026-04-22/",
-      "published": "2026-04-23T00:00:00.000Z",
-      "author": "Heekyong Yang",
-      "highlights": " SK Hynix sets record as quarterly profit jumps five-fold, says AI chip demand ... capacity | Reuters ... SEOUL, April 23 (Reuters) - South Korea's SK Hynix(000660.KS), opens new tab on Thursday set a record for quarterly profit with a five-fold jump in ‌earnings and forecast AI chip demand would exceed manufacturing capacity, allaying concern about slowing AI spending by big tech firms. ... The outlook by the Nvidia(NVDA.O), opens new tab supplier signals strong momentum remaining intact for high bandwidth memory chips used in AI chipsets, keeping supplies constrained and prices high. ... \"Cl"
+      "title": "SK海力士2026 年二季度财报盘点: 业绩创下新高，营收、毛利率不及预期 - OFweek半导体网",
+      "url": "https://semi.ofweek.com/2026-07/ART-202530-12003-30696628.html",
+      "published": "N/A",
+      "author": "N/A",
+      "highlights": " SK海力士2026 年二季度财报盘点: 业绩创下新高，营收、毛利率不及预期 - OFweek半导体网 ... SK海力士2026 年二季度财报盘点: 业绩创下新高，营收、毛利率不及预期 ... 海力士目前在韩国和美股，代表内存的指标。从财报来看，营收 79 万亿虽刷新纪录，低于 85 万亿的市场预期，毛利率 83% 也没摸到 84% 至 85% 的门槛。 ... ◎ SK 海力士交出了营业收入 79.3187 万亿韩元的成绩单，环比增长 51%，同比增长 257%。 ... ◎ 营业利润 60.5426 万亿韩元，环比增长 61%，同比增长 557%，营业利润率站上 76%； ... ◎ 净利润 93.9226 万亿韩元，净利润率 118%。 ... 但是资本市场预期太高了，预期营收在 85 万亿韩元左右，实际79 万亿是低于预期的；毛利率 83%低于市场 84% 至 85% 的判断。 ... HBM 与面向 AI 服务器的DRAM、企业级固态硬盘（eSSD）等高附加值产品持续扩大销售，把价格和利润顶到了历史区间的上沿，毛利率已经站上 80% 以上，进一步上行的空间本就相对有限，周期性生意都会遇到天花板。 ... 去年同期，海力士二季度营收仅为 22.232 万亿韩元，营业利润 9.2129 万亿韩元，营业利润率 41%。 ... 一年之内，营收翻了将近两番，营业利润翻了六倍，营"
     },
     {
-      "title": "SK海力士电话会：未见AI投资放缓迹象，HBM4E 2027年量产，长协不会导致供应过剩",
-      "url": "https://news.futunn.com/post/76736050/sk-hynix-earnings-call-no-signs-of-ai-investment-slowdown",
+      "title": "海力士业绩新高、市值腰斩，市场到底在怕什么？-虎嗅网",
+      "url": "https://www.huxiu.com/article/4879095.html",
       "published": "2026-07-29T00:00:00.000Z",
-      "author": "N/A",
-      "highlights": " 电话会上，管理层明确表示“目前没有看到人工智能投资放缓的迹象”，并预计2027年后AI基础设施投资仍将保持稳健。公司下半年位元出货量增速将超上半年，HBM4E已确认2027年起量产。2026年资本开支上调至40万亿韩元中高水平，5年期长期协议不会导致供应过剩。尽管管理层表态积极，电话会结束后SK海力士股价仍转跌10%。 ... 北京时间7月29日，$SK海力士 (000660.KR)$举行二季度业绩分析师电话会。财报后市场关注的焦点转向管理层对AI需求前景、HBM产品路线图、长期供货协议（LTA）及资本开支计划的最新表态。电话会开始前，SK海力士股价一度涨超2%；电话会结束后，韩国首尔综指随后跌超7%，SK海力士跌幅持续扩大至12%。 ... SK海力士在电话会上试图提振市场信心，管理层表示，“目前没有看到人工智能投资放缓的迹象。人工智能基础设施投资在2027年以后仍将保持稳健。”产品方面，HBM4已于二季度开始量产出货，良率接近HBM3E成熟水平；HBM4E样品已向主要客户交付，量产进程顺利。 ... 从电话会内容看，管理层在AI需求展望上表态积极，但并未给出超预期的量化指引，下半年DRAM出货增速约10%的指引也属于稳健而非激进；与此同时，资本开支大幅上调、LTA定价细节未予披露，均令市场难以进一步定价上行空间。 ... 他同时透露，上述判断\"得到了我们与主要客户就中长期需求"
+      "author": "虎嗅网",
+      "highlights": " SK海力士交出创历史新高的二季度业绩仍遭股价腰斩，市场担忧存储周期已过顶点，该事件对A股国产存储链投资有一定预警作用。 ## **1. 存储巨头业绩新高却股价大跌** SK海力士2026年二季度营收、营业利润均创历史新高，但低于分析师预期，财报发布当日收跌9.61%，相较6月高点股价已腰斩，此前三星电子公布高增业绩后也遭遇抛售。 ## **2. 市场担忧存储涨价周期已见顶** 涨价是存储巨头此轮利润暴增的核心驱动，当前DRAM价格涨幅持续收窄，下游消费端抵触涨价，市场担忧业绩高增长不可持续，存储周期最好阶段已经过去，部分资金选择获利了结。 ## **3. SK海力士未给出明确利润保障细节** SK海力士提及与约10家客户谈成含定金和波动应对机制的长协，但未披露具体金额，无法给投资者提供足够的底部利润信心，导致股价拉涨后再次回落。 ## **4. 此次下跌不是错杀而是估值换锚** 存储是周期性行业，盈利顶点通常对应估值低点，当前SK海力士动态市盈率处于历史低位，市场从按“涨价速度”定价转为按“利润可持续性”定价，属于周期定价的正常调整。 ## **5. 对A股国产存储链有差异化影响** 模组厂最先承压，原厂和接口芯片会陆续承压；国产替代环节因扩产、渗透独立于全球周期，可能获得发展窗口，在周期拐点确认前，低市盈率不构成买入理由。 ... 7月29日上午，SK海力士（000660.KS"
     },
     {
-      "title": "SK Hynix’s earnings report fell short of expectations as commodity DRAM faces a double squeeze | Gate News",
-      "url": "https://www.gate.com/news/detail/sk-hynixs-earnings-report-missed-expectations-as-commodity-dram-faces-a-two-23165974",
-      "published": "2026-07-31T00:00:00.000Z",
-      "author": "N/A",
-      "highlights": " - SK Hynix quarterly revenue fell below market expectations due to product mix shift from commodity DRAM to HBM. - HBM configurations in NVIDIA accelerators are expanding from H100's 80GB to Rubin's 288GB, directly displacing server DDR DRAM. - SK Hynix signed long-term supply agreements with major customers and issued ADR for capital raising. ... SK Hynix (000660.KS) stock’s revenue in this quarter’s financial report came in below market expectations. The shipment mix continues to shift from commodity DRAM to HBM, dragging down the overall ASP growth rate. Analyst Bubble Boi said this isn’t "
+      "title": "Prediction: Nvidia-SK Hynix Partnership Will Make Both Stocks ...",
+      "url": "https://www.fool.com/investing/2026/07/28/predict-nvidia-sk-hynix-partnership-makes-winner/",
+      "published": "2026-07-28T00:00:00.000Z",
+      "author": "Geoffrey Seiler",
+      "highlights": " Just before last weekend kicked off, Nvidia (NVDA+2.93%) and SK Hynix (SKHY-3.54%) finished some business, signing the largest memory deal in history. As part of the partnership, SK Hynix's subsidiary, SK Telecom, will build a 2-gigawatt AI cloud data center in Korea using Nvidia's Vera Rubin Platform. Meanwhile, SK Hynix will supply Nvidia with high bandwidth memory (HBM) going forward, while the two companies will work together to co-develop future generations of AI memory. ... One of the biggest bottlenecks in the AI infrastructure build-out right now is memory, especially HBM. To reduce l"
     }
   ]
 }
