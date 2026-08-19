@@ -1,16 +1,9 @@
 {
   "ticker": "NVDA",
   "name": "NVIDIA",
-  "fetched_at": "2026-08-18T10:01:54",
+  "fetched_at": "2026-08-19T10:01:57",
   "count": 10,
   "items": [
-    {
-      "title": "NVIDIA Corporation - NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2026",
-      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Fourth-Quarter-and-Fiscal-2026/default.aspx",
-      "published": "N/A",
-      "author": "N/A",
-      "highlights": " NVIDIA Corporation - NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2026 ... - Record quarterly revenue of $68.1 billion, up 20% from Q3 and up 73% from a year ago - Record quarterly Data Center revenue of $62.3 billion, up 22% from Q3 and up 75% from a year ago - Record full-year revenue of $215.9 billion, up 65% ... SANTA CLARA, Calif., Feb. 25, 2026 (GLOBE NEWSWIRE) -- NVIDIA (NASDAQ: NVDA) today reported record revenue for the fourth quarter ended January 25, 2026, of $68.1 billion, up 20% from the previous quarter and up 73% from a year ago. For fiscal 2026, revenue was"
-    },
     {
       "title": "Nvidia (NVDA) earnings report Q4 2026",
       "url": "https://www.cnbc.com/2026/02/25/nvidia-nvda-earnings-report-q4-2026.html",
@@ -19,8 +12,15 @@
       "highlights": " Nvidia (NVDA) earnings report Q4 2026 ... - Nvidia reported better-than-expected earnings and revenue for the fiscal fourth quarter. - The stock was up slightly in late trading, extending its rally for the year. - Revenue in the data center business climbed 75% from a year earlier to $62.3 billion. ... Nvidia reported better-than-expected fiscal fourth-quarter results on Wednesday, driven by 75% revenue growth in its core data center business. The stock rose initially rose in extended trading before paring most of its gains. ... Earnings per share ... . $1.53 ... Nvidia's total revenue for th"
     },
     {
-      "title": "NVIDIA Announces Financial Results for Fourth Quarter ...",
-      "url": "http://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026",
+      "title": "NVIDIA Corporation - NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2026",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Fourth-Quarter-and-Fiscal-2026/default.aspx",
+      "published": "N/A",
+      "author": "N/A",
+      "highlights": " NVIDIA Corporation - NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2026 ... - Record quarterly revenue of $68.1 billion, up 20% from Q3 and up 73% from a year ago - Record quarterly Data Center revenue of $62.3 billion, up 22% from Q3 and up 75% from a year ago - Record full-year revenue of $215.9 billion, up 65% ... SANTA CLARA, Calif., Feb. 25, 2026 (GLOBE NEWSWIRE) -- NVIDIA (NASDAQ: NVDA) today reported record revenue for the fourth quarter ended January 25, 2026, of $68.1 billion, up 20% from the previous quarter and up 73% from a year ago. For fiscal 2026, revenue was"
+    },
+    {
+      "title": "NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2026",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026",
       "published": "2026-02-25T00:00:00.000Z",
       "author": "N/A",
       "highlights": " - Record quarterly revenue of $68.1 billion, up 20% from Q3 and up 73% from a year ago - Record quarterly Data Center revenue of $62.3 billion, up 22% from Q3 and up 75% from a year ago - Record full-year revenue of $215.9 billion, up 65% ... NVIDIA (NASDAQ: NVDA) today reported record revenue for the fourth quarter ended January 25, 2026, of $68.1 billion, up 20% from the previous quarter and up 73% from a year ago. For fiscal 2026, revenue was $215.9 billion, up 65% from a year ago. ... “Computing demand is growing exponentially — the agentic AI inflection point has arrived. Grace Blackwell"
@@ -47,13 +47,6 @@
       "highlights": " NVIDIA Announces Financial Results for First Quarter Fiscal 2027 ... •Record revenue of $81.6 billion, up 85% from a year ago ... •Record Data Center revenue of $75.2 billion, up 92% from a year ago ... •NVIDIA announces $80.0 billion additional share repurchase ... and increases its quarterly cash dividend from $0.01 per share to $0.25 per ... SANTA CLARA, Calif.—May 20, 2026―NVIDIA (NASDAQ: NVDA) today reported record revenue for the first quarter ended April 26, 2026, of $81.6 billion, up 20% from the previous quarter and up 85% from a year ago. ... “The buildout of AI factories — the larg"
     },
     {
-      "title": "NVIDIA (NVDA) Q4 2026 Earnings Call Transcript | The Motley Fool",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/02/25/nvidia-nvda-q4-2026-earnings-call-transcript/",
-      "published": "2026-02-25T00:00:00.000Z",
-      "author": "Motley Fool Transcribing",
-      "highlights": " - Inventory -- Grew 8% sequentially; purchase commitments increased significantly to secure supply and address longer-term demand into 2027. ... The call revealed outsized growth in Data Center and Networking revenue underpinned by expanded customer diversity, new product introductions, and a reinforced leadership strategy—particularly through the rapid adoption of Blackwell and the early momentum of Rubin platform pre-shipments. NVIDIA (NVDA-0.06%) asserted robust visibility into future demand, supported by sizable purchase commitments and strategic investments, including a $10 billion outla"
-    },
-    {
       "title": "Nvidia smashes Q4 2026 with $68 billion in revenue, and a Q1 outlook that quashes AI bubble talk | Fortune",
       "url": "https://fortune.com/2026/02/25/nvidia-nvda-earnings-q4-results-jensen-huang/",
       "published": "2026-02-25T00:00:00.000Z",
@@ -61,18 +54,25 @@
       "highlights": " Nvidia smashes Q4 2026 with $68 billion in revenue, and a Q1 outlook that quashes AI bubble talk | Fortune ... # What AI bubble? Nvidia posts record $68 billion quarterly revenue and $78 billion forecast, as Jensen Huang cites ‘skyrocketing’ adoption of agents ... Once again, Nvidia CEO Jensen Huang had a simple response for investors who are worried that the AI spending race might be overblown."
     },
     {
-      "title": "Nvidia GPU shortages are here again | PCWorld",
-      "url": "https://www.pcworld.com/article/3072665/nvidia-gpu-shortages-are-here-again.html",
-      "published": "2026-02-26T00:00:00.000Z",
-      "author": "by\t\t\t\t\t\t\t\t\t Mark Hachman",
-      "highlights": " - PCWorld reports Nvidia is warning of renewed GPU supply constraints that will remain “very tight” for several quarters ahead. - Strong AI demand and Blackwell chip popularity are driving shortages in GPUs, RAM, and storage components across the PC market. - PC gamers should expect higher prices and limited availability as supply issues create significant headwinds despite strong gaming revenue growth. ... Nvidia warned that supply constraints would be a “headwind” in its fourth-quarter 2026 earnings call, though the company didn’t specifically say whether its GPUs or the associated memory w"
+      "title": "NVIDIA (NVDA) Q4 2026 Earnings Call Transcript | The Motley Fool",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/02/25/nvidia-nvda-q4-2026-earnings-call-transcript/",
+      "published": "2026-02-25T00:00:00.000Z",
+      "author": "Motley Fool Transcribing",
+      "highlights": " - Inventory -- Grew 8% sequentially; purchase commitments increased significantly to secure supply and address longer-term demand into 2027. ... The call revealed outsized growth in Data Center and Networking revenue underpinned by expanded customer diversity, new product introductions, and a reinforced leadership strategy—particularly through the rapid adoption of Blackwell and the early momentum of Rubin platform pre-shipments. NVIDIA (NVDA-0.06%) asserted robust visibility into future demand, supported by sizable purchase commitments and strategic investments, including a $10 billion outla"
     },
     {
-      "title": "NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2026 | Nasdaq",
-      "url": "https://www.nasdaq.com/press-release/nvidia-announces-financial-results-fourth-quarter-and-fiscal-2026-2026-02-25",
-      "published": "2026-02-25T00:00:00.000Z",
+      "title": "N/A",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/R14.htm",
+      "published": "N/A",
       "author": "N/A",
-      "highlights": " - Record quarterly revenue of $68.1 billion, up 20% from Q3 and up 73% from a year ago - Record quarterly Data Center revenue of $62.3 billion, up 22% from Q3 and up 75% from a year ago - Record full-year revenue of $215.9 billion, up 65% ... SANTA CLARA, Calif., Feb. 25, 2026 (GLOBE NEWSWIRE) -- NVIDIA (NASDAQ: NVDA) today reported record revenue for the fourth quarter ended January 25, 2026, of $68.1 billion, up 20% from the previous quarter and up 73% from a year ago. For fiscal 2026, revenue was $215.9 billion, up 65% from a year ago. ... 77, respectively. ... “Computing demand is growing"
+      "highlights": " | | Apr 26, 2026 | | Jan 25, 2026 | | | --- | --- | --- | --- | --- | | Inventories: | (In millions) | | | | | Raw materials | $ | 6,647 | $ | 3,807 | | Work in process | 9,949 | | 8,822 | | | Finished goods | 9,201 | | 8,774 | | | Total inventories (1) | $ | 25,797 | $ | 21,403 | ... 379 ... payroll and related expenses ... 033 ... 1,14 ... 73 | ... | Total accrued and other current liabilities | $ | 29,787 | $ | 21,352 | ... | | Three Months Ended | | | | | --- | --- | --- | --- | --- | | | Apr 26, 2026 | | Apr 27, 2025 | | | | (In millions) | | | | | Balance at beginning of period | $ | 2,"
+    },
+    {
+      "title": "Nvidia Earnings Takeaways: See the Key Numbers - Business Insider",
+      "url": "https://www.businessinsider.com/nvidia-earnings-stock-price-revenue-eps-q1-2027-2026-5",
+      "published": "2026-05-20T00:00:00.000Z",
+      "author": "Brent D. Griffiths, Naomi Buchanan",
+      "highlights": " Nvidia delivered a beat on the top and bottom line when it reported its fiscal first-quarter earnings on Wednesday afternoon. ... The stock ping-ponged after hours following the results as the company once again excluded China from its guidance for its second quarter. As the call ended, shares were down just over 1%. ... Here are the key numbers: ... - Revenue: $81.6 billion vs. $79.15 billion estimate - Adjusted EPS: $1.87 vs. $1.77 estimate - Data center revenue: $75.2 billion vs. $73.49 billion estimate - Gross margin: 74.9% vs. 75.1% estimate - Q2 revenue forecast: $91.0 billion vs estima"
     }
   ]
 }
