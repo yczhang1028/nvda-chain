@@ -1,7 +1,7 @@
 {
   "ticker": "NVDA",
   "name": "NVIDIA",
-  "fetched_at": "2026-08-20T10:02:00",
+  "fetched_at": "2026-08-21T10:00:39",
   "count": 10,
   "items": [
     {
@@ -19,11 +19,11 @@
       "highlights": " Nvidia (NVDA) earnings report Q4 2026 ... - Nvidia reported better-than-expected earnings and revenue for the fiscal fourth quarter. - The stock was up slightly in late trading, extending its rally for the year. - Revenue in the data center business climbed 75% from a year earlier to $62.3 billion. ... Nvidia reported better-than-expected fiscal fourth-quarter results on Wednesday, driven by 75% revenue growth in its core data center business. The stock rose initially rose in extended trading before paring most of its gains. ... Earnings per share ... . $1.53 ... Nvidia's total revenue for th"
     },
     {
-      "title": "NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2026",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026",
-      "published": "2026-02-25T00:00:00.000Z",
-      "author": "N/A",
-      "highlights": " - Record quarterly revenue of $68.1 billion, up 20% from Q3 and up 73% from a year ago - Record quarterly Data Center revenue of $62.3 billion, up 22% from Q3 and up 75% from a year ago - Record full-year revenue of $215.9 billion, up 65% ... NVIDIA (NASDAQ: NVDA) today reported record revenue for the fourth quarter ended January 25, 2026, of $68.1 billion, up 20% from the previous quarter and up 73% from a year ago. For fiscal 2026, revenue was $215.9 billion, up 65% from a year ago. ... “Computing demand is growing exponentially — the agentic AI inflection point has arrived. Grace Blackwell"
+      "title": "NVIDIA and Partners Build in America, for America | NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+      "published": "2026-07-01T00:00:00.000Z",
+      "author": "NVIDIA",
+      "highlights": " The facility is already producing the NVIDIA GB300 Grace Blackwell Ultra Superchip and preparing to produce the NVIDIA Vera Rubin Superchip, part of a combined $700 million commitment to U.S. advanced manufacturing that has created more than 500 jobs, expanding to 1,000 jobs by the end of the year. ... In 43 states and growing, NVIDIA’s network of American partners and suppliers spans semiconductors, boards, systems, racks and more. ... NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure"
     },
     {
       "title": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center | Reuters",
@@ -33,11 +33,11 @@
       "highlights": " * Huang says deal is not circular financing * Source say structure will include equity and debt * Nvidia could make $600 billion in revenue from OpenAI by 2030 ... Aug 17 (Reuters) - Nvidia [(NVDA.O), opens new tab](https://www.reuters.com/markets/companies/NVDA.O) has agreed to provide a guarantee of up to $105 billion to help OpenAI lease a sprawling data center in Ohio ​being developed by SoftBank-owned SB Energy, in one of the chipmaker's largest infrastructure financing commitments. ... The Jensen Huang-led firm said on Monday it will also invest $1.5 ‌billion in SB Energy, months after "
     },
     {
-      "title": "NVIDIA and Partners Build in America, for America | NVIDIA Blog",
-      "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
-      "published": "2026-07-01T00:00:00.000Z",
-      "author": "NVIDIA",
-      "highlights": " The facility is already producing the NVIDIA GB300 Grace Blackwell Ultra Superchip and preparing to produce the NVIDIA Vera Rubin Superchip, part of a combined $700 million commitment to U.S. advanced manufacturing that has created more than 500 jobs, expanding to 1,000 jobs by the end of the year. ... In 43 states and growing, NVIDIA’s network of American partners and suppliers spans semiconductors, boards, systems, racks and more. ... NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure"
+      "title": "NVIDIA Announces Financial Results for Fourth Quarter ...",
+      "url": "http://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026",
+      "published": "2026-02-25T00:00:00.000Z",
+      "author": "N/A",
+      "highlights": " - Record quarterly revenue of $68.1 billion, up 20% from Q3 and up 73% from a year ago - Record quarterly Data Center revenue of $62.3 billion, up 22% from Q3 and up 75% from a year ago - Record full-year revenue of $215.9 billion, up 65% ... NVIDIA (NASDAQ: NVDA) today reported record revenue for the fourth quarter ended January 25, 2026, of $68.1 billion, up 20% from the previous quarter and up 73% from a year ago. For fiscal 2026, revenue was $215.9 billion, up 65% from a year ago. ... “Computing demand is growing exponentially — the agentic AI inflection point has arrived. Grace Blackwell"
     },
     {
       "title": "NVIDIA Corporation - NVIDIA Announces Financial Results for First Quarter Fiscal 2027",
@@ -54,6 +54,13 @@
       "highlights": " - In the past week, Nvidia has announced a pact with Wall Street firms to pursue $500 billion worth of financing for chips, and has agreed to support OpenAI in Ohio to the tune of up to $105 billion. - While the chipmaker maintains its dominance in the market for AI processors, it's increasingly showing its willingness to take advantage of another great asset: capital. - Many frontier labs \"are growing faster than their balance sheets and long-term credit profiles can support,\" Nvidia CEO Jensen Huang wrote. ... Nvidia's massive head start in artificial intelligence turned the chipmaker into "
     },
     {
+      "title": "Nvidia smashes Q4 2026 with $68 billion in revenue, and a Q1 outlook that quashes AI bubble talk | Fortune",
+      "url": "https://fortune.com/2026/02/25/nvidia-nvda-earnings-q4-results-jensen-huang/",
+      "published": "2026-02-25T00:00:00.000Z",
+      "author": "Amanda Gerut",
+      "highlights": " Nvidia smashes Q4 2026 with $68 billion in revenue, and a Q1 outlook that quashes AI bubble talk | Fortune ... # What AI bubble? Nvidia posts record $68 billion quarterly revenue and $78 billion forecast, as Jensen Huang cites ‘skyrocketing’ adoption of agents ... Once again, Nvidia CEO Jensen Huang had a simple response for investors who are worried that the AI spending race might be overblown."
+    },
+    {
       "title": "nvda-20260817",
       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000069/nvda-20260817.htm",
       "published": "N/A",
@@ -66,13 +73,6 @@
       "published": "N/A",
       "author": "N/A",
       "highlights": " NVIDIA Announces Financial Results for First Quarter Fiscal 2027 ... •Record revenue of $81.6 billion, up 85% from a year ago ... •Record Data Center revenue of $75.2 billion, up 92% from a year ago ... •NVIDIA announces $80.0 billion additional share repurchase ... and increases its quarterly cash dividend from $0.01 per share to $0.25 per ... SANTA CLARA, Calif.—May 20, 2026―NVIDIA (NASDAQ: NVDA) today reported record revenue for the first quarter ended April 26, 2026, of $81.6 billion, up 20% from the previous quarter and up 85% from a year ago. ... “The buildout of AI factories — the larg"
-    },
-    {
-      "title": "Nvidia smashes Q4 2026 with $68 billion in revenue, and a Q1 outlook that quashes AI bubble talk | Fortune",
-      "url": "https://fortune.com/2026/02/25/nvidia-nvda-earnings-q4-results-jensen-huang/",
-      "published": "2026-02-25T00:00:00.000Z",
-      "author": "Amanda Gerut",
-      "highlights": " Nvidia smashes Q4 2026 with $68 billion in revenue, and a Q1 outlook that quashes AI bubble talk | Fortune ... # What AI bubble? Nvidia posts record $68 billion quarterly revenue and $78 billion forecast, as Jensen Huang cites ‘skyrocketing’ adoption of agents ... Once again, Nvidia CEO Jensen Huang had a simple response for investors who are worried that the AI spending race might be overblown."
     }
   ]
 }
