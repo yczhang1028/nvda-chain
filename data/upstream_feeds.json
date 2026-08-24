@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T10:02:00",
+  "fetched_at": "2026-08-24T10:02:49",
   "feeds": {
     "nvidia_动向": {
       "label": "🔺 NVIDIA 上游动向",
@@ -7,10 +7,10 @@
       "count": 39,
       "items": [
         {
-          "title": "NVIDIA Vera Rubin Opens Agentic AI Frontier | NVIDIA Newsroom",
-          "url": "https://nvidianews.nvidia.com/news/nvidia-vera-rubin-platform",
+          "title": "NVIDIA Corporation - NVIDIA Vera Rubin Ramps Into Full Production to Power Agentic AI Factories Worldwide",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Vera-Rubin-Ramps-Into-Full-Production-to-Power-Agentic-AI-Factories-Worldwide/default.aspx",
           "published": "N/A",
-          "highlights": " - Vera Rubin NVL72 GPU racks - Vera CPU racks ... - NVIDIA Groq 3 LPX inference accelerator racks ... - NVIDIA BlueField-4 STX storage racks ... - NVIDIA Spectrum-6 SPX Ethernet racks ... GTC—NVIDIA today announced the NVIDIA Vera Rubin platform is opening the next frontier of agentic AI, with seven new chips now in full production to scale the world’s largest AI factories. ... The platform bring"
+          "highlights": " - NVIDIA Vera Rubin is ramping into full production, with Taiwan’s top server makers and global supply chain leaders manufacturing Vera Rubin-based systems at scale — fueling AI labs, cloud providers and hyperscalers to build tomorrow’s intelligence. ... TAIPEI, Taiwan, May 31, 2026 (GLOBE NEWSWIRE) -- NVIDIA GTC Taipei -- NVIDIA today announced the NVIDIA Vera Rubin platform is ramping into full"
         },
         {
           "title": "NVIDIA Unveils Vera, the CPU for Agents | NVIDIA Newsroom",
@@ -19,10 +19,22 @@
           "highlights": " - NVIDIA launches high-performance, energy-efficient NVIDIA Vera CPUs to drive diverse workloads across industries, including agentic AI, reinforcement learning and data processing. - Vera serves as the CPU powering standalone Vera servers, NVIDIA Vera Rubin systems and Vera BlueField-4 STX AI storage platforms. - Global AI labs planning to adopt Vera to transform their AI factories include Anthr"
         },
         {
+          "title": "NVIDIA Corporation - NVIDIA Unveils Vera, the CPU for Agents",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Unveils-Vera-the-CPU-for-Agents/default.aspx",
+          "published": "N/A",
+          "highlights": " - NVIDIA launches high-performance, energy-efficient NVIDIA Vera CPUs to drive diverse workloads across industries, including agentic AI, reinforcement learning and data processing. - Vera serves as the CPU powering standalone Vera servers, NVIDIA Vera Rubin systems and Vera BlueField-4 STX AI storage platforms. - Global ... adopt Vera to transform their AI factories include Anthropic, ... AI, an"
+        },
+        {
           "title": "Foundry Allocation & Lead Times — CoWoS, HBM, Leading-Edge Nodes (2026) | Silicon Analysts",
           "url": "https://siliconanalysts.com/data/allocation-lead-times",
           "published": "N/A",
-          "highlights": " CoWoS (S + ... CoWoS-L dominates new expansion (required for dual-die Blackwell/Rubin). NVIDIA holds >70% of CoWoS-L specifically. OSAT outsourcing: ~240-270K wafers/yr. Lead times >50 weeks for new orders. ... HBM4: Mass production started Feb 2026 at M16 Icheon + M15X Cheongju. Using TSMC 12nm for base die. ... NVIDIA HBM4 allocation: ~55% ... HBM4: World's first commercial HBM4 shipped Feb 12,"
+          "highlights": " CoWoS (S + L) ... Lead time: 52+ wks80K WPM ... CoWoS-L dominates new expansion (required for dual-die Blackwell/Rubin). NVIDIA holds >70% of CoWoS-L specifically. OSAT outsourcing: ~240-270K wafers/yr. Lead times >50 weeks for new orders. ... HBM4: Mass production started Feb 2026 at M16 Icheon + M15X Cheongju. Using TSMC 12nm for base die. ... NVIDIA HBM4 allocation: ~55% ... HBM4: World's firs"
+        },
+        {
+          "title": "NVIDIA Spotlight — AI GPU Supply Chain, HBM4, CoWoS, Vera Rubin ...",
+          "url": "https://semiconductorx.com/spotlight-nvidia.html",
+          "published": "N/A",
+          "highlights": " | Dimension | Current status | | --- | --- | | Market position | ~80% AI training accelerator market share; ~70% overall AI chip revenue; largest customer of TSMC (overtook Apple in 2025 at ~19% of TSMC revenue); largest customer of SK Hynix HBM; largest user of TSMC CoWoS advanced packaging capacity (~60% of 2026 CoWoS allocation) | ... (Blackwell ... GB20 ... ); Blackwell Ultra ... 5-6M Blackwe"
         },
         {
           "title": "H100 SXM5 −3.6% WoW; Samsung HBM4 qualified at NVIDIA | Silicon Analysts Weekly",
@@ -61,22 +73,16 @@
           "highlights": " CoWoS capacity is tracking toward 120,000–130,000 wafers/month by Q4 2026, roughly doubling from end-2025 levels — yet packaging, not wafer supply, remains the binding constraint on AI accelerator output. Simultaneously, all three memory vendors are now HBM4-qualified for Vera Rubin, but SK Hynix's 60% market share means allocation leverage stays concentrated. Bernstein's note that HBM prices wou"
         },
         {
-          "title": "TSMC CoWoS Capacity 2026: Sold Out, 2nm Booked",
+          "title": "TSMC CoWoS Capacity 2026: Sold Out, 2nm Booked - Silicon Analysts",
           "url": "https://siliconanalysts.com/analysis/foundry-allocation-status-q1-2026",
           "published": "2026-06-16T00:00:00.000Z",
           "highlights": " Advanced-packaging allocation, not wafer starts, is the binding constraint on AI hardware in 2026. TSMC's CoWoS lines — both CoWoS-S and CoWoS-L — are fully booked, against total 2026 demand estimated near 1.0 million wafers (up from ~370k in 2024). NVIDIA alone is estimated to hold roughly 60% (~595k wafers) and has reportedly booked more than half of TSMC's 2026–2027 CoWoS expansion; the top th"
         },
         {
-          "title": "GTC Taipei 2026 Keynote with Jensen Huang STW61044 - NVIDIA",
-          "url": "https://www.nvidia.com/en-us/on-demand/session/gtctaipei26-stw61044/",
-          "published": "2026-06-06T00:00:00.000Z",
-          "highlights": " GTC Taipei 2026 Keynote with Jensen Huang STW61044 | GTC Taipei 2026 | NVIDIA On-Demand ... GTC Taipei 2026 Keynote with Jensen Huang STW61044 | GTC Taipei 2026 | NVIDIA On-Demand"
-        },
-        {
           "title": "Nvidia says Vera Rubin platform enters full production",
           "url": "https://datacenter.news/story/nvidia-says-vera-rubin-platform-enters-full-production",
           "published": "2026-06-03T00:00:00.000Z",
-          "highlights": " Nvidia says Vera Rubin platform enters full production ... # Nvidia says Vera Rubin platform enters full production ... Tue, 2nd Jun 202 ... Chief Executive Officer Jensen Huang used Nvidia's GTC Taipei keynote to announce that the company's Vera Rubin platform is moving into full production. ... Rubin production ... Vera Rubin is now ramping into full production through a supply chain that spans"
+          "highlights": " Nvidia says Vera Rubin platform enters full production ... # Nvidia says Vera Rubin platform enters full production ... , 2 ... Chief Executive Officer Jensen Huang used Nvidia's GTC Taipei keynote to announce that the company's Vera Rubin platform is moving into full production. ... Rubin production ... Vera Rubin is now ramping into full production through a supply chain that spans hundreds of "
         },
         {
           "title": "Nvidia Vera Rubin Enters Full Production: Samsung, SK Hynix, Micron Named HBM4 Suppliers",
@@ -89,12 +95,6 @@
           "url": "https://en.sedaily.com/finance/2026/06/02/jensen-huang-engulfs-taiwans-chip-industry-we-are-taiwans",
           "published": "2026-06-02T00:00:00.000Z",
           "highlights": " Jensen Huang Eng ... We Are Taiwan' ... Nvidia is sinking its roots deep into Taiwan's industrial landscape, expanding its artificial intelligence partnership beyond flagship chipmaker TSMC to include fabless designer MediaTek. With the company's core AI product lineup — from data-center AI chips and racks to AI PCs that have reinvented the 40-year-old Windows PC — increasingly produced around Ta"
-        },
-        {
-          "title": "Jensen Huang GTC Taipei Speech Full Recap: Vera Rubin Enters Full Mass Production, RTX Spark Redefines Laptops, Cosmos 3 Targets Physics AI - King of Computer Media",
-          "url": "https://en.kocpc.com.tw/archives/3135",
-          "published": "2026-06-01T00:00:00.000Z",
-          "highlights": " On June 1, 2026, NVIDIA Founder and CEO Jensen Huang took the GTC Taipei stage at the Taipei Music Center, opening his nearly 2-hour-20-minute keynote with “It’s so good to be home.” This COMPUTEX 2026 preview covered the complete AI roadmap from data centers to personal computers, from digital agents to autonomous vehicles. Here are all the key highlights from the speech. ... Jensen Huang opened"
         }
       ]
     },
@@ -104,10 +104,10 @@
       "count": 40,
       "items": [
         {
-          "title": "昇腾910系列全年出货量下调 - 逆天资讯_逆天PCB论坛_电子工程师的网络家园",
-          "url": "https://bbs.ntpcb.com/thread-226882-1-11.html",
+          "title": "华为昇腾910D处理器发布 瞄准英伟达Blackwell与Rubin架构 - 数码前沿 数码之家",
+          "url": "https://www.mydigit.cn/thread-517862-1-1.html",
           "published": "N/A",
-          "highlights": " # [业界/制造] 昇腾910系列全年出货量下调 ... 随着美国针对GPU的限制越来越多，大家对国产GPU尤其是华为昇腾系列GPU的表现和出货量都非常关心，前段时间老黄还说华为芯片性能已超H200，华为的CloudMatrix云架构也已经超英伟达。当然老黄这么说肯定是有夸张的成分，他一直对美国政府出台的这些限制政策很不爽，既让英伟达损失了很多中国的大客户，又让国产GPU在这段时间取得了突飞猛进的发展。 ... 由于华为从未对外公布过昇腾系列的出货量，因此我们只能参考第三方的调研，本文中关于昇腾910系列出货量的数据，是参考自本营最近的一份调研纪要。 ... 昇腾910系列的最新情况 ... 根据最新的市场调研报告，我们了解到截至6月初，昇腾910B和910C的整体出货情况呈现出不同的趋势。910B型号自年初以来一直保持稳定出货，累计出货量达到了约16万张。相比之下，910C虽然性能更优"
+          "highlights": " 华为昇腾910D处理器发布 瞄准英伟达Blackwell与Rubin架构 - 数码前沿 数码之家 ... 腾910D ... 准英伟达Blackwell ... | 近日外媒报道称，华为新一代昇腾910D人工智能处理器已完成初期研发，目标在单芯片性能上超越英伟达H100，并通过集群化部署对标英伟达新一代Blackwell和Rubin架构产品。这款专为AI训练设计的国产芯片预计将于5月下旬交付首轮测试样品，首批合作伙伴包含多家国内科技企业。 据公开数据显示，昇腾910D较前代910C将有重大革新。当前量产的910C双模块组合提供780BF16 TFLOPS算力，而英伟达H100的BF16性能可达2000 TFLOPS。为实现同等算力水平，华为需重新设计芯片架构并增加计算单元密度。技术人士指出，昇腾910D若采用多芯堆叠方案，或能通过规模化部署弥补单芯性能差距。 供应链信息显示，即将于下月批"
         },
         {
           "title": "寒武纪再创新高，否认向互联网厂商大量供货",
@@ -122,16 +122,28 @@
           "highlights": " 8. 思元690量产有望成为新核心引擎，下一代产品重点优化LLM/多模态/垂类模型训推能力2026年初，公司新一代旗舰云端AI芯片思元690实现量产。 9. 该芯片采用双die封装设计，FP16算力超过700TFLOPS，配备196GBHBM3高带宽内测存互，连实带宽超890Gbps。 10. 相比上一代思元590FP16算力约345TFLOPS和96GBHBM2e显存，性能实现显著提升。 ... 11. 2025年，公司智能芯片及板卡产量达12.77万卡，销量达11.74万卡，同比分别增长409.84%和201.57%，随着思元690量产交付，我们认为其有望成为公司2026年重要增长引擎。 ... 12. 对于下一代产品，其将在微架构和指令集上进一步升级，重点面向LLM、视频图像生成大模型以及垂直类大模型的训练与推理场景；继续提升产品性能、功耗以及面积。 ... 13. 与此同时，在产"
         },
         {
+          "title": "国海证券-寒武纪-688256-2026年一季报点评：单季营收归母净利创新高，思元690量产有望成为新核心引擎-公司调研-慧博（hibor.net）",
+          "url": "http://www.hibor.net/data/2aa7bdb1dea5803ec1399794fc84dd56.html",
+          "published": "N/A",
+          "highlights": " 事件: 20 ... 2 ... 。业绩亮眼主要受益于推理算力需求的 ... 产品保持的市场 ... 优势。2026Q1综合毛利率54.33%，同比微降1.66pct，整体保持稳定；期间费用管控良好，销售/管理/研发费用分别为0.13、0.36、3.24亿元，同比-12.12%、-16.56%、+18.88%，其中研发费率由上年同期24.53%降至11.23%，收入规模化优势显现。 受益于此，公司盈利表现创下单季新高，实现归母净利润10.13亿元、归母扣非净利润9.34亿元，同比分别增长185.04%和238.56%；净利率达35.12%，较2025年全年提升3.44pct。同时公司对未来增长信心充足，并积极进行业务备货：截至一季度末，存货达44.97亿元，同比增长63.21%；预付款项18.97亿元，同比增长94.85%，均为后续业务开展奠定了坚实基础。 思元690量产有望成为新核心引"
+        },
+        {
+          "title": "寒武纪(688256)：单季营收/归母净利创新高 思元690量产有望成为新核心引擎__新浪财经_新浪网",
+          "url": "https://stock.finance.sina.com.cn/stock/go.php/vReport_Show/kind/search/rptid/831133396021/index.phtml",
+          "published": "N/A",
+          "highlights": " 寒武纪(688256)：单季营收/归母净利创新高 思元690量产有望成为新核心引擎__新浪财经_新浪网 ... # 寒武纪(688256)：单季营收/归母净利创新高 思元690量产有望成为新核心引擎 ... 类别：公司 机构：国海证券股份有限公司研究员：刘熹日期：2026-05-03 ... 2026 年4 月29 日，寒武纪发布2026 年一季报： 2026 年一季度营收28.85 亿元，同比+159.56%；归母净利润10.13 亿元，同比增长185.04%；归母扣非净利润9.34 亿元，同比增长238.56%。 投资要点: 单季度营收/归母净利创新高，存货/预付账款保持高位2026 年第一季度，公司实现营收28.85 亿元，同比增长159.56%，单季营收规模已接近上年全年五成。业绩亮眼主要受益于推理算力需求的持续攀升及公司产品保持的市场领先优势。2026Q1 综合毛利率54.33"
+        },
+        {
           "title": "电子行业深度报告",
           "url": "https://pdf.dfcfw.com/pdf/H3_AP202604141821177994_1.pdf",
           "published": "N/A",
           "highlights": " [Table_Tag][Table_Summary] 投资要点 ◼ 海光&曙光：超节点算力与芯片设计的战略协同。中科曙光与海光信息 保持上市公司独立性的同时深化战略协同，形成“芯片设计+系统集成” 完整技术链条。海光 DCU 为曙光超节点提供自主可控算力核心，其芯 片级互联技术 HSL 与曙光 scaleFabric 高速网络实现全栈互联协同，推 动国产智算平台迈向系统领先。（1）中科曙光：以超级计算起家，30 年 技术沉淀成为核心信息基础设施领军企业。24 年 IT 设备、软件开发及 系统集成业务分别营收 117 亿元、14 亿元，在超节点领域完成 Scale Up、 Scale Out 技术突破并破解部署难题，具备算存网电冷一体化核心能 力；（2）海光信息：国产高端处理器龙头，CPU+DCU 双轮驱动。2022 年上市后主营业务持续放量，CPU 兼容 x86 并迭代至五号，DCU 深"
         },
         {
-          "title": "海光双芯“亮剑”：发布“内生安全”技术，冲刺万亿参数大模型训练",
-          "url": "https://www.eepw.com.cn/article/202604/480171.htm",
+          "title": "镇馆之宝：我国首个全国产 10 万卡 AI 超集群“曙光 8000（登峰）”亮相 WAIC 2026 - IT之家",
+          "url": "https://www.ithome.com/0/978/037.htm",
           "published": "N/A",
-          "highlights": " 4月2日，在海光信息2026年春季技术沟通会上，海光信息正式公开基于“内生安全”理念的一大批新技术、新成果，并首发海光 DCU软件栈年度版本，为业界清晰地描绘出海光双芯产品（CPU、DCU）推动国产万亿大模型研发、加速各行各业拥抱“词元经济”的发展蓝图。 ... 近年来，随着大模型训推需求激增，算力成为AI时代核心生产力，客户对AI基础设施也提出更严苛的安全要求。尤其在多租户云环境与异构计算架构中，数据流动打破了物理边界，供应链后门、模型投毒、算力劫持及数据泄露等新型攻击手段已构成严重威胁。 ... 基于在硬件架构层的自主创新迭代，海光CPU与DCU通过自主拓展安全算法指令、安全处理器内置等形式，原生支持密码技术、机密计算、可信计算、漏洞防御等多维防护，更高效构筑AI安全壁垒。 ... AI软件栈年度更新：为万亿大模型而生 ... 依托海光DCU通用架构与全精度优势，DTK 26.04（"
+          "highlights": " # 镇馆之宝：我国首个全国产 10 万卡 AI 超集群“曙光 8000（登峰）”亮相 WAIC 2026 ... IT之家 7 月 17 日消息，2026 世界人工智能大会（WAIC 2026）今天在上海拉开帷幕，由中科曙光打造的中国首个全国产 10 万卡 AI 超集群“曙光 8000（登峰）”也在大会中真机亮相，并入选大会“镇馆之宝”。 ... 作为参考，曙光 8000（登峰）采用“超智融合”技术路线，面向高精度科学计算与低精度智能计算的复合需求，支持 FP64 到 INT8 全精度，可覆盖科学计算、大模型训练、AI 推理、工业仿真等场景。 ... 规格方面，曙光 8000（登峰）由海光等国产芯片提供底层支撑，scaleFabric 类 IB 原生 RDMA 高速网络用于实现 10 万卡集群连接，ParaStor 分布式存储用于支撑大模型训练和科学计算中的海量数据读写。可应用于量子、天"
         },
         {
           "title": "一对国产“算力搭子”的2025年_财富号_东方财富网",
@@ -140,10 +152,10 @@
           "highlights": " 在国产AI算力产业链上，海光信息（688041.SH）和中科曙光（603019.SH）的绑定程度可能超出多数人的想象。 ... 截至2025年底，中科曙光是海光信息的第一大股东，持股27.96%；中科曙光也是海光信息最大的关联方——海光信息年报显示，其第一大客户为关联方，2025年全年对其销售额为81.49亿元，占海光信息营业收入的56.68%。 ... 4月14日，中科曙光发布了2025年年报：全年营收149.64亿元，同比增长13.81%。此前的4月7日，海光信息也发布了2025年年报：全年营收143.77亿元，同比增长56.92%。也就是说，两者营收规模接近，营收增速却相差四倍。 ... 光持有海光 ... 96%的股份 ... 2025年，这家公司营收143.77亿元，同比增长56.92%；实现归母净利润25.45亿元，同比增长31.79%；扣非净利润23.05亿元，同比增长26"
         },
         {
-          "title": "中国国内首个国产千卡级工科智算集群正式在沪启动-中新网",
-          "url": "https://www.chinanews.com.cn/cj/2026/06-26/10647744.shtml",
+          "title": "海光双芯“亮剑”：发布“内生安全”技术，冲刺万亿参数大模型训练",
+          "url": "https://www.eepw.com.cn/article/202604/480171.htm",
           "published": "N/A",
-          "highlights": " 启动 2026年06月26日 14:23 来源：中国新闻网 中新网上海6月26日电 (记者 李佳佳)海光信息与同济大学25日正式签署战略合作协议，挂牌成立全国首个“高校海光算力优化中心”，共建国内首个国产千卡工科智算集群。 这是国产算力首次以工程专用形态服务高校教育教研，标志着AI基础设施从科学智能向工程智能的关键延伸。 近年来，AI for Science在国内高校已形成较为成熟的算力支撑体系，但面向工程设计、工业研发、智能建造等场景的AI for Engineering方向，专属算力基础设施长期缺位。工科院系大多依托通用平台开展研究，AI技术难以深入工科教研一线。与此同时，工程智能对算力有着更为复合的要求——既要承载大模型训练推理，又要满足高精度工程仿真，还需兼容工程师日常使用的主流软件工具。 此次千卡工科智算集群，正是对这一缺口的直接回应。 ... 6月25日， ... 信息与同济"
+          "highlights": " 4月2日，在海光信息2026年春季技术沟通会上，海光信息正式公开基于“内生安全”理念的一大批新技术、新成果，并首发海光 DCU软件栈年度版本，为业界清晰地描绘出海光双芯产品（CPU、DCU）推动国产万亿大模型研发、加速各行各业拥抱“词元经济”的发展蓝图。 ... 近年来，随着大模型训推需求激增，算力成为AI时代核心生产力，客户对AI基础设施也提出更严苛的安全要求。尤其在多租户云环境与异构计算架构中，数据流动打破了物理边界，供应链后门、模型投毒、算力劫持及数据泄露等新型攻击手段已构成严重威胁。 ... 基于在硬件架构层的自主创新迭代，海光CPU与DCU通过自主拓展安全算法指令、安全处理器内置等形式，原生支持密码技术、机密计算、可信计算、漏洞防御等多维防护，更高效构筑AI安全壁垒。 ... AI软件栈年度更新：为万亿大模型而生 ... 依托海光DCU通用架构与全精度优势，DTK 26.04（"
         },
         {
           "title": "国产算力的黄金时代，未来增长曲线要看它？",
@@ -176,22 +188,10 @@
           "highlights": " 国产GPU已结束信创替补时代，进入产能、客户双重淘汰赛，仅两到三家玩家或能同时穿透产能分配、互联网准入两层漏斗，成为核心玩家。 ## **1. 国产GPU竞争第一道筛选为产能配额** AI芯片主力产品需7纳米制程，目前国内仅中芯国际能量产，2026年底折算后AI芯片年产能约260万颗，对应需求约420万颗，产能缺口较大。华为占据约43%产能，寒武纪占9%-11%，剩余产能由十余家厂商争夺，拿不到产能即失去参赛资格。 ## **2. 互联网市场是国产GPU核心增长引擎** 信创市场可提供早期收入，但天花板低、项目定制化强；互联网市场占2025年中国AI加速卡市场规模的53%，且采购规模化、复购确定性强，但准入测试周期长达两年以上，标准严苛。 ## **3. 寒武纪完成从信创替补到大厂主力的跨越** 寒武纪拿到中芯约11%产能，通过大额存货和预付款锁定供应链，已成为字节跳动核心供应商，实现从"
         },
         {
-          "title": "摩尔线程：2026上半年营收17.36亿元，已超2025全年_新浪财经_新浪网",
-          "url": "https://finance.sina.com.cn/tob/2026-08-09/doc-inimtchp3465077.shtml",
-          "published": "2026-08-09T00:00:00.000Z",
-          "highlights": " 2026年08 ... 16:11 新浪财经 8月9日，国产GPU龙头摩尔线程（688795.SH）发布《2026年半年度报告》。 2026年上半年，公司实现营收17.36亿元，同比大幅增长147.42%，已超2025年全年营收；毛利总额达9.89亿元，同比增长103.78%；盈利能力显著改善，归母净利润、归母扣非净利润分别较上年同期亏损收窄95.73%、52.37%，商业化全面提速。 强劲业绩的背后，是摩尔线程持续高强度研发投入构筑的技术底座。报告显示，公司2026上半年研发投入达7.69亿元，同比增长38.16%。 2022年以来，公司累计研发投入近59亿元。截至2026年6月30日，公司累计申请专利2167项，其中发明专利申请2049项；累计获得授权专利788项，其中发明专利725项，稳居国产GPU企业前列。 ... 在高强度研发投入与深厚专利壁垒的坚实支撑下，公司业绩延续高增态势"
-        },
-        {
-          "title": "首个全国产10万卡人工智能超集群正式投用 “超级大脑”运转起来-新华网",
-          "url": "http://www.news.cn/liangzi/20260727/3d82d981673c47cf8101d92399810bb3/c.html",
-          "published": "2026-07-27T00:00:00.000Z",
-          "highlights": " 在2026世界人工智能大会暨人工智能全球治理高级别会议上，全国产10万卡人工智能超集群曙光8000进行展示。龙巍 摄（影像中国） ... 近日，我国首个全国产10万卡人工智能超集群——曙光8000正式落成投用，并同步接入国家超算互联网郑州核心节点。这标志着我国算力基础设施建设正式迈入10万卡级部署阶段。曙光8000投用首周已实现满载运行，日均处理作业数突破15万个，单日处理作业峰值超过50万个，已完成多项超智融合应用适配，覆盖大模型训练、高通量推理、科学计算等多个应用场景。 ... 在近日举行的2026世界人工智能大会暨人工智能全球治理高级别会议上，曙光8000被列入本届大会十大“镇馆之宝”。这台“超级大脑”如何炼成？它将在哪些领域发挥作用？记者进行了采访。 ... 超算和智算都是处理海量数据、支撑前沿科技的算力基础设施。超算主要立足科学研究，定位于大科学、大工程的问题求解，追求计算精度"
-        },
-        {
-          "title": "摩尔线程：以全功能GPU为锚 为“万物智能”构建国产算力基座_新浪财经_新浪网",
-          "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-22/doc-iniirmys4753703.shtml",
-          "published": "2026-07-21T00:00:00.000Z",
-          "highlights": " 2025年12月5日，摩尔线程以114.28元/股的发行价登陆科创板，成为“国产GPU第一股”。彼时，市场对这家成立仅五年的芯片“新贵”能否在高研发投入的同时兑现商业化预期存有观望情绪。但短短半年后，数据给出了答案：2026年第一季度，摩尔线程实现营收7.38亿元，同比增长155.35%，实现归母净利润2935.92万元，同比扭亏为盈；2026年上半年，公司预计实现营收16.5亿元至17.5亿元，同比增长135%至149%。截至7月20日，公司总市值已突破3000亿元。 ... 业绩的高增长印证了算力需求的真实爆发，也标志着摩尔线程从技术投入期迈入商业回报期。在2026世界人工智能大会上，摩尔线程创始人、董事长兼CEO张建中首次系统阐释了公司的全栈式战略布局——从全功能GPU，到超节点集群，再到三大“AI工厂”、两个AI原生终端以及一个MUSA生态。正是凭借全场景通用优势，国产算力一步步"
+          "title": "WAIC 2026｜摩尔线程展示 MTT C256 超节点 首创一层Scale-up网络256卡全互联 – 前沿在线FrontiersOnline",
+          "url": "http://www.frontiersonline.com/2026/08/07/frontiers-insights/frontiers/8842/20260807006/",
+          "published": "2026-08-07T00:00:00.000Z",
+          "highlights": " 7月17日，2026 世界人工智能大会（WAIC）在上海拉开帷幕。作为国内领先的全功能GPU企业，摩尔线程以“词元时代 万物智能”为主题参展，系统展示了“模型训练工厂、词元生产工厂、智能体生产工厂”三大AI工厂。在本次大会上，摩尔线程首次公开展示了其创新的MTT C256超节点，为万卡乃至十万卡级智算中心提供了全新的系统架构与算力底座。 ... 在智算中心向超大规模演进的过程中，传统的网络架构面临着多层网络带来的带宽损耗与高延迟痛点。为此，摩尔线程推出了MTT C256超节点，用创新架构首创了一层Scale-up网络，旨在将256张GPU有效聚合为一台数据中心级超级计算机。 ... - 极致互联：突破业界普遍的一层网络64卡限制，MTT C256首次在一层Scale-up 网络中实现256卡全互联。这使得卡间通信延迟被压缩至亚微秒级，带宽利用率显著提升，为大模型分布式并行策略的优化提供了"
         }
       ]
     }
