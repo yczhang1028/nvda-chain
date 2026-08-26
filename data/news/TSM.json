@@ -1,16 +1,9 @@
 {
   "ticker": "TSM",
   "name": "台积电 ADR",
-  "fetched_at": "2026-08-25T10:01:33",
+  "fetched_at": "2026-08-26T10:01:36",
   "count": 10,
   "items": [
-    {
-      "title": "TSMC 2026 Q2 Quarterly Results - Taiwan Semiconductor Manufacturing Company Limited",
-      "url": "https://investor.tsmc.com/english/quarterly-results/2026/q2",
-      "published": "N/A",
-      "author": "N/A",
-      "highlights": " TSMC 2026 Q2 Quarterly Results - Taiwan Semiconductor Manufacturing Company Limited ... | | | 2Q26 | | 3Q26 | | --- | --- | --- | --- | --- | | | | Actual | Guidance | Guidance | | Net Revenue(US$ billion) | 40.20 | 39.0-40.2 | 44.6-45.8 | | Exchange Rate(USD/NTD) | 31.60 | 31.7 | 32.0 | | Gross Margin | 67.7% | 65.5%-67.5% | 65.0%-67.0% | | Operating Margin | 60.3% | 56.5%-58.5% | 56.0%-58.0% |"
-    },
     {
       "title": "TSMC Reports Second Quarter",
       "url": "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-07/a80d7933be643644081584087731f73b22ea5a2c/2Q26%20EarningsRelease.pdf",
@@ -26,18 +19,25 @@
       "highlights": " TSMC Reports Second Quarter EPS of NT$27.25 ... HSINCHU, Taiwan, R.O.C., Jul. 16, 2026 -- TSMC (TWSE: 2330, NYSE: TSM) today announced consolidated revenue of NT$1,270.38 billion, net income of NT$706.56 billion, and diluted earnings per share of NT$27.25 (US$4.31 per ADR unit) for the second quarter ended June 30, 2026. ... Year-over-year, second quarter revenue increased 36.0%, while net income and diluted EPS both increased 77.4%. Compared to first quarter 2026, second quarter results represented a 12.0% increase in revenue and a 23.4% increase in net income. All figures were prepared in a"
     },
     {
-      "title": "TSMC Reports Second Quarter EPS of NT$27.25",
-      "url": "https://pr.tsmc.com/english/news/3326",
+      "title": "Q2 2026 Taiwan Semiconductor Manufacturing Co Ltd Earnings Call (Chinese, English) on July 16, 2026 / 6:00AM",
+      "url": "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-07/547d1696765e05ce3adb81c108ce1c8c1682b80c/TSMC%202Q26%20Transcript.pdf",
       "published": "N/A",
-      "author": "N/A",
+      "author": "Refinitiv StreetEvents",
+      "highlights": " At TSMC, a higher level of capital expenditures is always correlated to higher growth opportunities in following years. With ourstrong technology leadership and differentiation, we are well positioned to capture the multi-year structural demand from theindustry megatrends of 5G, AI, and HPC. Given the continued strong structural demand from our customers, including the newly emerging agentic AI market, we havedecided to raise our full-year 2026 capital budget to be between USD60 billion and USD64 billion as we continue to invest heavilyto support our customers' growth. ... Having said that, A"
+    },
+    {
+      "title": "TSMC Reports Second Quarter EPS of NT$27.25",
+      "url": "https://pr.tsmc.com/system/files/newspdf/attachment/e98d0838eea3c47083fb67dbc349c059d8457c25/2Q26%20%28E%29_with%20gudiance_final_wmn.pdf",
+      "published": "N/A",
+      "author": "pdkramer",
       "highlights": " HSINCHU, Taiwan, R.O.C., Jul. 16, 2026 -- TSMC (TWSE: 2330, NYSE: TSM) today announced consolidated revenue of NT$1,270.38 billion, net income of NT$706.56 billion, and diluted earnings per share of NT$27.25 (US$4.31 per ADR unit) for the second quarter ended June 30, 2026. ... Year-over-year, second quarter revenue increased 36.0%, while net income and diluted EPS both increased 77.4%. Compared to first quarter 2026, second quarter results represented a 12.0% increase in revenue and a 23.4% increase in net income. All figures were prepared in accordance with TIFRS on a consolidated basis. .."
     },
     {
-      "title": "Nvidia, TSMC, chip gear makers ride AI boom into high-margin club",
-      "url": "https://www.digitimes.com/news/a20260820PD209/gross-margin-nvidia-tsmc-demand-profit.html",
-      "published": "2026-08-20T00:00:00.000Z",
-      "author": "Monica Chen",
-      "highlights": " Nvidia, TSMC, chip gear makers ride AI boom into high-margin club ... # Nvidia, TSMC, chip gear makers ride AI boom into high-margin club ... Strong AI demand is driving a wave of high profitability across the semiconductor supply chain, with equipment and materials suppliers increasingly joining a \"high-margin club.\" Trailing only Nvidia's 75% gross margin in the fiscal first quarter of 2027... ... - OCP APAC 2026: TSMC tackles ... S material risks ... cutting 3DIC ... - Interview: Nvidia exec on progress of CPO production and pluggable optics"
+      "title": "FOR IMMEDIATE RELEASE",
+      "url": "https://investor.tsmc.com/chinese/encrypt/files/encrypt_file/reports/2026-07/6f49632674bd2d0fd48cb65aaf89ec6ab510b559/2Q26%20ManagementReport.pdf",
+      "published": "N/A",
+      "author": "N/A",
+      "highlights": " • Revenue Analysis • Profit & Expense Analysis • Financial Condition Review • Cash Flow • CapEx • Recap of Recent Important Events & Announcements Financial Highlights: Second Quarter 2026 l Net revenue was NT$1,270.38 billion, representing a 12.0% increase from NT$1,134.10 billion in 1Q26 and a 36.0% increase from NT$933.79 billion in 2Q25. l Gross margin was 67.7%, 1.5 percentage points higher than 1Q26 and 9.1 percentage points higher than 2Q25. l Operating margin was 60.3%, up 2.2 percentage points from 1Q26 and up 10.7 percentage points from 2Q25. l Non-operating items were a gain of NT$"
     },
     {
       "title": "Document",
@@ -47,32 +47,32 @@
       "highlights": " HSINCHU, Taiwan, R.O.C., Aug. 11, 2026 – The TSMC (TWSE: 2330, NYSE: TSM) Board of Directors today held a meeting, which passed the following resolutions: ... 1.Approved the 2026 second quarter Business Report and Financial Statements. Second quarter consolidated revenue was NT$1,270.38 billion and net income was NT$706.56 billion, with diluted earnings per share of NT$27.25. ... 3.To meet long-term capacity plans based on market demand forecasts and TSMC’s technology development roadmap, the Board approved capital appropriations of approximately US$29,442.50 million for purposes mainly inclu"
     },
     {
-      "title": "2026 Second Quarter Earnings Conference",
-      "url": "https://investor.tsmc.com/schinese/encrypt/files/encrypt_file/reports/2026-07/72ec92e3257f3c27ddab7267c3b171f66194aab3/2Q26%20Presentation%20%28E%29.pdf",
+      "title": "a2q26presentatione",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000451/a2q26presentatione.htm",
       "published": "N/A",
       "author": "N/A",
-      "highlights": " ## 2026 Second Quarter Earnings Conference ... July 16, 2026 ... ##### • Welcome Jeff Su, IR Director • 2Q26 Financial Results and 3Q26 Outlook Wendell Huang, CFO • Key Messages Wendell Huang, CFO ... | Selected Items from Statements of Comprehensive Income | | | --- | --- | | | | | (In NT$ billions unless otherwise noted) | 2Q26 Guidance 2Q25 | | | | | Net Revenue (US$ billions) | 40.20 39.0-40.2 35.90 30.07 +12.0% +33.7% | | Net Revenue | 1,270.38 1,134.10 933.79 +12.0% +36.0% | | Gross Margin | 67.7% 65.5%-67.5% 66.2% 58.6% +1.5 ppts +9.1 ppts | | Operating Expenses | (98.98) (94.01) (84.5"
+      "highlights": " Unleash Innovation © 12026 TSMC, Ltd TSMC Property Unleash Innovation 2026 Second Quarter Earnings Conference July 16, 2026 ... Unleash Innovation © 22026 TSMC, Ltd TSMC Property Agenda • Welcome Jeff Su, IR Director • 2Q26 Financial Results and 3Q26 Outlook Wendell Huang, CFO • Key Messages Wendell Huang, CFO C.C. Wei, Chairman & CEO • Q&A ... Unleash Innovation © 42026 TSMC, Ltd TSMC Property Statements of Comprehensive Income Selected Items from Statements of Comprehensive Income 2Q26 2Q26 1Q26 2Q25 2Q26 Over 1Q26 2Q26 Over 2Q25(In NT$ billions unless otherwise noted) Guidance Net Revenue "
     },
     {
-      "title": "Document",
-      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000541/tsm-fsx20260814x6k.htm",
+      "title": "Prediction: TSMC Stock Will Soar After Aug. 26 Thanks to Nvidia’s Historic Quarter | The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/25/prediction-tsmc-stock-will-soar-after-aug-26-thanks-to-nvidia-s-historic-quarter/",
+      "published": "2026-08-25T07:23:01.000Z",
+      "author": "Harsh Chauhan",
+      "highlights": " Taiwan Semiconductor Manufacturing (TSM-2.11%) has clocked respectable gains of 35% on the stock market in 2026 so far. However, the foundry giant's returns pale in comparison to the 61% spike in the PHLX Semiconductor Sector index this year. ... Popularly known as TSMC, the Taiwan-based foundry and semiconductor packaging specialist is one of the world's most important companies. It manufactures chips for tech giants such as Nvidia (NVDA-2.91%), Qualcomm, Apple, Advanced Micro Devices, Sony, and many others. Importantly, TSMC has been growing at a robust pace this year, clocking a 37% increa"
+    },
+    {
+      "title": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2026 | NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2026",
       "published": "N/A",
       "author": "N/A",
-      "highlights": " Taiwan Semiconductor Manufacturing Company Limited ... | | Taiwan Semiconductor Manufacturing Company Limited | | | --- | --- | --- | | Date: August 14, 2026 | By | /s/ Wendell Huang | | | | Wendell Huang | | | | Senior Vice President and Chief Financial Officer | ... | Exhibit Number | Exhibit Description | | --- | --- | | 99.1 | Consolidated Financial Statements for the S ix Months Ended June 3 0, 2026 and 2025 and Independent Auditors’ Review Report pursuant to International Financial Reporting Standards adopted by ROC (\"Taiwan-IFRSs\") |"
+      "highlights": " - Revenue of $46.7 billion, up 6% from Q1 and up 56% from a year ago - Data Center revenue of $41.1 billion, up 5% from Q1 and up 56% from a year ago - Blackwell Data Center revenue grew 17% sequentially ... NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 27, 2025, of $46.7 billion, up 6% from the previous quarter and up 56% from a year ago. NVIDIA’s Blackwell Data Center revenue grew 17% sequentially. ... , delivering an exceptional ... leap — production of Blackwell ... full speed, and demand is extraordinary,” ... NVIDIA. “NVIDIA NVLink rack-scale computing i"
     },
     {
-      "title": "Nvidia: The TSMC Earnings Release Was A Warning Shot",
-      "url": "https://seekingalpha.com/article/4922631-nvidia-the-tsmc-earnings-release-was-a-warning-shot",
-      "published": "2026-07-16T00:00:00.000Z",
-      "author": "N/A",
-      "highlights": " Nvidia: The TSMC Earnings Release Was A Warning Shot (NASDAQ:NVDA) | Seeking Alpha ... - TSMC's Q2 earnings outperformance and significant capex raise reinforce the durability of robust AI and HPC demand critical to Nvidia's outlook. ... - The accelerating N3 ramp and higher HPC mix provide tangible support for timely Vera Rubin deployments later this year, while also improving Nvidia's supply availability. ... - Expanding advanced-node capacity from TSMC should also improve visibility into Nvidia's ability to convert accelerating agentic AI demand into sustained data center revenue growth. ."
-    },
-    {
-      "title": "FOR IMMEDIATE RELEASE",
-      "url": "https://investor.tsmc.com/schinese/encrypt/files/encrypt_file/reports/2026-07/6f49632674bd2d0fd48cb65aaf89ec6ab510b559/2Q26%20ManagementReport.pdf",
-      "published": "N/A",
-      "author": "N/A",
-      "highlights": " • Revenue Analysis • Profit & Expense Analysis • Financial Condition Review • Cash Flow • CapEx • Recap of Recent Important Events & Announcements Financial Highlights: Second Quarter 2026 l Net revenue was NT$1,270.38 billion, representing a 12.0% increase from NT$1,134.10 billion in 1Q26 and a 36.0% increase from NT$933.79 billion in 2Q25. l Gross margin was 67.7%, 1.5 percentage points higher than 1Q26 and 9.1 percentage points higher than 2Q25. l Operating margin was 60.3%, up 2.2 percentage points from 1Q26 and up 10.7 percentage points from 2Q25. l Non-operating items were a gain of NT$"
+      "title": "Nvidia vs TSM-Earnings Reveal AI Hardware Power Split",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-tsm-earnings-reveal-134322690.html",
+      "published": "2026-04-29T00:00:00.000Z",
+      "author": "Vandita Jadeja      April 29, 2026   4 min read",
+      "highlights": " Nvidia (NVDA) posted 73.21% revenue growth with Data Center segment at $62.31B and networking surging 263% year-over-year, while Taiwan Semiconductor Manufacturing (TSM) grew 35.1% with 3nm wafers representing 25% of revenue and HPC platforms driving 61% of platform revenue. Nvidia carries $95.2B in supply commitments, primarily flowing to TSMC. ... Nvidia dominates chip design and software stack economics as hyperscalers deploy Blackwell and prepare for Rubin instances, while TSMC captures foundry value through advanced node capacity at 74% of wafer revenue and 58.1% operating margins, makin"
     }
   ]
 }
