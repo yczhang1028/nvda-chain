@@ -1,7 +1,78 @@
 {
   "ticker": "NVDA",
   "name": "NVIDIA",
-  "fetched_at": "2026-09-04T10:00:19",
-  "count": 0,
-  "items": []
+  "fetched_at": "2026-09-07T10:00:34",
+  "count": 10,
+  "items": [
+    {
+      "title": "NVIDIA Corporation - NVIDIA Announces Financial Results for Second Quarter Fiscal 2027",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/default.aspx",
+      "published": "N/A",
+      "author": "N/A",
+      "highlights": " NVIDIA Corporation - NVIDIA Announces Financial Results for Second Quarter Fiscal 2027 ... ### NVIDIA Announces Financial Results for Second Quarter Fiscal 2027 ... - Revenue of $96.2 billion, up 106% from a year ago - Data Center revenue of $89.0 billion, up 117% from a year ago ... SANTA CLARA, Calif., Aug. 26, 2026 (GLOBE NEWSWIRE) -- NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago. For the quarter, GAAP and non-GAAP gross margins were both 75.0%. GAAP and non-GAAP earnin"
+    },
+    {
+      "title": "Nvidia's $279 Billion Supply-Chain Gamble",
+      "url": "https://www.wsj.com/tech/ai/nvidias-279-billion-supply-chain-gamble-cbe316d2",
+      "published": "2026-08-28T00:00:00.000Z",
+      "author": "Asa Fitch",
+      "highlights": " Nvidia’s $279 Billion Supply-Chain Gamble - WSJ ... , 2026 ... Nvidia forecast 70% revenue growth for its next fiscal year. Vernon Yuen/Nexpher Images/ZUMA Press ... Nvidia NVDA -1.59%decrease; down pointing triangle is writing large checks to its suppliers even as it amps up financial backstops for less-creditworthy customers. The strategy might help the company skirt supply constraints and realize lofty revenue growth forecasts, but it isn’t risk-free. ... Nvidia said Wednesday that its commitments to suppliers to secure components for its AI chips and systems reached $279 billion in its la"
+    },
+    {
+      "title": "Document",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
+      "published": "N/A",
+      "author": "N/A",
+      "highlights": " NVIDIA Announces Financial Results for Second Quarter Fiscal 2027 ... • Revenue of $96.2 billion, up 106% from a year ago • Data Center revenue of $89.0 billion, up 117% from a year ago ... SANTA CLARA, Calif.—Aug. 26, 2026― NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago. For the quarter, GAAP and non-GAAP gross margins were both 75.0%. GAAP and non-GAAP earnings per diluted share were $2.46 and $2.22, respectively. “AI has reached its inflection point. It’s doing useful wo"
+    },
+    {
+      "title": "Nvidia (NVDA) Q2 2027 Earnings Call Transcript | The Motley Fool",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/31/nvidia-nvda-q2-2027-earnings-call-transcript/",
+      "published": "2026-08-31T13:29:39.000Z",
+      "author": "Motley Fool Transcribing",
+      "highlights": " Management reported that AI demand has reached an inflection point, with revenue growth driven by a global buildout of compute infrastructure. The company stated that it expects supply to remain a bottleneck through fiscal 2028, leading to a constrained revenue outlook despite demand exceeding supply. NVIDIA is evolving from a component supplier to a full-stack platform provider, capturing higher capital value per gigawatt of data center capacity. Management noted that the expansion of sovereign AI and specialized cloud providers now balances the contribution from traditional hyperscalers. .."
+    },
+    {
+      "title": "NVIDIA Announces Financial Results for Second Quarter",
+      "url": "https://www.globenewswire.com/news-release/2026/08/26/3351702/0/en/nvidia-announces-financial-results-for-second-quarter-fiscal-2027.html",
+      "published": "2026-08-26T20:20:00.000Z",
+      "author": "NVIDIA CORPORATION",
+      "highlights": " # NVIDIA Announces Financial Results for Second Quarter Fiscal 2027 ... - Revenue of $96.2 billion, up 106% from a year ago - Data Center revenue of $89.0 billion, up 117% from a year ago ... SANTA CLARA, Calif., Aug. 26, 2026 (GLOBE NEWSWIRE) -- NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago. For the quarter, GAAP and non-GAAP gross margins were both 75.0%. GAAP and non-GAAP earnings per diluted share were $2.46 and $2.22, respectively. ... “AI has reached its inflection p"
+    },
+    {
+      "title": "Nvidia doubles Q2 revenue to $96 billion, as CEO Jensen Huang says demand is accelerating | Fortune",
+      "url": "https://fortune.com/2026/08/26/nvidia-results-q2-earnings/",
+      "published": "2026-08-26T20:27:39.000Z",
+      "author": "Amanda Gerut",
+      "highlights": " Nvidia doubles Q2 revenue to $96 billion, as CEO Jensen Huang says demand is accelerating | Fortune ... # Nvidia doubles quarterly revenue to $96 billion and crushes Wall Street growth targets as CEO Jensen Huang says demand is accelerating ... [Nvidia](https://fortune.com/company/nvidia/) doubled its revenue and profit year-over-year in its second quarter, and forecast sales in the current quarter that topped analyst estimates, as red-hot demand for its AI chips continues to bolster the company’s fortunes. ... Revenue in the three months ended July 26 totaled $96.2 billion, up 18% over last "
+    },
+    {
+      "title": "Nvidia Earnings Live, Aug. 26, 2026: Q2 Profits, Revenue ...",
+      "url": "https://www.investopedia.com/nvidia-earnings-live-nvda-stock-ai-trade-12068393",
+      "published": "2026-08-26T00:00:00.000Z",
+      "author": "N/A",
+      "highlights": " Nvidia Earnings Live, Aug. 26, 2026: Q2 Profits, Revenue Beat Street Estimates; Stock Rises ... The latest quarterly results from Nvidia, the world’s most valuable publicly traded company with a market capitalization above $5 trillion, are in. ... Nvidia (NVDA) r eported second-quarter revenue of $96.22 billion and adjusted earnings of $2.22 per share after the closing bell today. Both numbers were better than the Street expected: Analysts were looking for earnings of $2.10 per share on $92.37 billion in revenue. The company’s $108 billion guidance for third-quarter revenue was higher than Vi"
+    },
+    {
+      "title": "NVIDIA Q2 Earnings Call Puts Supply Limits at Center of Outlook",
+      "url": "https://ca.finance.yahoo.com/news/nvidia-q2-earnings-call-puts-140000690.html",
+      "published": "2026-08-27T14:00:00.000Z",
+      "author": "Zacks Equity Research      Thu, August 27, 2026 at 7:00 a.m. PDT   4 min read",
+      "highlights": " # NVIDIA Q2 Earnings Call Puts Supply Limits at Center of Outlook ... NVIDIA Corporation NVDA used the fiscal second-quarter 2027 earnings call to make one point clear: demand is running ahead of what its supply chain can support. ... Executive vice president and CFO Colette Kress paired a roughly 70% fiscal 2028 revenue-growth outlook with warnings on supply limits and memory costs, while outlining a broader AI infrastructure strategy. ... Revenues of $96.22 billion topped the Zacks Consensus Estimate of $91.80 billion. Non-GAAP earnings of $2.22 per share beat the Zacks Consensus Estimate o"
+    },
+    {
+      "title": "nvda-20260826",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/nvda-20260826.htm",
+      "published": "2026-08-26T20:31:37.000Z",
+      "author": "N/A",
+      "highlights": " NVIDIA CORPORATION ... Item 2.02 Results of Operations and Financial Condition. ... On August 26, 2026, NVIDIA Corporation, or the Company, issued a press release announcing its results for the quarter ended July 26, 2026. The press release is attached as Exhibit 99.1 and is incorporated herein by reference. ... Attached hereto as Exhibit 99.2 and incorporated by reference herein is financial information and commentary by Colette M. Kress, Executive Vice President and Chief Financial Officer of the Company, regarding results for the quarter ended July 26, 2026, or the CFO Commentary. The CFO "
+    },
+    {
+      "title": "NVIDIA Posts $96.2B Quarter as Data Center Revenue Hits $89B – Unite.AI",
+      "url": "https://www.unite.ai/nvidia-posts-96-2b-quarter-as-data-center-revenue-hits-89b/",
+      "published": "2026-08-26T00:00:00.000Z",
+      "author": "Theo Nash,  AI Infrastructure & Compute, AI Research Agent",
+      "highlights": " NVIDIA Posts ... – Unite.AI ... # NVIDIA Posts $96.2B Quarter as Data Center Revenue Hits $89B Published August 26, 2026 By Theo Nash, AI Infrastructure & Compute, AI Research Agent NVIDIA reported revenue of $96.2 billion for the second quarter of fiscal 2027, ended July 26, 2026, up 18% from the previous quarter and up 106% from a year earlier, according to the company’s earnings release published August 26, 2026. GAAP and non-GAAP gross margins both came in at 75.0%, and GAAP diluted earnings per share reached $2.46, up 128% year over year, on net income of $59.7 billion. ... The Data Cent"
+    }
+  ]
 }
