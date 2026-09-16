@@ -1,7 +1,7 @@
 {
   "ticker": "000660.KS",
   "name": "SK 海力士",
-  "fetched_at": "2026-09-15T10:01:15",
+  "fetched_at": "2026-09-16T10:01:22",
   "count": 10,
   "items": [
     {
@@ -12,11 +12,11 @@
       "highlights": " 29, 2026 - ... AI Summary SK hynix posted record Q2 2026 results, driven by booming AI memory demand and high-value DRAM/HBM and NAND. Revenue and profit surged, cash strengthened, debt fell, and HBM4 mass shipments began as the firm expands long-term contracts and capacity. PRESS SK hynix Announces 2Q26 Financial Results ... ▪ Reports revenues of 79.3187 trillion won, operating profit of 60.5426 trillion won, net profit of 93.9226 trillion won ▪ Record-Breaking Quarterly Performance Driven by High-Value Product Sales Amid Strong AI Demand; Cumulative First-Half Revenue Surpasses 100 Trillion"
     },
     {
-      "title": "SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory | NVIDIA Newsroom",
-      "url": "https://nvidianews.nvidia.com/news/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory",
-      "published": "2026-07-24T00:00:00.000Z",
+      "title": "NVIDIA Corporation - SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/SK-Group-and-NVIDIA-Expand-Strategic-Partnership-Across-AI-Factories-and-Next-Generation-Memory/default.aspx",
+      "published": "2026-07-25T00:00:00.000Z",
       "author": "N/A",
-      "highlights": " $500-Billion-Plus NVIDIA-SK AI Initiative Spans SK Telecom’s AI Factory of up to 2 Gigawatts and SK hynix’s Long-Term AI Memory Partnership July 24, 2026 News Summary: ... - SK Group and NVIDIA expand strategic collaboration with a $500-billion-plus initiative spanning AI factories and next-generation memory. - SK Telecom to build 2-gigawatt NVIDIA Vera Rubin DSX AI Factory to serve global compute demand. - NVIDIA and SK hynix establish long-term partnership to secure and codevelop next-generation AI memory, including HBM. ... AI Summit— SK Group and NVIDIA today announced plans for a $500-bi"
+      "highlights": " ### SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory July 25, 2026 ... News Summary: - SK Group and NVIDIA expand strategic collaboration with a $500-billion-plus initiative spanning AI factories and next-generation memory. - SK Telecom to build 2-gigawatt NVIDIA Vera Rubin DSX AI Factory to serve global compute demand. - NVIDIA and SK hynix establish long-term partnership to secure and codevelop next-generation AI memory, including HBM. ... SAN FRANCISCO, July 24, 2026 (GLOBE NEWSWIRE) -- AI Summit -- SK Group and NVIDIA today announced plans fo"
     },
     {
       "title": "Nvidia's Record Results Lift Profit Outlook for Samsung, SK hynix - Seoul Economic Daily",
@@ -33,6 +33,13 @@
       "highlights": " The year 2024 will go down as one of the most schismatic periods in the history of the electronics supply chain, with the combination of the ongoing AI boom and weak demand from most other sectors producing radically different conditions depending on the market. ... Most devices and end markets are set to generate either tepid demand growth or outright sales decline this year, leading to mainly favorable buyer conditions. However, the insatiable demand for data-center-based AI processing triggered by the success of ChatGPT has spurred overwhelming sales growth for a select set of commodities,"
     },
     {
+      "title": "SK하이닉스, 2Q 매출·영업익 사상 최대…영업이익률 76%(종합)",
+      "url": "https://v.daum.net/v/20260729081302910",
+      "published": "N/A",
+      "author": "N/A",
+      "highlights": " 매출과 영업이익 각각 예상치 5% 하회 ... 상반기 매출 132조원으로 사상 첫 100조원대 ... (서울=연합인포맥스) 한종화 기자 = SK하이닉스[000660]가 인공지능(AI) 반도체 수요에 힘입어 2분기 역대 최대 실적을 갱신했다. ... 과 영업이익 ... 의 높은 기대를 ... SK하이닉스는 올해 2분기에 연결 기준 매출 79조3천187억원, 영업이익 60조5천426억원을 기록했다고 29일 밝혔다. ... 매출은 전년대비 256.8%, 영업이익은 557.2% 증가했고, 매출과 영업이익 모두 분기 기준 역대 최대치를 경신했다. ... 영업이익률은 76%을 기록했고, 당기순이익은 93조9천226억원으로 순이익률이 118%에 달했다. 영업이익률은 지난 1분기 대비로도 4%포인트(p) 올랐다. ... 상반기 매출은 131조8천950억원, 영업이익은 98조1천529억원을 기록했다. ... 이로써 SK하이닉스의 상반기 누적 매출은 사상 처음으로 100조원대에 올라섰다. ... SK하이닉스는 AI 인프라 투자 확대에 따른 수요 강세가 이어지는 가운데 AI 서버용 고성능 제품이 가격 상승세를 주도했다고 설명했다. ... SK하이닉스는 \"D램과 낸드플래시 모두"
+    },
+    {
       "title": "SK Hynix's First-Half Nvidia Revenue Hits ₩17.6 Trillion — 13% of Total — BigGo Finance - Korea",
       "url": "https://www.europesays.com/korea/119710/",
       "published": "2026-08-14T17:36:16.000Z",
@@ -41,10 +48,10 @@
     },
     {
       "title": "SK Hynix sets record as quarterly profit jumps five-fold ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-supplier-sk-hynix-q1-224846348.html",
-      "published": "2026-04-22T00:00:00.000Z",
-      "author": "Heekyong Yang and Joyce Lee      April 22, 2026   3 min read",
-      "highlights": " SK Hynix sets record as quarterly profit jumps five-fold, says AI chip demand exceeds capacity ... SEOUL, April 23 (Reuters) - South Korea's SK Hynix on Thursday set a record for quarterly profit with a five-fold jump in earnings and forecast AI chip demand would exceed manufacturing ‌capacity, allaying concern about slowing AI spending by big tech firms. ... The outlook by the Nvidia supplier signals strong ‌momentum remaining intact for high bandwidth memory chips used in AI chipsets, keeping supplies constrained and prices high. ... \"Client requests for (HBM) chip supplies over the next th"
+      "url": "https://www.reuters.com/world/asia-pacific/nvidia-supplier-sk-hynix-q1-profit-rises-406-meets-forecasts-2026-04-22/",
+      "published": "2026-04-23T00:00:00.000Z",
+      "author": "Heekyong Yang",
+      "highlights": " SK Hynix sets record as quarterly profit jumps five-fold, says AI chip demand exceeds capacity | Reuters ... -driven demand boosts DRAM and NAND prices ... - Chip supply tight even as capacity expands - SK Hynix plans significant investment in plants, EUV tools ... - Chipmaker to review shareholder return measures ... - Shares surge nearly 90% this year, market value surpasses ASML's ... SEOUL, April 23 (Reuters) - South Korea's SK Hynix(000660.KS), opens new tab on Thursday set a record for quarterly profit with a five-fold jump in ‌earnings and forecast AI chip demand would exceed manufactu"
     },
     {
       "title": "SK하이닉스 2분기 영업익 역대 최대 60.5조…\"수요 성장세 지속\"(종합) - 서플",
@@ -54,25 +61,18 @@
       "highlights": " # SK하이닉스 2분기 영업익 역대 최대 60.5조…\"수요 성장세 지속\"(종합) 연합뉴스 2026-07-29 08:14:48 ... 상반기 매출 132조·영업익 98조…\"AI 수요에 고부가제품 판매 증가\" ... 장기계 ... (서울=연합뉴스) 조성흠 기자 = SK하이닉스가 올해 2분기 영업이익 60조원, 영업이익률 76%를 넘기며 역대 최대 실적 행진을 이어갔다. ... 상반기로는 매출액이 131조원을 넘어 처음으로 반기 100조원대에 올라섰고, 영업익도 100조원에 육박했다. ... 인공지능(AI) 수요 지속에 따른 고부가제품 판매가 호실적을 이끈 가운데, 하반기에도 수요 성장세가 이어질 것이라는 기대가 나온다. ... SK하이닉스[000660]는 연결 기준 올해 2분기 영업이익이 60조5천426억원으로 지난해 동기보다 557.2% 증가한 것으로 잠정 집계됐다고 29일 공시했다. ... 매출은 79조3천187억원으로 작년 동기 대비 256.8% 증가했다. 순이익은 93조9천226억원으로 1천242.5% 늘었다. ... 지난해 전체 47조2천63억 ... 맥스가 집 ... 치 63조5천 ... 26억원을 ... 4.7% 하회 ... 상반기 누적 매출은 1"
     },
     {
-      "title": "SK하이닉스, 2Q 매출·영업익 사상 최대…영업이익률 76%(종합)",
-      "url": "https://v.daum.net/v/20260729081302910",
-      "published": "N/A",
-      "author": "N/A",
-      "highlights": " 매출과 영업이익 각각 예상치 5% 하회 ... 상반기 매출 132조원으로 사상 첫 100조원대 ... (서울=연합인포맥스) 한종화 기자 = SK하이닉스[000660]가 인공지능(AI) 반도체 수요에 힘입어 2분기 역대 최대 실적을 갱신했다. ... 과 영업이익 ... 의 높은 기대를 ... SK하이닉스는 올해 2분기에 연결 기준 매출 79조3천187억원, 영업이익 60조5천426억원을 기록했다고 29일 밝혔다. ... 매출은 전년대비 256.8%, 영업이익은 557.2% 증가했고, 매출과 영업이익 모두 분기 기준 역대 최대치를 경신했다. ... 영업이익률은 76%을 기록했고, 당기순이익은 93조9천226억원으로 순이익률이 118%에 달했다. 영업이익률은 지난 1분기 대비로도 4%포인트(p) 올랐다. ... 상반기 매출은 131조8천950억원, 영업이익은 98조1천529억원을 기록했다. ... 이로써 SK하이닉스의 상반기 누적 매출은 사상 처음으로 100조원대에 올라섰다. ... SK하이닉스는 AI 인프라 투자 확대에 따른 수요 강세가 이어지는 가운데 AI 서버용 고성능 제품이 가격 상승세를 주도했다고 설명했다. ... SK하이닉스는 \"D램과 낸드플래시 모두"
+      "title": "SK Hynix Breaks Ground on Critical Nvidia Supply Play",
+      "url": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-breaks-ground-critical-193618012.html",
+      "published": "2026-08-27T00:00:00.000Z",
+      "author": "Moz Farooque ACCA      Thu, August 27, 2026 at 12:36 PM PDT   2 min read",
+      "highlights": " SK Hynix (NASDAQ:SKHY) is putting another major piece of the AI supply chain on U.S. soil, breaking ground Thursday on an approximately $4 billion high-bandwidth memory packaging and research complex in West Lafayette, Indiana. The project matters to investors because HBM has emerged as one of the most critical components inside Nvidia-powered AI systems, and SK Hynix is betting demand will remain strong enough to justify substantially more capacity through the end of the decade. ... The 133.5-acre Indiana campus will house advanced HBM packaging production and R&D facilities, with operations"
     },
     {
-      "title": "Samsung Electronics (005930 KS) and SK Hynix (000660 KS) are expected to expand the 8-speed ratio in the shipment of the 6th generation high bandwidth memory to NVIDIA (NVDA), according to ZDNet Korea | Newsquawk",
-      "url": "https://www.newsquawk.com/headlines/samsung-electronics-005930-ks-and-sk-hynix-000660-ks-are-expected-to-expand-the-8-speed-ratio-in-the-shipment-of-the-6th-generation-high-bandwidth-memory-to-nvidia-nvda-according-to-zdnet-korea",
-      "published": "2026-08-26T05:08:01.000Z",
+      "title": "[华创证券]：FY2026Q2业绩点评及业绩说明会纪要：业绩续创历史新高，下半年将加速扩产应对AI需求 - 发现报告",
+      "url": "https://www.fxbaogao.com/detail/5573754",
+      "published": "2026-08-01T00:00:00.000Z",
       "author": "N/A",
-      "highlights": " Samsung Electronics (005930 KS) and SK Hynix (000660 KS) are expected to expand the 8-speed ratio in the shipment of the 6th generation high bandwidth memory to NVIDIA (NVDA), according to ZDNet Korea | Newsquawk ... # Samsung Electronics (005930 KS) and SK Hynix (000660 KS) are expected to expand the 8-speed ratio in the shipment of the 6th generation high bandwidth memory to NVIDIA (NVDA), according to ZDNet Korea ... Reports of this kind on next-generation high bandwidth memory supply to the dominant accelerator customer have been a recurring driver of relative moves in the Korean memory p"
-    },
-    {
-      "title": "SK Hynix (000660.KS) Q1 operating profit hits KRW 37.6T - Insights",
-      "url": "https://insights.marvin-42.com/articles/sk-hynix-000660ks-q1-operating-profit-hits-krw-376t",
-      "published": "2026-04-23T00:00:00.000Z",
-      "author": "N/A",
-      "highlights": " SK Hynix (000660.KS) reported a record first quarter, putting a hard number on the AI memory cycle. The company's Q1 release listed revenue of KRW 52.5763T, operating profit of KRW 37.6103T, and net profit of KRW 40.3459T. Operating margin reached 72% and net margin was 77%. ... CNBC said the figures were broadly in line with earnings expectations but missed revenue estimates. LSEG smart estimates had revenue at KRW 53.55T and operating profit at KRW 37.92T. SK Hynix shares rose as much as 3.6% in early Seoul trading before paring gains and trading down 0.9%. ... The driver was high-value mem"
+      "highlights": " 业绩总览： 2026年第二季度，SK海力士实现营收79.32万亿韩元（环比+51%，同比+257%），创季度历史新高；营业利润率76%（环比+5pct），同样创季度历史新高；营业利润60.54万亿韩元（环比+61%，同比+557%）；净利润93.92万亿韩元，净利率118%。主要得益于AI基础设施投资扩大带来的强劲需求，以及高附加值产品销售占比提升。 ... 证 券 研 究 报告 SK海力士（000660.KS）FY2026Q2业绩点评及业绩说明会纪要 会议时间：2026年7月29日 会议地点：线上 业绩续创历史新高，下半年将加速扩产应对AI需求 事项： 华创证券研究所 SK海力士发布2026年第二季度业绩报告，并召开业绩说明会。公司财务季度FY2026Q2截至2026年6月30日。26Q2实现营收79.32万亿韩元（QoQ+51%，YoY +257%），季度收入创历史新高。营业利润率为76%（QoQ +5pct），同样创下季度历史新高。26Q2营业利润为60.54万亿韩元（QoQ +61%，YoY+557%），26Q2实现净利润93.92万亿韩元，净利率为118%，较上季显著提升。 证券分析师：岳阳邮箱：yueyang@hcyjs.com执业编号：S0360521120002 证券分析师：吴鑫邮箱：wuxin@hcyjs.com执业编号：S0360523060001 评论："
     }
   ]
 }
