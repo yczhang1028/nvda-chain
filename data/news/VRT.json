@@ -1,7 +1,7 @@
 {
   "ticker": "VRT",
   "name": "Vertiv",
-  "fetched_at": "2026-09-16T10:01:22",
+  "fetched_at": "2026-09-17T10:00:07",
   "count": 10,
   "items": [
     {
@@ -17,13 +17,6 @@
       "published": "2026-08-07T23:40:52.000Z",
       "author": "Motley Fool Transcribing",
       "highlights": " Management reported that second-quarter performance was driven by intensifying demand for artificial intelligence and general compute infrastructure, necessitating rapid capacity expansions across the Americas and APAC. The company stated it is currently navigating a learning curve associated with increasingly complex, large-scale project deployments, which resulted in minor revenue timing shifts during the quarter. Management indicated that the global pipeline is accelerating across hyperscale, colocation, and enterprise customer categories. The company confirmed it has reached a net cash po"
-    },
-    {
-      "title": "Why is Vertiv (VRT) Stock Falling Today? AI Data Center Giant ...",
-      "url": "https://www.ibtimes.sg/why-vertiv-vrt-stock-falling-today-ai-data-center-giant-tumbles-after-earnings-despite-raising-91039",
-      "published": "2026-07-29T13:59:33.000Z",
-      "author": "Lakshmi Prabha",
-      "highlights": " AI data center infrastructure firm Vertiv Holdings Co. (NYSE: VRT) has seen shares plunge over 10% in premarket trading Wednesday after 2nd quarter revenue fell short of Wall Street estimates, though the company has raised its full-year financial forecast. ... The Columbus, OH-based firm earned $3.27 billion in revenue for the quarter ended June 30, which was on the low end of the $3,270 million to $3,380 million estimate set by analysts. Vertiv said that instead of a drop in demand, the shortfall was due to temporary supply chain congestion and the timing of large, multi-phase customer proje"
     },
     {
       "title": "Vertiv Raises Full-Year Guidance Again as Data Center Backlog Swells, But Admits Growing Pains From Project Complexity",
@@ -44,7 +37,7 @@
       "url": "https://last10k.com/sec-filings/vrt/0001628280-26-050609.htm",
       "published": "2026-07-29T16:08:23.000Z",
       "author": "N/A",
-      "highlights": " ![image.jpg](https://last10k.com/sec-filings/report/1674101/000162828026050323/image.jpg) Vertiv Reports Strong Second Quarter 2026 with Diluted EPS Growth of 53% (Adjusted Diluted EPS Growth of +60%); Raises Full Year 2026 Guidance Across All Key Metrics ... •Net sales of $3,274 million, 24% higher than second quarter 2025. ... •Operating profit up 44% and adjusted operating profit(1) up 51% from second quarter 2025. Adjusted operating margin of 22.6%, up 410 basis points compared to second quarter 2025. ... •Diluted EPS grew 53% to $1.27 and adjusted diluted EPS grew 60% to $1.52 compared t"
+      "highlights": " CIK: **1674101** Ticker: **VRT** image.jpg Vertiv Reports Strong Second Quarter 2026 with Diluted EPS Growth of 53% (Adjusted Diluted EPS Growth of +60%); Raises Full Year 2026 Guidance Across All Key Metrics ... •Net sales of $3,274 million, 24% higher than second quarter 2025. ... •Operating profit up 44% and adjusted operating profit(1) up 51% from second quarter 2025. Adjusted operating margin of 22.6%, up 410 basis points compared to second quarter 2025. ... •Diluted EPS grew 53% to $1.27 and adjusted diluted EPS grew 60% to $1.52 compared to second quarter 2025. ... Operating cash flow "
     },
     {
       "title": "[Vertiv Holdings Co Q2 2026 Earnings Call] Vertiv Delivers 24% Sales Growth and $925M Free Cash Flow, Yet Project Complexity Delays Spook Investors",
@@ -73,6 +66,13 @@
       "published": "N/A",
       "author": "N/A",
       "highlights": " Vertiv Holdings Co VRT used its second-quarter earnings call to highlight accelerating demand for AI infrastructure, expanding data center complexity and continued investment in capacity and technology. Management raised its full-year outlook across key metrics as order momentum strengthened globally. ... The company reported adjusted earnings per share (EPS) of $1.52, beating the Zacks Consensus Estimate of $1.43. Revenues of $3.28 billion missed the consensus estimate of $3.39 billion. ... Management emphasized that AI and general compute demand are driving larger and more infrastructure-in"
+    },
+    {
+      "title": "Vertiv Is Putting $1.45 Billion Down for AI Power. Nearly Half the Price Is Contingent. | The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/03/vertiv-is-putting-usd1-45-billion-down-for-ai-power-nearly-half-the-price-is-contingent/",
+      "published": "2026-09-04T03:47:01.000Z",
+      "author": "Daniel Sparks",
+      "highlights": " Vertiv (VRT+4.72%) said Wednesday that it agreed to acquire UtilityInnovation Group (UIG), a designer of on-site power systems for data centers, in a deal worth up to $2.6 billion. ... But only about $1.45 billion of that is payable in cash at closing. The remaining $1.15 billion is contingent on the acquired business hitting earnings targets. ... That split is the most telling part of the announcement. Vertiv is spending big on the idea that power availability is becoming the thing that most limits how fast artificial intelligence (AI) data centers get built. But it structured the deal so th"
     }
   ]
 }

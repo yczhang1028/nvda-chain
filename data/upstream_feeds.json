@@ -1,34 +1,40 @@
 {
-  "fetched_at": "2026-09-16T10:02:50",
+  "fetched_at": "2026-09-17T10:01:18",
   "feeds": {
     "nvidia_动向": {
       "label": "🔺 NVIDIA 上游动向",
       "color": "#22d3ee",
-      "count": 40,
+      "count": 20,
       "items": [
         {
-          "title": "GTC Taipei 2026 Keynote with Jensen Huang STW61044 ...",
-          "url": "https://www.nvidia.com/en-us/on-demand/session/gtctaipei26-stw61044/",
+          "title": "Nvidia Says U.S. Implements Chip Export Restrictions to ...",
+          "url": "https://www.wsj.com/",
           "published": "N/A",
-          "highlights": " GTC Taipei 2026 Keynote with Jensen Huang STW61044 | GTC Taipei 2026 | NVIDIA On-Demand ... GTC Taipei 2026 Keynote with Jensen Huang STW61044 | GTC Taipei 2026 | NVIDIA On-Demand"
+          "highlights": " ### The Race for the Next Big Weight-Loss Drug Is On—and China Wants In Long a maker of low-end generic drugs, the country is now home to biotech firms that are innovating fast."
         },
         {
-          "title": "GTC Taipei 2026 Keynote with Jensen Huang STW61044 | GTC Taipei 2026 | NVIDIA On-Demand",
-          "url": "https://www.nvidia.com/en-us/on-demand/session/gtctaipei26-stw61044/?playlistId=playList-5d17c33f-65f5-4fb1-9fed-bc5b7f4dec44",
+          "title": "Nvidia says it will resume H20 AI chip sales to China 'soon,' ...",
+          "url": "https://www.cnbc.com/",
           "published": "N/A",
-          "highlights": " GTC Taipei 2026 Keynote with Jensen Huang STW61044 | GTC Taipei 2026 | NVIDIA On-Demand ... 03:08 Ladies and gentlemen, welcome the founder and CEO of NVIDIA, ... 03:15 Welcome to the stage, NVIDIA founder and CEO, Jensen Huang. ... We have so ... tell you and I have so many ... to thank. ... It is incredible how large our ecosystem in Taiwan has become. ... 04:48 But NVIDIA's ecosystem spans all"
+          "highlights": " Stock Markets, Business News, Financials, Earnings - CNBC ## Fed meeting live updates: Rate hike expected for the first time in three years - Fed will hike at least two times over the next year, according to CNBC survey - Warsh's credibility on the line as Trump policies put pressure on Fed to hike 26 min ago• Sean Conlon, Chloe Taylor, Lee Ying Shan, Tobias Burns 26 min ago• Sean Conlon, Chloe T"
         },
         {
-          "title": "NVIDIA GTC Taipei 2026 Keynote  by NVIDIA CEO Jensen Huang.Taipei Music Center | 2 June 2026",
-          "url": "https://www.youtube.com/watch?v=EZCTdMrt4cU",
+          "title": "US takes step to halt Nvidia AI chip shipments to Chinese ...",
+          "url": "https://www.channelnewsasia.com/",
           "published": "N/A",
-          "highlights": " GDP of Taiwan is going to grow almost 10%. [applause] Unbelievable. Well, we have a lot to talk about. Let's get going. Two years ago when I was here I started to talk to you about how AI has moved from gentive AI and the other waves of AIs that are coming. The next wave of AI was agentic AI and today we can say that agentic AI has arrived that useful AI has arrived. Now what does this mean? This"
+          "highlights": " Social media bans for teens: What Talking Point learnt from Australia, Malaysia"
         },
         {
-          "title": "NVIDIA GTC Taipei 2026 Keynote | Full Replay",
-          "url": "https://www.youtube.com/watch?v=wSp6AiNIrsY",
+          "title": "NVIDIA Spotlight — AI GPU Supply Chain, HBM4, CoWoS, Vera Rubin & CUDA Moat | SemiconductorX",
+          "url": "http://semiconductorx.com/spotlight-nvidia.html",
           "published": "N/A",
-          "highlights": " 有請 NVIDIA 創始人兼 CEO 黃仁勳 歡迎上臺演講 NVIDIA 創始人兼 CEO 黃仁勳 大家好 歡迎參加 GTC 台灣大會 很高興見到大家 回到家感覺真好 我帶著爸媽回家 ... 請為我們的暖場表演巨星熱烈鼓掌 看他們多麼可愛 台灣的超級巨星 今天有許多人在這裡參加大會 我們目前正向全台灣其他 70 個直播派對進行轉播 70 個不同的會議正同步舉行 大家都在觀看這場主題演講 我們有太多資訊要告訴大家 我要感謝非常多的合作夥伴 我們在台灣的生態系已經發展得如此龐大 真是令人難以置信 大多數時候人們想到生態系時 想到的都是我們的軟體堆疊 想到的是開發者生態系 也就是建立在 NVIDIA 所打造的運算系統之上 但 NVIDIA 的生態系一直延伸到最上游 ... 涵蓋我們在台的所有供應鏈 這是一切的起點，並一直延伸到下游 直達資料中心，最終抵達終端使用者 今天，我們將討論幾乎所有的生"
+          "highlights": " largest customer of SK ... largest user of TSMC ... | HBM4 supply allocation (Vera Rubin) | SK Hynix: ~70% of Vera Rubin HBM4 allocation; base die respun due to performance issues causing original delay; HBM4 qualification still finalizing as of April 2026. Samsung: ~30%; first to begin HBM4 shipments (February 2026); 4nm base die (1c DRAM) - most advanced base die of three suppliers; Samsung lea"
+        },
+        {
+          "title": "SK Hynix Is Shipping 16-Layer HBM4 for Nvidia Rubin: Where Do Micron And Samsung Stand? | Longbridge",
+          "url": "https://longbridge.com/en/news/299086512",
+          "published": "2026-09-15T18:23:45.000Z",
+          "highlights": " SK Hynix has begun volume shipping of 16-layer HBM4 for Nvidia's Rubin platform, securing a first-mover advantage. Micron is currently shipping samples of the same configuration, while Samsung has opted not to commercialize it due to limited demand. Despite SK Hynix's lead in memory production, industry analysts identify TSMC's CoWoS advanced packaging as the primary binding constraint, with sign"
         },
         {
           "title": "SK Hynix HBM4 16-Hi volume shipping; CoWoS lead times stretch to 78 weeks | Silicon Analysts Weekly",
@@ -41,12 +47,6 @@
           "url": "https://siliconanalysts.com/newsletter/qual-watch/2026-09-07",
           "published": "2026-09-07T16:00:45.000Z",
           "highlights": " NVIDIA's CoWoS allocation reaching 800,000–850,000 wafers in Q3 2026 — roughly 60% of total capacity — leaves little room for anyone else, as Broadcom's allocation was trimmed from ~240,000 to 200,000 wafers. With Micron's entire 2026 HBM supply sold out, readers focused on HBM pricing should check the HBM Analysis page. ... NVIDIA CoWoS customer allocation — ▲ now 2026-Q3 800,000–850,000 wafers "
-        },
-        {
-          "title": "Nvidia begins shipping Vera CPU for AI data centres",
-          "url": "https://itbrief.news/story/nvidia-begins-shipping-vera-cpu-for-ai-data-centres",
-          "published": "2026-09-02T01:37:23.000Z",
-          "highlights": " # Nvidia begins shipping Vera CPU for AI data centres Tue, 1st Sep 2026 (Today) SEAN MITCHELL Publisher Nvidia has begun delivering its Vera central processing unit, marking the company's latest move into data centre computing. ... Vera is a custom Arm-based server processor for AI systems and broader data centre workloads. It is designed to work alongside Nvidia's graphics processors in servers "
         },
         {
           "title": "HBM4 volume shipping; CoWoS lead times stretch past 12 months | Silicon Analysts Weekly",
@@ -67,59 +67,71 @@
           "highlights": " The regulatory framework relies on technical thresholds rather than simple product names. BIS measures chip capability using metrics such as Total Processing Performance (TPP), a composite of computational throughput and interconnect bandwidth, and \"total DRAM bandwidth,\" the speed at which a chip can move data to and from memory [8]. A chip crossing a given TPP threshold requires a license for e"
         },
         {
-          "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lower Token Costs for Partners Worldwide | NVIDIA Blog",
-          "url": "https://blogs.nvidia.com/blog/vera-rubin/",
-          "published": "2026-07-21T00:00:00.000Z",
-          "highlights": " Backed by 300 global partners, Vera Rubin is ramping up worldwide. NVIDIA partners CoreWeave, Google Cloud, Microsoft Azure, Mistral and Nebius are among many deploying Vera Rubin, which delivers benchmark leadership on performance per watt and lowest token costs. July 21, 2026 by NVIDIA Writers ... Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, "
-        },
-        {
-          "title": "Nvidia's Huang vows to deliver 'giant amounts' of Vera Rubin — company says that 'our roadmap is intact' | Tom's Hardware",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-huang-vows-to-deliver-giant-amounts-of-vera-rubin-company-says-that-our-roadmap-is-intact",
-          "published": "2026-07-15T19:07:17.000Z",
-          "highlights": " Jensen Huang, chief executive of Nvidia, denied reports about delays of the company's next-generation AI platform and said that production volumes of the upcoming Vera Rubin platforms are 'giant.' He didn't address reports about delays of Vera Rubin Ultra-based rack-scale systems carrying 144 AI GPUs. ... \"[The reports about Vera Rubin delays are] not true,\" Huang told reporters on the sidelines "
-        },
-        {
-          "title": "Nvidia H200 Shipments to China Called 'Trivial' as Blackwell Loophole Draws Fire",
-          "url": "https://www.techtimes.com/articles/320544/20260715/nvidia-h200-shipments-china-called-trivial-blackwell-loophole-draws-fire.htm",
-          "published": "2026-07-15T10:58:06.000Z",
-          "highlights": " The United States has approved export licenses worth an estimated $10 billion for Nvidia's H200 AI chips bound for China — and nearly none of those chips have actually arrived. Jeffrey Kessler, the Under Secretary of Commerce for Industry and Security, delivered that assessment to the House Foreign Affairs Committee on July 14, telling lawmakers that while H200 deliveries have technically begun, "
-        },
-        {
-          "title": "Small Amount of Nvidia AI Chips Sold to China Via US License - Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-14/small-amount-of-nvidia-ai-chips-shipped-to-china-with-us-license",
-          "published": "2026-07-14T15:29:15.000Z",
-          "highlights": " A small number of Nvidia Corp.’s H200 artificial intelligence chips have been shipped to customers in China after winning US approval, the Trump administration official who oversees export control programs confirmed. ... Jeffrey Kessler, under secretary of commerce for industry and security, said Tuesday that a “trivial” number of the Nvidia processors were shipped to China, though he declined to"
-        },
-        {
           "title": "NVIDIA China Explained: Chips, Export Rules and Impact (2026)",
           "url": "https://nvidiareview.com/nvidia-china/",
           "published": "2026-07-06T09:51:34.000Z",
           "highlights": " The story of nvidia china has become one of the most consequential in technology, where US export controls, a 25% government levy, and fierce domestic competition collide over the world’s second-largest AI market. Once worth billions in quarterly revenue, NVIDIA’s China business was largely frozen by restrictions, then partly reopened when the US approved H200 chip sales. This review explains the"
+        },
+        {
+          "title": "Silicon Analysts Weekly: HBM4 qualifies across all three vendors, CoWoS expands | Silicon Analysts Weekly",
+          "url": "https://siliconanalysts.com/newsletter/qual-watch/2026-06-22",
+          "published": "2026-06-24T05:50:54.000Z",
+          "highlights": " CoWoS capacity is tracking toward 120,000–130,000 wafers/month by Q4 2026, roughly doubling from end-2025 levels — yet packaging, not wafer supply, remains the binding constraint on AI accelerator output. Simultaneously, all three memory vendors are now HBM4-qualified for Vera Rubin, but SK Hynix's 60% market share means allocation leverage stays concentrated. Bernstein's note that HBM prices wou"
+        },
+        {
+          "title": "CoWoS Capacity 2026: The Real AI GPU Chokepoint",
+          "url": "https://alatirok.com/cowos-capacity-2026/",
+          "published": "2026-06-01T00:00:00.000Z",
+          "highlights": " The tightest physical constraint on AI GPU supply in 2026 is not silicon, fabs, or even HBM memory; it is TSMC’s CoWoS advanced-packaging capacity, the line that bonds GPU logic and high-bandwidth memory onto a single interposer. Every Nvidia data-center GPU of the Blackwell and Rubin generations has to pass through that step, and there is currently only one supplier in the world running it at th"
+        },
+        {
+          "title": "US takes step to halt Nvidia AI chip shipments to Chinese firms outside China | MarketScreener UK",
+          "url": "https://uk.marketscreener.com/news/us-takes-step-to-halt-nvidia-ai-chip-shipments-to-chinese-firms-outside-china-ce7f5dd8dc8cf526",
+          "published": "2026-05-31T00:00:00.000Z",
+          "highlights": " 47 am BST ... May 31 (Reuters) - The U.S. Department of Commerce on Sunday moved to close a potential loophole that may have led companies to export the world's most advanced chips - like Nvidia's most sophisticated Blackwell processors - to subsidiaries of Chinese companies located outside China. ... The unexpected guidance suggests that the United States' best AI chips may have been making thei"
+        },
+        {
+          "title": "Nvidia Blackwell export ban survives US-China summit | AI Weekly",
+          "url": "https://aiweekly.co/alerts/nvidia-blackwell-export-ban-survives-us-china-summit",
+          "published": "2026-05-15T09:40:20.000Z",
+          "highlights": " - Nvidia Blackwell GPUs (B100/B200/B300) remain under full US export controls after the summit, unchanged. - The only chip concession was a pre-existing H200 sales approval for ten Chinese firms, not a new deal. - The summit's sole AI deliverable was a bilateral safety communications channel, not any hardware access agreement. ... Blackwell export controls surviving direct lobbying from Jensen Hu"
         }
       ]
     },
     "国产推理卡": {
       "label": "🇨🇳 国产 AI 芯片动向",
       "color": "#f472b6",
-      "count": 40,
+      "count": 20,
       "items": [
-        {
-          "title": "寒武纪高端芯片思元590、思元690产品供不应求，订单排到27年第二季度_寒武纪(688256)股吧_东方财富网股吧",
-          "url": "https://gubaf10.eastmoney.com/news,688256,1669990814.html",
-          "published": "N/A",
-          "highlights": " 寒武纪高端芯片思元590、思元690产品供不应求，订单排到27年第二季度_寒武纪(688256)股吧_东方财富网股吧 ... 26-02-17 12: ... 7 东方财富iPhone版 发布于 广东 ... 寒武纪高端芯片思元590、思元690产品供不应求，订单排到27年第二季度"
-        },
-        {
-          "title": "寒武纪思元690（国产AI 训练/推理芯片） - MirrorFrog",
-          "url": "https://mirrorfrog.com/docs/cards/cambricon/mlu-690/",
-          "published": "N/A",
-          "highlights": " 寒武纪思元690（MLU690） 是寒武纪科技面向数据中心 AI 训练与推理市场的旗舰芯片， 2026年初量产。采用双die chiplet封装、中芯国际5nm级（N+2）制程， FP16 算力 700+ TFLOPS 为当前国产纸面算力天花板，单卡算力约对标 NVIDIA H100 的 70%，纯推理场景可达 H100 的 80-90%。 ... 战略定位：字节跳动为主要客户（思元580/590/690合计采购超50万颗），已获阿里、百度等头部互联网企业订单。在美国对华芯片出口管制背景下，思元690 是中国大模型训练/推理市场的关键国产替代方案。 ... | 项目 | 参数 | | --- | --- | | 架构 | MLUarch（新一代 MLU 架构） | | 制程 | 台积电 4nm（双 die Chiplet，Cambricon 4.0 架构）；亦见中芯 N+2 国产版报道 "
-        },
         {
           "title": "电子行业深度报告",
           "url": "https://pdf.dfcfw.com/pdf/H3_AP202604141821177994_1.pdf",
           "published": "N/A",
           "highlights": " ## 超节点系列报告二：海光&曙光系超节点， ## HSL+IB 构建最全互连体系 ... 2026 年 04 月 14 日 ... [Table_Tag][Table_Summary] 投资要点 ◼ 海光&曙光：超节点算力与芯片设计的战略协同。中科曙光与海光信息 保持上市公司独立性的同时深化战略协同，形成“芯片设计+系统集成” 完整技术链条。海光 DCU 为曙光超节点提供自主可控算力核心，其芯 片级互联技术 HSL 与曙光 scaleFabric 高速网络实现全栈互联协同，推 ... 动国产智算平台迈向系统领先。（1）中科曙光：以超级计算起家，30 年 ... 力；（2）海光信息：国产高端处理器龙头，CPU+DCU 双轮驱动。2022 ... 年上市后主营业务持续放量，CPU 兼容 x86 并迭代至五号，DCU 深算 ... 系列迭代至四号且性能对标国际，2025 年推出的 HSL 协"
+        },
+        {
+          "title": "国产算力基础设施的“CPU+DCU 双芯底座+ 生态枢纽” 海光信息从 ...",
+          "url": "https://www.eet-china.com/mp/a494058.html",
+          "published": "N/A",
+          "highlights": " # 国产算力基础设施的 “CPU+DCU 双芯底座 + 生态枢纽” 海光信息从 “芯片设计商” 升级为“算力生态领导者” ... 海光信息成立于 2014 年 10 月，脱胎于天津海泰科技投资，背靠中科院计算所与中科曙光，诞生于国产高端处理器 “卡脖子” 最严峻的时期。彼时国内服务器 CPU 市场被 Intel、AMD 垄断，自主架构（如龙芯、飞腾）在生态兼容性上难以快速突破，而金融、电信等关键行业对 x86 兼容性有刚性需求。 ... 2016 年，海光以2.93 亿美元代价，通过合资公司成都海光微电子有限公司（HMC）（AMD持股51%，海光持股49%）获得 AMD 初代 Zen 架构x86 指令集永久授权，成为国内唯一拥有 x86 永久授权的企业。这一步让海光跳过了指令集生态构建的数十年积累，直接站在成熟生态的肩膀上，实现了国产高端 CPU 的 “弯道超车”。 ... 2018 年"
+        },
+        {
+          "title": "国内首个全国产十万卡AI超集群落地海光信息宣布进军嵌入式AI市场",
+          "url": "https://www.cls.cn/detail/2423602",
+          "published": "N/A",
+          "highlights": " 直击光合组织智能计算应用大会：国内首个全国产十万卡AI超集群落地 海光信息宣布进军嵌入式AI市场 ... 直击光合组织智能计算应用大会：国内首个全国产十万卡AI超集群落地 海光信息宣布进军嵌入式AI市场 ... ``` ①中科曙光宣布中国首个全国产十万卡AI超集群——曙光8000（登峰）正式落成，AI基础设施建设迈向十万卡级部署阶段； ②海光CPU与DCU已应用于十万卡AI超集群落地，验证了国产计算和加速芯片对大规模算力基础设施支持能力，同时海光信息宣布将进军嵌入式AI的增量市场。 ``` ... 《科创板日报》7月11日讯（记者 郭辉） 7月10日，光合组织2026智能计算应用大会在郑州举办。大会围绕智能计算应用与发展范式、AI基础设施创新、国产开放计算生态建设展开探讨交流，推动国产人工智能算力从关注建设到关注应用，从评价单一参数到注重系统能力，从局部场景迈向大规模迁移。 ... 会上"
+        },
+        {
+          "title": "中科曙光与海光信息重磅亮相体验区 - 数字中国建设峰会",
+          "url": "https://www.szzg.gov.cn/2026/fhdt/xctyq/xctyqdt/202604/t20260418_5310330.htm",
+          "published": "N/A",
+          "highlights": " 发布时间：2026-04-18 17:31 文章来源：第九届数字中国建设峰会展览组 ... 作为国产计算领域的领军企业，中科曙光与海光信息将携多款算力设备、自研芯片及全栈解决方案重磅亮相现场体验区，全面展示从中国“芯”到数字底座再到千行百业智能应用的核心成果，以自主创新之力，助力数字中国建设与智能经济新形态打造，为峰会注入澎湃动能。 ... 在核心芯片展区，海光信息将集中展示自主研发的系列国产芯片，全方位展现我国在高端处理器领域的关键突破。高性能通用计算CPU，自主可控，性能比肩国际主流，市场占有率领先；深度计算DCU，支持全精度，兼容英伟达生态。 ... 作为国产C86处理器，海光CPU将凭借卓越的性能、完善的生态、安全可控及持续迭代创新等优势，为数字中国提供核心计算引擎。海光GPGPU全精度覆盖，超大显存，助力人工智能产业快速发展。 ... 同时，中科曙光专为中等规模AI计算优化的开"
+        },
+        {
+          "title": "海光信息：存储芯片涨价反映AI服务器需求爆发 深算三号产品进展顺利|直击业绩会",
+          "url": "https://api3.cls.cn/share/article/2202869?app=stib&os=ios&sv=860",
+          "published": "N/A",
+          "highlights": " ``` ①海光信息表示，目前公司订单情况良好，近期存储芯片涨价的主要原因是AI服务器的需求爆发，公司将持续深化与整机厂商的合作； ②海光信息深算三号产品进展顺利，海光DCU可兼容全球主流AI架构，满足十亿级模型端侧推理到千亿级模型训练的全场景需求。 ``` ... 《科创板日报》11月17日讯（记者 郭辉） “目前公司订单情况良好。随着国内算力需求的持续爆发，公司作为国内少数同时拥有高端通用处理器和AI加速处理器的芯片厂商，借助国内服务器市场对高性能计算芯片的需求增长，将进一步扩大市场版图。”在海光信息今日（11月17日）举行的业绩会上，该公司董事、总经理沙超群如是称。 ... 在业绩会上，关于存储芯片的价格波动影响，沙超群表示，可能会导致服务器厂商的成本有一定程度的上升，但与此同时，存储芯片涨价的主要原因是AI服务器的需求爆发，海光信息将持续深化与整机厂商的合作。 ... 目前该公司已"
         },
         {
           "title": "国产GPU“四小龙”齐聚资本市场：6132亿市值之后，真正的考验才刚开始-钛媒体官方网站",
@@ -152,16 +164,16 @@
           "highlights": " 早前，壁仞科技、天数智芯、沐曦股份和摩尔线程陆续交出上市后的首份或最新半年报。9月，燧原科技也正式启动申购，国产GPU正在以前所未有的密度进入资本市场。 ... 四份半年报给出了截然不同的利润表：壁仞营收增长近20倍，仍处亏损；天数智芯和沐曦已经实现账面盈利，但利润中均存在不能简单等同于主营经营改善的因素；摩尔线程距离账面盈亏平衡仅一步之遥，扣除非经常性损益后的净利润（即扣非）却仍然亏损。 ... 但进一步拆开利润表后，这种排序并不稳固。壁仞科技是最典型的例子，2026年上半财年，实现收入12.36亿元，但仍录得3.77亿元亏损。相比去年同期16.01亿元的亏损，亏损幅度已经收窄超过七成。 ... 壁仞去年同期的亏损中，有约10.11亿元来自一项与上市前融资安排有关的财务损益，并非主营经营产生。随着公司今年1月上市，相关赎回权终止，上市后这项财务影响也不再继续产生。按照公司披露的非IFR"
         },
         {
-          "title": "Malaysia weighs Huawei Ascend 910C for MYR2 billion sovereign AI cloud",
-          "url": "https://www.digitimes.com/news/a20260908VL202/huawei-ascend-nvidia-technology-chips.html",
-          "published": "2026-09-08T03:24:27.000Z",
-          "highlights": " # Malaysia weighs Huawei Ascend 910C for MYR2 billion sovereign AI cloud ... Malaysia weighs Huawei Ascend 910C for MYR2 billion sovereign AI cloud ... # Malaysia weighs Huawei Ascend 910C for MYR2 billion sovereign AI cloud ... Huawei's Atlas 900 A3 SuperPoD supports up to 384 Ascend 910C accelerators, the chip Malaysia is evaluating for its sovereign AI cloud. Credit: Huawei ... Malaysia is eva"
-        },
-        {
           "title": "摩尔线程上半年营收17.36亿元大增147.42%，产品矩阵加速迭代，国产GPU公司商业化全面提速",
           "url": "http://mp.cnfol.com/57306/article/1788764287-142700020.html",
           "published": "2026-09-07T00:00:00.000Z",
           "highlights": " 在这场国产GPU加速替代浪潮中，被称为国产AI芯片“四小龙”之一的摩尔线程，正以营收规模 ... 跑、商业化提速 ... 技术快速迭代的 ... 站上国产 ... 赛道的中央。 ... 摩尔线程财报披露，公司上半年实现营业收入17.36亿元，同比大幅增长147.42%，并且超过2025年全年收入;毛利总额9.89亿元，同比增长103.78%;归母净亏损同比收窄95.73%，扣非归母净利润为-1.51亿元，同比收窄52.37%。根据此前已陆续披露的国产AI芯片“四小龙”公司财报，今年上半年，摩尔线程成为其中营收规模最高的GPU厂商。 ... 根据公开信息披露，摩尔线程的产品已覆盖互联网、云服务、低空经济、游戏、科研、政务等场景。GPU智算卡MTTS5000已实现规模化量产与销售，夸娥智算集群在北京、无锡、杭州等多地完成部署交付，产品商业化正从单点标杆走向批量复制。 连续五年迭代产品矩阵，新"
+        },
+        {
+          "title": "摩尔线程「庐山」GPU：国产首款硬件光追显卡，官宣2026 Q4上市，对标RTX50系列_四川万物纵横",
+          "url": "https://www.iotdt.com/news/xingyezixun/2969.html",
+          "published": "2026-09-07T00:00:00.000Z",
+          "highlights": " 摩尔线程「庐山」GPU：国产首款硬件光追显卡，官宣2026 Q4上市，对标RTX50系列_四川万物纵横 ... 706 ... 2151 ... # 摩尔线程「庐山」GPU：国产首款硬件光追显卡，官宣2026 Q4上市，对标RTX50系列 作者：万物纵横 发布时间：2026-09-07 09:35 阅读量： ... 摩尔线程在 2026 半年度业绩说明会上确认，基于花港第五代架构打造的庐山 GPU预计 2026 年第四季度正式上市，这是国内第一款具备原生硬件实时光线追踪的消费级 GPU，结束国产显卡长期依靠软件模拟光追的局面，行业将其性能目标对标 RTX50 系列高端产品线。 ... 最高 64GB 超大显存，高于 RTX5090 的 32GB，既 ... 8K 游戏大材质，也适合本地大模型 ... 、专业渲染、CAD/CAE 设计工作流。 ... 1. 游戏消费级：补齐国产 GP"
         },
         {
           "title": "摩尔线程“庐山”芯片将至：拥抱“图形 +AI”范式，首发国产硬件光追-科技-智快网",
@@ -176,22 +188,10 @@
           "highlights": " 9月2日，燧原科技启动网上、网下申购。至此，摩尔线程、沐曦股份、壁仞科技、燧原科技四家国产算力芯片企业全部完成与资本市场的对接。这意味着国产高端GPU完成了初步的技术验证和资本化，下一阶段将是规模化商用能力的直接比拼。 ... 市场习惯把四家企业合称为“国产GPU四小龙”，但翻开2026年半年报和燧原的招股书就能发现，这只是一个通俗标签。四家走的技术路线、做的产品、面对的客户，差异远大于相似。与其说这是一个赛道里的四家竞对，不如说它们各自站在国产算力产业链的不同节点上，用不同的方式回答同一个问题：在市场高度集中的 AI算力产业里，国产算力企业如何找到自己的位置？ ... 摩尔线程：全功能GPU向下延伸 ... 算力从云端走向 ... 2026年上半年，摩尔线程营收17.36亿元，同比增长147%。相比亮眼的增长数字，收入结构变化更值得关注：公司经营正从早期项目交付模式向规模化交付演进——"
         },
         {
-          "title": "GPU四小龙进入竞争新阶段_新浪财经_新浪网",
-          "url": "http://finance.sina.com.cn/wm/2026-09-02/doc-iniqmwqu7614839.shtml",
-          "published": "2026-09-02T00:00:00.000Z",
-          "highlights": " 9月 2日，燧原科技启动网上、网下申购。至此，摩尔线程、沐曦股份、壁仞科技、燧原科技四家国产算力芯片企业全部完成与资本市场的对接。这意味着国产高端 GPU完成了初步的技术验证和资本化，下一阶段将是规模化商用能力的直接比拼。 ... 龙”，但翻开 2026年 ... 报和燧原的招股书 ... 四家走的技术路线 ... 做的产品、面对的 ... 大于相似。 ... 国产算力产业链 ... 同一个问题：在市场高度集 ... AI算力产业 ... 2026年上半年，摩尔线程营收 17.36亿元，同比增长 147%。相比亮眼的增长数字，收入结构变化更值得关注：公司经营正从早期项目交付模式向规模化交付演进—— 2026年 3月签订的 6.6亿元夸娥智算集群合同已在报告期内完成交付，意味着国产算力正在从信创示范项目走向常态化采购。 ... 目前，基于 MTT S5000构建的夸娥万卡集群已成功部署并上"
-        },
-        {
           "title": "“国产GPU四小龙”贴身肉搏，谁先迎来业绩兑现期？_凤凰网",
           "url": "https://news.ifeng.com/c/8w2qedDf8EC",
           "published": "2026-08-31T11:57:32.000Z",
           "highlights": " 国产GPU“四小龙”之一、算力芯片“独角兽”燧原科技叩开科创板大门后不到一周，摩尔线程（688795.SH）、壁仞科技（06082.HK）、沐曦股份（688802.SH）三家公司的半年报也全部完成披露。 ... 四家公司几乎同期起步，上市路径却各不相同——摩尔线程率先登陆科创板，沐曦股份紧随其后，壁仞科技选择港股，燧原科技收官科创板，将于9月2日启动网上网下申购。本次燧原科技拟募集资金60亿元，投向三大方向：15.03亿元用于第五代AI芯片系列产品研发及产业化项目；11.97亿元用于第六代AI芯片系列产品研发及产业化项目；33亿元用于先进人工智能软硬件协同创新项目。 ... 营收规模上，座次已然分明。摩尔线程上半年17.36亿元领跑；壁仞上半年12.36亿元，同比增长近20倍；燧原上半年11.20亿元，首次站上十亿门槛；沐曦上半年13.24亿元，同比增长44.67%，增速相对平稳。 .."
-        },
-        {
-          "title": "有钱也买不到？华为昇腾910C让大厂采购四处托关系_凤凰网",
-          "url": "https://tech.ifeng.com/c/8vu0OhfVqfd",
-          "published": "2026-08-26T04:52:05.000Z",
-          "highlights": " # 有钱也买不到？华为昇腾910C让大厂采购四处托关系 光年Tech 2026年08月26日 12:52:05 华为昇腾910C被抢光：字节阿里扫空库存，中国AI算力的命门不在华盛顿 作者 | 佳明 编辑 | 陈立峰 ... 八月中旬，几家头部大模型公司的采购负责人私下都在忙同一件事，托关系、加预算、甚至提前预付，只为多抢到几千张华为昇腾910C。 ... 这款一年前还被质疑能不能用的国产训练芯片，如今在现货市场一卡难求，二级市场一度被炒出三成以上的溢价。 ... 字节和阿里已经把现有库存扫光，腾讯、百度、科大讯飞在后面排队等着分货。 ... 到了2026年一季度，英伟达在中国加速卡市场的份额急剧萎缩，国产芯片已实现反超，其中华为昇腾占据领先地位。 ... 就在这个被硬生生腾出来的空 ... 期，华为昇腾成了最确 ... 910C在2025年全年出货约八十一点二万颗，拿下国内近一半份额，"
         }
       ]
     }
