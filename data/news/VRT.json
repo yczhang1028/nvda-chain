@@ -1,7 +1,78 @@
 {
   "ticker": "VRT",
   "name": "Vertiv",
-  "fetched_at": "2026-10-02T10:00:33",
-  "count": 0,
-  "items": []
+  "fetched_at": "2026-10-05T10:00:55",
+  "count": 10,
+  "items": [
+    {
+      "title": "Vertiv Holdings Co. - Vertiv Reports Strong Second Quarter 2026 with Diluted EPS Growth of 53% (Adjusted Diluted EPS Growth of +60%); Raises Full Year 2026 Guidance Across All Key Metrics",
+      "url": "https://investors.vertiv.com/news/news-details/2026/Vertiv-Reports-Strong-Second-Quarter-2026-with-Diluted-EPS-Growth-of-53-Adjusted-Diluted-EPS-Growth-of-60-Raises-Full-Year-2026-Guidance-Across-All-Key-Metrics/default.aspx?.com=",
+      "published": "2026-07-29T00:00:00.000Z",
+      "author": "N/A",
+      "highlights": " - Expects full year 2026 net sales of $14,000 million and organic sales growth of 31%, each at the midpoint of guidance, compared to full year 2025. - Expects full year 2026 diluted EPS of $5.82 to $5.92 and adjusted diluted EPS of $6.65 to $6.75, a midpoint increase of 72% and 60%, respectively, compared to full year 2025. COLUMBUS, Ohio, July 29, 2026 /PRNewswire/ -- Vertiv Holdings Co (NYSE: VRT) (\"Vertiv\"), a global leader in critical digital infrastructure, reported financial results for its second quarter ended June 30, 2026. Vertiv reported second quarter net sales of $3,274 million, a"
+    },
+    {
+      "title": "Vertiv (VRT) Q2 2026 Earnings Call Transcript | The Motley Fool",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/08/07/vertiv-vrt-q2-2026-earnings-call-transcript/",
+      "published": "2026-08-07T23:40:52.000Z",
+      "author": "Motley Fool Transcribing",
+      "highlights": " Management reported that second-quarter performance was driven by intensifying demand for artificial intelligence and general compute infrastructure, necessitating rapid capacity expansions across the Americas and APAC. The company stated it is currently navigating a learning curve associated with increasingly complex, large-scale project deployments, which resulted in minor revenue timing shifts during the quarter. Management indicated that the global pipeline is accelerating across hyperscale, colocation, and enterprise customer categories. The company confirmed it has reached a net cash po"
+    },
+    {
+      "title": "Vertiv Holdings Co. - Vertiv Brings Converged Physical Infrastructure to NVIDIA Vera Rubin DSX AI Factories",
+      "url": "https://investors.vertiv.com/news/news-details/2026/Vertiv-Brings-Converged-Physical-Infrastructure-to-NVIDIA-Vera-Rubin-DSX-AI-Factories/default.aspx",
+      "published": "2026-03-16T00:00:00.000Z",
+      "author": "N/A",
+      "highlights": " # News details ### Vertiv Brings Converged Physical Infrastructure to NVIDIA Vera Rubin DSX AI Factories Mar 16, 2026 ... COLUMBUS, Ohio, March 16, 2026 /PRNewswire/ -- Vertiv (NYSE: VRT), a global leader in critical digital infrastructure, today announced its role in advancing converged physical infrastructure designs for the NVIDIA Vera Rubin DSX AI factory reference design and the NVIDIA Omniverse DSX Blueprint. As AI factories scale in density, complexity, and power demand, operators are under pressure to compress time to deployment, improve infrastructure utilization, and reduce integrat"
+    },
+    {
+      "title": "Vertiv Q2 Earnings Call Highlights AI Data Center Growth — Latest News | MetaTrader",
+      "url": "https://www.metatrader.com/en/news/zacks/1931623-vertiv-q2-earnings-call-highlights-ai-data-center-growth",
+      "published": "2026-07-30T14:00:00.000Z",
+      "author": "N/A",
+      "highlights": " Vertiv Holdings Co VRT used its second-quarter earnings call to highlight accelerating demand for AI infrastructure, expanding data center complexity and continued investment in capacity and technology. Management raised its full-year outlook across key metrics as order momentum strengthened globally. The company reported adjusted earnings per share (EPS) of $1.52, beating the Zacks Consensus Estimate of $1.43. Revenues of $3.28 billion missed the consensus estimate of $3.39 billion. ... Management emphasized that AI and general compute demand are driving larger and more infrastructure-intens"
+    },
+    {
+      "title": "Vertiv Reports Strong Second Quarter 2026 with Diluted EPS Growth of 53% (Adjusted Diluted EPS Growth of +60%); Raises Full Year 2026 Guidance Across All Key Metrics",
+      "url": "https://www.prnewswire.com/news-releases/vertiv-reports-strong-second-quarter-2026-with-diluted-eps-growth-of-53-adjusted-diluted-eps-growth-of-60-raises-full-year-2026-guidance-across-all-key-metrics-302837598.html",
+      "published": "2026-07-29T00:00:00.000Z",
+      "author": "Vertiv Holdings Co",
+      "highlights": " - Expects full year 2026 net sales of $14,000 million and organic sales growth of 31%, each at the midpoint of guidance, compared to full year 2025. - Expects full year 2026 diluted EPS of $5.82 to $5.92 and adjusted diluted EPS of $6.65 to $6.75, a midpoint increase of 72% and 60%, respectively, compared to full year 2025. COLUMBUS, Ohio, July 29, 2026 /PRNewswire/ -- Vertiv Holdings Co (NYSE: VRT) (\"Vertiv\"), a global leader in critical digital infrastructure, reported financial results for its second quarter ended June 30, 2026. Vertiv reported second quarter net sales of $3,274 million, a"
+    },
+    {
+      "title": "Earnings call transcript: Vertiv tops Q2 2026 EPS forecast, shares rise premarket By Investing.com",
+      "url": "https://ng.investing.com/news/transcripts/earnings-call-transcript-vertiv-tops-q2-2026-eps-forecast-shares-rise-premarket-93CH-2627361",
+      "published": "2026-07-30T12:22:11.000Z",
+      "author": "N/A",
+      "highlights": " Vertiv Holdings posted a mixed but generally strong second quarter, beating profit expectations while missing on revenue, as the data center infrastructure company benefited from higher margins, robust cash generation and rising demand tied to artificial intelligence buildouts. Adjusted earnings per share came in at $1.52, above the $1.42 forecast, while revenue reached $3.27 billion, below the $3.37 billion estimate. In premarket trading, the stock rose 4.91% to $234, up $10.96 from the previous close of $223.04, suggesting investors were encouraged by the company’s raised outlook and strong"
+    },
+    {
+      "title": "Vertiv Raises Full-Year Guidance Again as Data Center Backlog Swells, But Admits Growing Pains From Project Complexity",
+      "url": "https://www.druckfin.com/en/articles/vertiv-raises-full-year-guidance-again-as-data-center-backlog-swells-but-admits-20260729",
+      "published": "2026-07-29T00:00:00.000Z",
+      "author": "N/A",
+      "highlights": " Vertiv Holdings delivered another quarter of accelerating growth and raised full-year guidance across every key metric, even as management acknowledged that the sheer scale and complexity of its largest data center projects caused revenue timing shifts in the second quarter. The results underscore a company riding an AI infrastructure buildout that shows no signs of slowing, while also revealing the operational strain that comes with executing multi-hundred-million-dollar, multi-phase projects at unprecedented scale. Net sales rose 24% year-over-year to $3.274 billion, with organic growth of "
+    },
+    {
+      "title": "Vertiv Holdings Co (VRT) Q2 FY2026 Earnings Recap: Revenue Miss -3.1% | The Buildout",
+      "url": "https://thebuildout.co/earnings/recap/VRT/CY2026Q3-FY2026Q2",
+      "published": "2026-07-29T12:00:00.000Z",
+      "author": "N/A",
+      "highlights": " Vertiv Holdings Co reported Q2 FY2026 revenue of $3.27B, a miss of 3.1% against consensus, and EPS of $1.52, a beat of 6.3%. ... Vertiv's strong Q2 and raised guidance underscore the accelerating AI infrastructure buildout, with demand signals broad-based across regions and customer categories. The company's leadership in power architecture evolution (800V DC) and thermal management positions it to capture increasing content per megawatt as AI data centers scale. The timing shifts from complex large projects highlight the operational challenges of scaling infrastructure, but management's conf"
+    },
+    {
+      "title": "Vertiv Reports Q2 2026 Earnings: Revenue Misses Estimates, EPS Beats, Guidance Raised - VRT News - EveryTicker",
+      "url": "https://everyticker.com/quote/VRT/news/vertiv-reports-q2-2026-earnings-revenue-misses-estimates-eps-beats-guidance-raised",
+      "published": "2026-07-29T18:56:57.000Z",
+      "author": "N/A",
+      "highlights": " ## At a glance • Vertiv has emerged as the pure-play infrastructure winner of the AI data center buildout, delivering 24.1% revenue growth in Q2 2026 and raising full-year guidance to 37% growth. However, this performance is priced at 58x earnings with insiders selling $142.1 million in shares over the past year, creating a tension between operational momentum and valuation risk. • The company's technology leadership in 800V DC power architectures and liquid cooling systems, validated through direct collaboration with NVIDIA (NVDA) on next-generation AI deployments, is expanding content per m"
+    },
+    {
+      "title": "Stronger Results, AI Deals, and Buybacks Could Be A ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stronger-results-ai-deals-buybacks-111248821.html",
+      "published": "2026-08-12T00:00:00.000Z",
+      "author": "Sasha Jovanovic      Wed, August 12, 2026 at 7:12 AM EDT   3 min read",
+      "highlights": " In late July 2026, Vertiv Holdings Co reported second-quarter results showing higher revenue and net income year over year, completed its US$599.84 million share repurchase program, and raised both third-quarter and full-year 2026 guidance, while earlier in August Bitzero Holdings Inc. announced a collaboration with Vertiv to support AI and HPC data center build-outs. Together with Vertiv's planned presentation at the OCP APAC Summit 2026 in Taipei, these developments underline the company's growing role in advanced, high-density AI infrastructure and integrated power-and-cooling solutions. W"
+    }
+  ]
 }
