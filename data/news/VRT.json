@@ -1,7 +1,7 @@
 {
   "ticker": "VRT",
   "name": "Vertiv",
-  "fetched_at": "2026-10-07T10:00:06",
+  "fetched_at": "2026-10-08T10:00:21",
   "count": 10,
   "items": [
     {
@@ -61,18 +61,18 @@
       "highlights": " Vertiv Holdings Co reported Q2 FY2026 revenue of $3.27B, a miss of 3.1% against consensus, and EPS of $1.52, a beat of 6.3%. ... Vertiv's strong Q2 and raised guidance underscore the accelerating AI infrastructure buildout, with demand signals broad-based across regions and customer categories. The company's leadership in power architecture evolution (800V DC) and thermal management positions it to capture increasing content per megawatt as AI data centers scale. The timing shifts from complex large projects highlight the operational challenges of scaling infrastructure, but management's conf"
     },
     {
-      "title": "Vertiv Reports Q2 2026 Earnings: Revenue Misses Estimates, EPS Beats, Guidance Raised - VRT News - EveryTicker",
-      "url": "https://everyticker.com/quote/VRT/news/vertiv-reports-q2-2026-earnings-revenue-misses-estimates-eps-beats-guidance-raised",
-      "published": "2026-07-29T18:56:57.000Z",
-      "author": "N/A",
-      "highlights": " ## At a glance • Vertiv has emerged as the pure-play infrastructure winner of the AI data center buildout, delivering 24.1% revenue growth in Q2 2026 and raising full-year guidance to 37% growth. However, this performance is priced at 58x earnings with insiders selling $142.1 million in shares over the past year, creating a tension between operational momentum and valuation risk. • The company's technology leadership in 800V DC power architectures and liquid cooling systems, validated through direct collaboration with NVIDIA (NVDA) on next-generation AI deployments, is expanding content per m"
-    },
-    {
       "title": "Nvidia Partner Surges After Earnings Beat; Vertiv Expects ' ...",
       "url": "https://www.investors.com/news/nvidia-partner-vertiv-earnings-momentum-continue-2026/",
       "published": "2026-02-13T00:00:00.000Z",
       "author": "Investor's Business Daily",
       "highlights": " Nvidia Partner Surges After Earnings Beat; Vertiv Expects 'Momentum' To Continue In 2026 | Investor's Business Daily # Nvidia Partner Surges After Earnings Beat; Expects 'Momentum' To Continue In 2026 ... Artificial intelligence data center infrastructure play, and Nvidia (NVDA) partner, Vertiv Holdings (VRT) roared higher in stock market trade on Wednesday after reporting better-than-expected fourth-quarter earnings and citing \"deep collaborations with semiconductor industry leaders\" as a reason for \"momentum to continue\" in 2026. Vertiv early Wednesday announced that Q4 EPS grew 37.4% to $1"
+    },
+    {
+      "title": "How Nvidia Cooling Approval At Vertiv Holdings Co (VRT) Has Changed Its Investment Story - Simply Wall St News",
+      "url": "https://simplywall.st/stocks/us/capital-goods/nyse-vrt/vertiv-holdings-co/news/how-nvidia-cooling-approval-at-vertiv-holdings-co-vrt-has-ch",
+      "published": "2026-09-23T00:00:00.000Z",
+      "author": "N/A",
+      "highlights": " - Vertiv Holdings Co has been highlighted across recent reports for its role in supplying power, cooling, and modular infrastructure to high-density AI data centers, supported by strong AI focused orders, a sizable backlog, raised 2026 sales guidance to about US$14b, and Nvidia qualifying Vertiv's 2.3 megawatt CoolChip unit for its DSX Ready program. - The planned acquisition of UtilityInnovation Group, combined with Vertiv's expanding liquid cooling portfolio and Nvidia program endorsement, suggests deeper integration across data center power, microgrid controls, and advanced cooling that co"
     }
   ]
 }

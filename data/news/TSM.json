@@ -1,7 +1,78 @@
 {
   "ticker": "TSM",
   "name": "台积电 ADR",
-  "fetched_at": "2026-10-07T10:00:06",
-  "count": 0,
-  "items": []
+  "fetched_at": "2026-10-08T10:00:21",
+  "count": 10,
+  "items": [
+    {
+      "title": "TSMC Reports Second Quarter EPS of NT$27.25",
+      "url": "https://pr.tsmc.com/system/files/newspdf/attachment/e98d0838eea3c47083fb67dbc349c059d8457c25/2Q26%20%28E%29_with%20gudiance_final_wmn.pdf",
+      "published": "N/A",
+      "author": "pdkramer",
+      "highlights": " HSINCHU, Taiwan, R.O.C., Jul. 16, 2026 -- TSMC (TWSE: 2330, NYSE: TSM) today announced consolidated revenue of NT$1,270.38 billion, net income of NT$706.56 billion, and diluted earnings per share of NT$27.25 (US$4.31 per ADR unit) for the second quarter ended June 30, 2026. Year-over-year, second quarter revenue increased 36.0%, while net income and diluted EPS both increased 77.4%. Compared to first quarter 2026, second quarter results represented a 12.0% increase in revenue and a 23.4% increase in net income. All figures were prepared in accordance with TIFRS on a consolidated basis. ... In"
+    },
+    {
+      "title": "2026 Second Quarter Earnings Conference",
+      "url": "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-07/0e4d9625c9ef46521afd54002f835e45a9035043/2Q26%20Presentation%20%28E%29.pdf",
+      "published": "N/A",
+      "author": "N/A",
+      "highlights": " ## 2026 Second Quarter Earnings Conference July 16, 2026 ... • Welcome Jeff Su, IR Director • 2Q26 Financial Results and 3Q26 Outlook Wendell Huang, CFO • Key Messages Wendell Huang, CFO ... ### 3Q26 Guidance Based on our current business outlook, management expects: ▪ Revenue to be between US$44.6 billion and US$45.8 billion And, based on the exchange rate assumption of 1 US dollar to 32 NT dollars, management expects: ▪ Gross profit margin to be between 65% and 67% ▪ Operating profit margin to be between 56% and 58% ### Future Outlook Based on our current business outlook, management expect"
+    },
+    {
+      "title": "FOR IMMEDIATE RELEASE",
+      "url": "https://investor.tsmc.com/chinese/encrypt/files/encrypt_file/reports/2026-07/6f49632674bd2d0fd48cb65aaf89ec6ab510b559/2Q26%20ManagementReport.pdf",
+      "published": "N/A",
+      "author": "N/A",
+      "highlights": " • Revenue Analysis • Profit & Expense Analysis • Financial Condition Review • Cash Flow • CapEx • Recap of Recent Important Events & Announcements Financial Highlights: Second Quarter 2026 l Net revenue was NT$1,270.38 billion, representing a 12.0% increase from NT$1,134.10 billion in 1Q26 and a 36.0% increase from NT$933.79 billion in 2Q25. l Gross margin was 67.7%, 1.5 percentage points higher than 1Q26 and 9.1 percentage points higher than 2Q25. l Operating margin was 60.3%, up 2.2 percentage points from 1Q26 and up 10.7 percentage points from 2Q25. l Non-operating items were a gain of NT$"
+    },
+    {
+      "title": "TSMC 2026 Q3 Quarterly Results - Taiwan Semiconductor Manufacturing Company Limited",
+      "url": "https://investor.cld.tsmc.com/english/quarterly-results/2026/q3",
+      "published": "N/A",
+      "author": "N/A",
+      "highlights": " TSMC 2026 Q3 Quarterly Results - Taiwan Semiconductor Manufacturing Company Limited # Financial Results - 2026Q3 ... TSMC Third Quarter 2026 Earnings Conference will be held on Thursday, October 15, 2026, at 14:00 Taiwan time/ 2:00 Eastern Time. TSMC will observe its Quiet Period from October 5 to October 14, 2026. During this period, TSMC refrains itself from making contacts with the investment communities. ... | | | 2Q26 | | 3Q26 | | --- | --- | --- | --- | --- | | | | Actual | Guidance | Guidance | | Net Revenue (US$ billion) | 40.20 | 39.0-40.2 | 44.6-45.8 | | | Exchange Rate (USD/NTD) | "
+    },
+    {
+      "title": "TSMC smashes forecasts with record profit, flags more US ...",
+      "url": "https://www.reuters.com/world/china/tsmc-likely-post-fourth-quarter-profit-leap-driven-by-ai-boom-2026-01-14/",
+      "published": "2026-01-14T00:00:00.000Z",
+      "author": "Wen-Yee Lee",
+      "highlights": " - TSMC Q4 profit soars 35%, beats market estimates - Says additional Arizona land purchase hints at US plans - Forecasts capital spending of $52-$56 billion in 2026 - Expects 2026 revenue to jump by close to 30% TAIPEI, Jan 15 (Reuters) - TSMC(2330.TW), opens new tab, the world's main producer of advanced AI chips, on Thursday posted a forecast-smashing 35% jump in fourth-quarter profit to a record high, predicted robust annual growth and flagged more U.S. manufacturing capacity was in the works. Riding high on what it calls the \"AI mega trend\", TSMC said its customers, and their customers, w"
+    },
+    {
+      "title": "NVIDIA Corporation - NVIDIA Announces Financial Results for Second Quarter Fiscal 2027",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/default.aspx",
+      "published": "N/A",
+      "author": "N/A",
+      "highlights": " SANTA CLARA, Calif., Aug. 26, 2026 (GLOBE NEWSWIRE) -- NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago. For the quarter, GAAP and non-GAAP gross margins were both 75.0%. GAAP and non-GAAP earnings per diluted share were $2.46 and $2.22, respectively. “AI has reached its inflection point. It’s doing useful work. Its tokens are productive and profitable. Now, compute is revenue,” said Jensen Huang, founder and CEO of NVIDIA. “And demand is accelerating. This time last year, on"
+    },
+    {
+      "title": "TSMC posts record profits on continued AI demand",
+      "url": "https://www.cnbc.com/2026/04/16/tsmc-q1-profit-58-percent-ai-chip-demand-record.html",
+      "published": "2026-04-16T00:00:00.000Z",
+      "author": "Dylan Butts",
+      "highlights": " TSMC posts record profits on continued AI demand # TSMC first-quarter profit rises 58%, beats estimates as AI demand fuels record run ... Points - TSMC posted a 58% profit jump, driven by strong AI chip demand. - Revenue beat forecasts, marking a fourth straight quarterly record. - TSMC said advanced chips accounted for about 75% of total wafer revenue in the quarter. ... Taiwan Semiconductor Manufacturing Company Add To Watchlist on Thursday reported a 58% increase in first-quarter profit, beating estimates and hitting a fresh record as demand for artificial intelligence chips stayed strong."
+    },
+    {
+      "title": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD (Form: 6-K, Received: 07/16/2026 07:46:13)",
+      "url": "https://www.otcmarkets.com/filing/html?guid=lkK-kWYqxfLXB3h&id=19611602",
+      "published": "2026-07-16T00:00:00.000Z",
+      "author": "N/A",
+      "highlights": " TSMC Reports Second Quarter EPS of NT$27.25 HSINCHU, Taiwan, R.O.C., Jul. 16, 2026 -- TSMC (TWSE: 2330, NYSE: TSM) today announced consolidated revenue of NT$1,270.38 billion, net income of NT$706.56 billion, and diluted earnings per share of NT$27.25 (US$4.31 per ADR unit) for the second quarter ended June 30, 2026. Year-over-year, second quarter revenue increased 36.0%, while net income and diluted EPS both increased 77.4%. Compared to first quarter 2026, second quarter results represented a 12.0% increase in revenue and a 23.4% increase in net income. All figures were prepared in accordanc"
+    },
+    {
+      "title": "2026 Second Quarter Earnings Conference",
+      "url": "https://investor.tsmc.com/english/encrypt/files/encrypt_file/qr/phase4_reports/2026-07/9b7865fc366e66c9e73f04ab72a2a6c3c00fb49e/2Q26%20Presentation%20%28E%29_WoG.pdf",
+      "published": "N/A",
+      "author": "N/A",
+      "highlights": " ## 2026 Second Quarter Earnings Conference July 16, 2026 ... ##### • Welcome Jeff Su, IR Director • 2Q26 Financial Results and 3Q26 Outlook Wendell Huang, CFO • Key Messages Wendell Huang, CFO ... | Selected Items from Statements of Comprehensive Income | | | --- | --- | | | | | (In NT$ billions unless otherwise noted) | 2Q26 | | | | | Net Revenue (US$ billions) | 40.20 | | Net Revenue | 1,270.38 | | Gross Margin | 67.7% | | Operating Expenses | (98.98) | | Operating Margin | 60.3% | | Non-Operating Items | 95.83 | | Net Income Attributable to Shareholders of the Parent Company | 706.56 | | N"
+    },
+    {
+      "title": "Document",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
+      "published": "N/A",
+      "author": "N/A",
+      "highlights": " SANTA CLARA, Calif.—Aug. 26, 2026― NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago. For the quarter, GAAP and non-GAAP gross margins were both 75.0%. GAAP and non-GAAP earnings per diluted share were $2.46 and $2.22, respectively. “AI has reached its inflection point. It’s doing useful work. Its tokens are productive and profitable. Now, compute is revenue,” said Jensen Huang, founder and CEO of NVIDIA. “And demand is accelerating. This time last year, one lab alone was driv"
+    }
+  ]
 }
