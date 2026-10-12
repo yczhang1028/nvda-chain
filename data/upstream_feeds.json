@@ -1,16 +1,77 @@
 {
-  "fetched_at": "2026-10-09T10:01:39",
+  "fetched_at": "2026-10-12T10:02:02",
   "feeds": {
     "nvidia_动向": {
       "label": "🔺 NVIDIA 上游动向",
       "color": "#22d3ee",
-      "count": 0,
-      "items": []
+      "count": 10,
+      "items": [
+        {
+          "title": "NVIDIA Spotlight — AI GPU Supply Chain, HBM4, CoWoS, Vera Rubin & CUDA Moat | SemiconductorX",
+          "url": "http://semiconductorx.com/spotlight-nvidia.html",
+          "published": "N/A",
+          "highlights": " largest customer of SK ... largest user of TSMC ... | HBM4 supply allocation (Vera Rubin) | SK Hynix: ~70% of Vera Rubin HBM4 allocation; base die respun due to performance issues causing original delay; HBM4 qualification still finalizing as of April 2026. Samsung: ~30%; first to begin HBM4 shipments (February 2026); 4nm base die (1c DRAM) - most advanced base die of three suppliers; Samsung lea"
+        },
+        {
+          "title": "JPMorgan Raises TPU Forecast Again on CoWoS Capacity Support: Shipments Expected to Reach 3.7M and 5M Units This Year and Next - 老虎证券",
+          "url": "https://www.itiger.com/hans/news/1109625222",
+          "published": "N/A",
+          "highlights": " NVIDIA's allocation remains largely flat, while progress on AMD and AWS projects varies. JPMorgan maintains its 2026 CoWoS allocation for NVIDIA at 700,000 wafers, albeit with a slight product mix adjustment. Due to HBM4 readiness issues, mass production of the Rubin series is delayed by 1-2 months, leading to a minor shipment reduction, while GB300 shipments have been increased. Analysts project"
+        },
+        {
+          "title": "HBM4 contract price +117% WoW; Samsung enters NVIDIA qualification | Silicon Analysts Weekly",
+          "url": "https://siliconanalysts.com/newsletter/qual-watch/2026-10-05",
+          "published": "2026-10-06T14:00:25.000Z",
+          "highlights": " Silicon Analysts Weekly for the week of 2026-09-28 to 2026-10-05: HBM4 contract price +117% WoW; Samsung enters NVIDIA qualification. A sourced, provenance-marked briefing on AI-chip supply-chain and pricing movements — HBM pricing, wafer pricing, foundry and CoWoS capacity, per-chip bill-of-materials cost, and HBM qualification status — derived from public data. Part of the Silicon Analysts semi"
+        },
+        {
+          "title": "SK Hynix HBM4 16-Hi volume shipping; CoWoS lead times stretch to 78 weeks | Silicon Analysts Weekly",
+          "url": "https://siliconanalysts.com/newsletter/qual-watch/2026-09-14",
+          "published": "2026-09-15T14:00:37.000Z",
+          "highlights": " SK Hynix moving HBM4 16-Hi to volume shipping for Vera Rubin is the sharpest supply-chain signal this week — it cements first-mover advantage before Samsung clears HBM4 qualification with NVIDIA. CoWoS lead times stretching to 78 weeks mean packaging, not silicon, remains the binding constraint for anyone building AI systems today. ... TSMC CoWoS lead time — ▲ now 52 to 78 weeks (was 2026 52-78 w"
+        },
+        {
+          "title": "NVIDIA to Boost CoWoS Production Capacity by 3.5x to Over 120,000 Wafers/Month by End-2026, Securing HBM4 Supply | Troy Technical",
+          "url": "https://troy-technical.com/2026/09/13/nvidia-to-boost-cowos-production-capacity-by-3-5x-to-over-120000-wafers-month-by-end-2026-securing-hbm4-supply/",
+          "published": "2026-09-13T10:28:07.000Z",
+          "highlights": " NVIDIA to Boost CoWoS Production Capacity by 3.5x to Over 120,000 Wafers/Month by End-2026, Securing HBM4 Supply | Troy Technical ... Overview NVIDIA plans to scale its CoWoS (Chip-on-Wafer-on-Substrate) production capacity by 3.5x to 120,000–130,000 wafers per month by the end of 2026, up from 35,000, driven largely by its own demand. The company is set to consume approximately 60% of TSMC’s tot"
+        },
+        {
+          "title": "CoWoS Q3 alloc hits 850K wafers; Broadcom cut to 200K | Silicon Analysts Weekly",
+          "url": "https://siliconanalysts.com/newsletter/qual-watch/2026-09-07",
+          "published": "2026-09-08T14:00:48.000Z",
+          "highlights": " NVIDIA's CoWoS allocation reaching 800,000–850,000 wafers in Q3 2026 — roughly 60% of total capacity — leaves little room for anyone else, as Broadcom's allocation was trimmed from ~240,000 to 200,000 wafers. With Micron's entire 2026 HBM supply sold out, readers focused on HBM pricing should check the HBM Analysis page. ... NVIDIA CoWoS customer allocation — ▲ now 2026-Q3 800,000–850,000 wafers "
+        },
+        {
+          "title": "HBM4 volume shipping; CoWoS lead times stretch past 12 months | Silicon Analysts Weekly",
+          "url": "https://siliconanalysts.com/newsletter/qual-watch/2026-08-25",
+          "published": "2026-08-25T14:01:50.000Z",
+          "highlights": " Silicon Analysts Weekly for the week of 2026-08-18 to 2026-08-25: HBM4 volume shipping; CoWoS lead times stretch past 12 months. A sourced, provenance-marked briefing on AI-chip supply-chain and pricing movements — HBM pricing, wafer pricing, foundry and CoWoS capacity, per-chip bill-of-materials cost, and HBM qualification status — derived from public data. Part of the Silicon Analysts semicondu"
+        },
+        {
+          "title": "TSMC CoWoS +50% to ~120K wpm Q4; Samsung HBM3E qualified at NVIDIA | Silicon Analysts Weekly",
+          "url": "https://siliconanalysts.com/newsletter/qual-watch/2026-08-03",
+          "published": "2026-08-04T14:00:49.000Z",
+          "highlights": " for the week of 2026-07-27 to 2026-08-03: TSMC CoWoS +5 ... % to ~120K wpm Q4; Samsung HBM3E qualified at NVIDIA. A sourced, provenance-marked briefing on AI- ... supply-chain and pricing movements — H ... pricing, wafer ... , foundry and CoWoS capacity, per-chip bill-of-materials cost, and HBM qualification status — derived from public data. Part of the Silicon Analysts semiconductor ... TSMC Co"
+        },
+        {
+          "title": "Silicon Analysts Weekly: HBM4 qualifies across all three vendors, CoWoS expands | Silicon Analysts Weekly",
+          "url": "https://siliconanalysts.com/newsletter/qual-watch/2026-06-22",
+          "published": "2026-06-24T05:50:54.000Z",
+          "highlights": " CoWoS capacity is tracking toward 120,000–130,000 wafers/month by Q4 2026, roughly doubling from end-2025 levels — yet packaging, not wafer supply, remains the binding constraint on AI accelerator output. Simultaneously, all three memory vendors are now HBM4-qualified for Vera Rubin, but SK Hynix's 60% market share means allocation leverage stays concentrated. Bernstein's note that HBM prices wou"
+        },
+        {
+          "title": "Nvidia CoWoS production capacity to reach 650,000 units in 2026, up 76% year-on-year; 840,000 units in 2027. Next-generation Rubin GPU mass production target lowered from 2 million to 1.5 million units due to HBM4 validation delays. | Bitget News",
+          "url": "https://www.bitget.com/asia/news/detail/12560605341878",
+          "published": "2026-04-06T16:26:13.000Z",
+          "highlights": " Nvidia CoWoS production capacity to reach 650,000 units in 2026, up 76% year-on-year; 840,000 units in 2027. Next-generation Rubin GPU mass production target lowered from 2 million to 1.5 million units due to HBM4 validation delays. | Bitget News ... Nvidia CoWoS production capacity to reach 650,000 units in 2026, up 76% year-on-year; 840,000 units in 2027. Next-generation Rubin GPU mass producti"
+        }
+      ]
     },
     "国产推理卡": {
       "label": "🇨🇳 国产 AI 芯片动向",
       "color": "#f472b6",
-      "count": 20,
+      "count": 30,
       "items": [
         {
           "title": "昇腾 910D · 概念 · AI产业链地图·知识库",
@@ -19,34 +80,40 @@
           "highlights": " 华为 昇腾系列下一代 AI 训练 NPU（路线图代号，预计 2025-H2 ~ 2026 量产），是 昇腾910C 的升级版，预期采用新一代封装方案和更大 HBM 容量，对标 NVIDIA B200 / NVIDIA B300 时代 昇腾910D CONCEPT · 概念 ... ## 关键规格（路线图，未量产） | 维度 | 路线图数值 | | --- | --- | | 架构 | 达芬奇 NPU 下一代（多 die 集成） | | 预计发布 | 2025-H2 ~ 2026 | | 制程 | 中芯国际 N+2 升级 | | 显存 | HBM3 / HBM3E（容量翻倍至 192GB+，推测） | | FP16 算力 | ~600-800 TFLOPS（推算） | | TDP | ~1,000W | | 整机形态 | Atlas 950 / 960 SuperPoD（路线图） | .."
         },
         {
-          "title": "昇腾计算-华为Ascend-AI计算",
-          "url": "https://e.huawei.com/cn/products/computing/ascend",
+          "title": "电子行业深度报告",
+          "url": "https://pdf.dfcfw.com/pdf/H3_AP202604141821177994_1.pdf",
           "published": "N/A",
-          "highlights": " 昇腾计算-华为Ascend-AI计算-华为企业业务 - # 昇腾计算 面向“端、边、云”的全场景AI基础设施 关于昇腾计算 基于华为昇腾系列（HUAWEI Ascend）AI处理器和基础软件构建Atlas人工智能计算解决方案，包括Atlas系列模块、板卡、小站、服务器、集群等丰富的产品形态，打造面向“端、边、云”的全场景AI基础设施方案，覆盖深度学习领域推理和训练全流程。 关键特性 “开放、简单、可信”的AI解决方案 超强算力 Da Vinci架构 最强AI算力底座 更优效能 极致散热技术 更高能效比 开放易用 端边云协同 软硬件开放 安全可信 从芯片到系统 构建可信AI平台 选择适合您的昇腾计算产品 ### AI模块 ... 提供AI推理、视频分析等功能，支持检索聚类、OCR识别、语音分析、视频分析等场景 ... Atlas 300I A2 推 ... 卡 Atlas 300I Pro"
+          "highlights": " ## 超节点系列报告二：海光&曙光系超节点， ## HSL+IB 构建最全互连体系 2026 年 04 月 14 日 ... [Table_Tag][Table_Summary] 投资要点 ◼ 海光&曙光：超节点算力与芯片设计的战略协同。中科曙光与海光信息 保持上市公司独立性的同时深化战略协同，形成“芯片设计+系统集成” 完整技术链条。海光 DCU 为曙光超节点提供自主可控算力核心，其芯 片级互联技术 HSL 与曙光 scaleFabric 高速网络实现全栈互联协同，推 动国产智算平台迈向系统领先。（1）中科曙光：以超级计算起家，30 年 ... 力；（2）海光信息：国产高端处理器龙头，CPU+DCU 双轮驱动。2022 年上市后主营业务持续放量，CPU 兼容 x86 并迭代至五号，DCU 深算 系列迭代至四号且性能对标国际，2025 年推出的 HSL 协议带宽、时延 ... 间互连带宽"
         },
         {
-          "title": "再度配股募资40亿港元，国产GPU新秀股价承压",
-          "url": "https://www.guancha.cn/CaiJing/2026_10_08_903472.shtml",
-          "published": "N/A",
-          "highlights": " 刚上市不到一年，国产GPU厂商壁仞科技再度通过配股融资。 10月8日，壁仞科技发布公告称，公司与配售代理订立配售协议，拟按每股31.08港元的价格配售1.3亿股新H股，预计所得款项总额约40.404亿港元，扣除相关费用后的所得款项净额约40.197亿港元。 ... 从资金用途来看，这笔超过40亿港元的资金，大头将被壁仞科技投入下一代产品的供应链及公司商业化。 按照公告，配售所得款项净额约70%将用于新一代产品的战略供应链采购、生产准备及商业化，包括确保关键产能、材料及组件、支持提前采购材料、预留产能和建立库存缓冲等，以应对供应链交付周期变化，加快下一代产品的商业出货。 ... 公告称，公司新一代产品已经完成启动测试并进入流片后验证阶段，整体进度较此前配售时的预期更快。目前，公司已经推进相关商业化准备工作，并制定大规模生产计划。预计未来数个季度将进入客户送样及量产阶段，公司需要提前进行供应"
+          "title": "壁仞科技三个月内二度配售 募资40.4亿港元 | Token导航",
+          "url": "https://www.tokendh.com/news/4091e62ef1",
+          "published": "2026-10-11T05:39:54.000Z",
+          "highlights": " 10月8日,“港股GPU（图形处理器）第一股”壁仞科技发布公告称，公司与配售代理订立配售协议，按每股31.08港元的价格向预计不少于6名承配人配售1.3亿股股份。本次配售由中金公司、瑞银集团负责，所得款项总额为40.4亿港元，主要用于公司新一代产品的战略供应链采购、生产准备及商业化。 这是该公司三个月内的第二次配售：7月8日，壁仞科技刚以每股46.2港元 ... 售1.53亿股，募资净额约70.4亿港元，本次配售价较上次折让约33%。加上1月上市时全球发售募资55.83亿港元，公司上市不足一年已累计募资近170亿港元。公告将本次募资归因于业务节奏加快：新一代产品进度快于此前配售时的预期，而关键材料、组件及产能价格上涨、交付周期拉长，公司须提前采购、预留产能并预付货款，此前两次募资中 ... 给该产品 ... 准备的款项已不敷使用。 北京商报记者从壁仞科技方面了解到，公司新一代旗舰产品BR"
         },
         {
-          "title": "大陸國產GPU四小龍 進入「系統競爭期」 | 陸港經貿 | 兩岸 | 聯合新聞網",
-          "url": "https://udn.com/news/story/7333/9804146?from=udn-catelistnews_ch2",
-          "published": "2026-10-08T17:41:06.000Z",
-          "highlights": " # 大陸國產GPU四小龍 進入「系統競爭期」 2026-10 ... 09 01:41 經濟日報／ 記者謝守真／綜合報導 大陸國產 GPU產業正從單卡性能競爭邁入「系統競爭期」。開源證券指出，大陸「GPU四小龍」（摩爾線程、沐曦、壁仞、燧原）2026年上半年合計營收人民幣55億元，四家業者已跨過從晶片研發到穩定交付集群的階段，下一階段競爭焦點將轉向軟體成熟度、集群有效算力、供應鏈及客戶服務。 開源證券發布研報指出，上述四家企業均已完成從晶片研發到穩定交付集群的第一次跨越，尚未進入普遍穩定的核心盈利階段。 四家約於2018至2020年集中成立，2021至2022年完成首代晶片和產品驗證，2023至2025年進入規模交付和大模型適配階段，2025至2026年逐步完成市場登陸。 摩爾線程定位全功能GPU，涵蓋AI、圖形、科學計算及影片等；沐曦聚焦高性能GPU及全棧計算平台；壁仞聚焦高端GPGP"
-        },
-        {
-          "title": "上市9个月，壁仞科技再度配售，两轮募资超100亿，新一代芯片已点亮_大风号_凤凰网",
-          "url": "https://feng.ifeng.com/c/8x3jUMyPVuL",
-          "published": "2026-10-08T09:19:08.000Z",
-          "highlights": " 芯东西10月8日报道，国产GPGPU厂商壁仞科技今日宣布配售1.3亿股新H股，配售事项所得款项总额约40.4亿港元（约合人民币37.17亿元），净额约 40.2亿港元（约合人民币36.98亿元），公告同步披露其新一代产品已成功点亮，量产进程加速。 ... 这是壁仞科技今年第三次股权融资。该公司于2026年1月2日在港交所上市，7月曾按 ... 0港元 ... 2.5 ... 配售1.53亿 ... 资净额约 ... 亿港元（约合人民币 ... 壁仞科技称，AI算力行业需求强劲增长，同时上游供应日趋紧张、价格持续上涨，该公司新一代GPGPU产品已完成启动测试并进入流片后验证阶段，进度快于预期，需要提前锁定关键产能、加快商业化进程。 ... 壁仞科技成立于2019年9月，总部位于上海闵行，是国内通用智能计算解决方案提供商，专注于通用图形处理器（GPGPU）芯片研发及基于GPGPU的智能计算解"
+          "title": "壁仞新一代GPU点亮，募资40亿加速量产_DOIT",
+          "url": "https://www.doit.com.cn/newsflash/857710220267589.html",
+          "published": "2026-10-09T17:31:59.000Z",
+          "highlights": " 壁仞新一代GPU点亮，募资40亿加速量产_DOIT # 壁仞新一代GPU点亮，募资40亿加速量产 壁仞科技新一代GPU取得关键进展。10月8日，壁仞科技公告称，新一代产品已成功点亮，完成启动测试并进入流片后验证阶段，进度快于此前配售时预期。公司预计未来数个季度内开展客户送样及量产，具体仍取决于后续验证与认证结果。 为加快商业化准备，壁仞科技拟配售1.3亿股新H股，每股31.08港元，净募资约40.2亿港元。资金中约70%将用于新一代产品的战略供应链采购、生产准备及商业化，通过提前采购关键材料与组件、预留产能，应对AI芯片供应紧张和交付周期延长。 产品布局方面，壁仞此前推进基于新一代架构的BR20X系列，原生支持FP8、FP4等数据格式；后续还计划推出面向云端训练与推理的BR30X，以及面向边缘侧的BR31X。据此前媒体报道，壁仞下一代GPU基于国产工艺打造，性能超过英伟达H200，相关性"
         },
         {
           "title": "壁仞科技BR20X点亮 完成超40亿港元配售推进量产 | Token导航",
           "url": "https://www.tokendh.com/news/b37402e99a",
           "published": "2026-10-08T07:04:09.000Z",
           "highlights": " 壁仞科技BR20X点亮 完成超40亿港元配售推进量产 | Token导航 # 壁仞科技BR20X ... 亮 完成超40亿港元 ... 售推进量 ... 据IPO早知道消息，壁仞科技今日早间在最新配售公告中披露，其新一代产品BR20X成功点亮，已完成启动测试并进入流片后验证阶段。目前，壁仞科技正积极与客户就新一代产品部署进行接洽，并制定了大规模生产计划，预期将于未来数个季度内进行客户送样及量产。 随着新一代产品顺利点亮，叠加行业关键材料、组件涨价及产能持续紧张，壁仞科技宣布完成40.40亿港元配售，所得款主要用于新一代产品的战略供应链采购、生产准备及商业化。 通用GPU厂商的主要成本项为晶圆代工和HBM。当下，晶圆代工厂商纷纷涨价，HBM等存储芯片仍处于涨价周期。在晶圆代工、HBM、先进封装等相对紧缺的背景下，此次配售有助于以较低成本锁定物料供应，从而推进壁仞科技产品大规模放量。 ..."
+        },
+        {
+          "title": "壁仞点亮、平头哥量产在即：国产AI芯片三强，走的是三条完全不同的路",
+          "url": "https://news.futunn.com/post/1000641535/biren-lights-up-t-head-s-mass-production-imminent-china",
+          "published": "2026-10-07T05:26:09.000Z",
+          "highlights": " 10月3日， $壁仞科技 (06082.HK)$ 下一代GPU BR20X成功点亮的消息传出来，有消息人士称性能将超过英伟达H200。BR20X点亮这件事本身值得聊，因为它把国产AI芯片高端训推赛道的格局又往前推了一步。 看国产AI芯片不能只盯着某一家的参数表，三家放在一起看才有意思。平头哥、壁仞、寒武纪，这三家是目前国产AI芯片高端训推赛道里真正有产品在交付的玩家，走的却是三条完全不同的路。 ... 壁仞BR20X：Chiplet加1024卡互连，港股GPU第一股的差异化 壁仞的思路跟平头哥不太一样。它从一开始就押注Chiplet芯粒架构，走的是「单卡不够强就把很多卡连在一起」的路线。BR20X是壁仞第二代架构的旗舰产品，面向云端训练和推理，原生支持FP8、FP4等低精度数据格式，配备更大内存和更高互连带宽。 壁仞真正的差异化在互连。它自研的BLink2.0超节点互连协议，最多可以让1"
+        },
+        {
+          "title": "壁仞新代GPU点亮：国产算力剑指国际旗舰 - TMT之家",
+          "url": "https://tmthome.cn/articles/biren-new-gpu-light-up",
+          "published": "2026-10-07T00:00:00.000Z",
+          "highlights": " AI全知道 2026-10-07 ## 事件背景 近日，国产通用GPU企业壁仞科技的下一代图形处理器BR20X成功点亮，并计划于不久后投入量产。据公开报道，这款新品基于国产工艺打造，核心性能目标直接瞄准英伟达H200，有望实现性能层面的超越。在高端人工智能训练与推理芯片长期由海外巨头主导的背景下，一颗国产芯片从设计走向量产，被市场视为自主算力供给提速的关键信号。本文围绕这一事件，梳理国产GPU的进展、挑战与产业意义。 ## 产品定位 BR20X是壁仞科技全新一代架构的代表作。该系列原生支持FP8、FP4等更广泛的数据格式，配备更大内存与更高互连带宽，主攻云端人工智能训练与推理场景。相比前两代产品，新架构在精度覆盖与互联效率上做了针对性增强，目标是在大模型训练、科学计算等高负载任务中提供更强的算力支撑。对国产算力生态而言，支撑起一整套可替代方案，比单点性能突破更具现实意义。 ## 技术路径"
         },
         {
           "title": "开源证券：国产GPU“四小龙”解析_新浪财经_新浪网",
@@ -61,16 +128,10 @@
           "highlights": " 壁仞科技下一代芯片即将投入量产，性能或超英伟达H200_腾讯新闻 ... 据媒体报道，通用GPU（图形处理器）企业壁仞科技的下一代GPU近期已点亮，并将投入量产。消息人士称，壁仞这款新品基于国产工艺打造，性能超过英伟达H200。 今年年初，壁仞就已明确推进基于新一代架构的 BR20X系列，对 FP8、 FP4等更广泛数据格式的原生支持。此外，壁仞后续还将推出面向云端训练与推理的 BR30X，以及面向边缘侧的 BR31X，预计于2028年前后进入商业化阶段。"
         },
         {
-          "title": "国产GPU大单落地！壁仞科技1.74亿独家中标：45天完成供货_腾讯新闻",
-          "url": "https://news.qq.com/rain/a/20260924A05TFP00",
-          "published": "2026-09-24T10:31:09.000Z",
-          "highlights": " 国产GPU大单落地！壁仞科技1.74亿独家中标：45天完成供货_腾讯新闻 ... 快科技9月24日消息，昆仑领奕智算中心项目（一期）询比采购结果近日正式公布。上海壁仞科技股份有限公司以1.74亿元中标项目包一，成为该包唯一中标供应商。 公告显示，该项目采购预算总额约6.26亿元，共分两个包。其中包一预算约1.74亿元，包二预算约4.52亿元。 壁仞科技凭借89.71分的评审得分，综合排序第一，成功拿下包一。根据要求，壁仞需在合同签订后45个日历日内完成供货。 壁仞科技此次中标的核心产品是壁砺系列GPU。公开资料显示，壁砺GPU基于经典GPGPU架构，核心计算单元SPC流处理器集成专用张量计算单元T-Core。 该公司已形成BR106、BR110、BR166三代产品矩阵，下一代旗舰训推芯片BR20X目标是2026年上市，支持FP8/FP4等数据格式，配备更大内存与高互连带宽。 ... Sc"
-        },
-        {
-          "title": "GPU四小龙进入竞争新阶段",
-          "url": "https://epaper.cena.com.cn/pc/content/202609/04/content_18285.html",
-          "published": "2026-09-04T00:00:00.000Z",
-          "highlights": " 本报记者 张心怡 实习生 刘璐 图为202 ... 长三角机器人及自动化展览会 ... 展台 9月2日，燧原科技启动网上、网下申购。至此，摩尔线程、沐曦股份、壁仞科技、燧原科技四家国产算力芯片企业全部完成与资本市场的对接。这意味着国产高端GPU完成了初步的技术验证和资本化，下一阶段将是规模化商用能力的直接比拼。 市场习惯把四家企业合称为“国产GPU四小龙”，但翻开2026年半年报和燧原的招股书就能发现，这只是一个通俗标签。四家走的技术路线、做的产品、面对的客户，差异远大于相似。与其说这是一个赛道里的四家竞对，不如说它们各自站在国产算力产业链的不同节点上，用不同的方式回答同一个问题：在市场高度集中的AI算力产业里，国产算力企业如何找到自己的位置？ 摩尔线程：全功能GPU向下延伸，算力从云端走向终端 2026年上半年，摩尔线程营收17.36亿元，同比增长147%。相比亮眼的增长数字，收入结构"
+          "title": "“国产四小龙”齐聚资本市场市值6132亿 中期营收全部高增长商业化落地考验开启",
+          "url": "https://news.10jqka.com.cn/20260914/c679859664.shtml",
+          "published": "2026-09-14T00:00:00.000Z",
+          "highlights": " 9月11日，燧原科技（688801）亮相上交所科创板，“国产GPU四小龙”在资本市场胜利会师。 ... 燧原科技（688801）上市首日没有5倍涨幅，摩尔线程（688795）的股价调整幅度达60%，市场预期正在回归理性。 ... 始于2025年12月，摩尔线程（688795）(688795.SH)、沐曦股份（688802）(688802.SH)、壁仞科技（HK6082）(06082.HK)相继登陆资本市场。 ... 如今，最先上市的摩尔线程（688795），股价回撤幅度高达60%。截至9月11日收盘，四家公司市值合计为6132亿元。 长江商报记者发现，2026年上半年，四家公司均实现了营业收入大幅增长，壁仞科技（HK6082）的涨幅更是高达20倍。 ... 摩尔线程（688795）成立于2020年，由1966年出生的张建中创办。张建中曾任职于惠普（HPQ）、戴尔，2005年加入英伟达（N"
         },
         {
           "title": "“国产GPU四小龙”贴身肉搏，谁先迎来业绩兑现期？_凤凰网",
@@ -91,16 +152,16 @@
           "highlights": " # 有钱也买不到？华为昇腾910C让大厂采购四处托关系 光年Tech 2026年08月26日 12:52:05 华为昇腾910C被抢光：字节阿里扫空库存，中国AI算力的命门不在华盛顿 作者 | 佳明 编辑 | 陈立峰 八月中旬，几家头部大模型公司的采购负责人私下都在忙同一件事，托关系、加预算、甚至提前预付，只为多抢到几千张华为昇腾910C。 这款一年前还被质疑能不能用的国产训练芯片，如今在现货市场一卡难求，二级市场一度被炒出三成以上的溢价。 字节和阿里已经把现有库存扫光，腾讯、百度、科大讯飞在后面排队等着分货。 ... 到了2026年一季度，英伟达在中国加速卡市场的份额急剧萎缩，国产芯片已实现反超，其中华为昇腾占据领先地位。 就在这个被硬生生腾出来的空 ... 期，华为昇腾成了最确 ... 910C在2025年全年出货约八十一点二万颗，拿下国内近一半份额，2026年一季度又交付15万张，"
         },
         {
-          "title": "华为昇腾910C不是最好的AI芯片，但它是中国AI产业唯一的选择",
-          "url": "https://cloud.tencent.com/developer/article/2697481",
-          "published": "2026-06-24T00:00:00.000Z",
-          "highlights": " 企业无法采购 ... 2022 年 10 月美国商务部首次对华出口先进 AI 芯片管制，2023 年 10 月进一步收紧（将 NVIDIA A100/H100 及后续型号列入限制清单），2024–2025 年管制范围扩展至 H20、RTX 4090 等\"降规\"芯片。结果是：截至 2026 年中，中国 AI 企业无法通过正规渠道采购任何 NVIDIA 数据中心级 GPU（H100/H200/B200 均在限制范围内）。 这个供给缺口有多大？根据 CFR（美国外交关系委员会）的估计，中国 AI 产业对先进 AI 芯片的年需求量约为 100 万–150 万片。华为 2025 年的昇腾 910 系列出货量约为 20 万片（CSET 数据），2026 年计划扩产至 60 万片（Reuters 报道）。也就是说，即使华为满负荷生产，也只能覆盖中国市场需求的 40%–60%。 ... 对比范围：华为昇"
+          "title": "直击光合组织智能计算应用大会：国内首个全国产十万卡AI超集群落地 海光信息宣布进军嵌入式AI市场_腾讯新闻",
+          "url": "https://news.qq.com/rain/a/20260711A08VKP00",
+          "published": "2026-07-11T18:41:05.000Z",
+          "highlights": " 《科创板日报》7月11日讯（记者 郭辉） 7月10日，光合组织2026智能计算应用大会在郑州举办。大会围绕智能计算应用与发展范式、AI基础设施创新、国产开放计算生态建设展开探讨交流，推动国产人工智能算力从关注建设到关注应用，从评价单一参数到注重系统能力，从局部场景迈向大规模迁移。 会上，中科曙光宣布中国首个全国产十万卡AI超集群——曙光8000（登峰）正式落成，并同步接入国家超算互联网，这标志着AI基础设施建设开始从万卡级迈向十万卡级部署阶段。 《科创板日报》记者在现场了解到，海光CPU与DCU已应用于十万卡AI超集群落地，验证了国产计算和加速芯片对大规模算力基础设施支持能力迈上新台阶。与此同时，海光信息将进军下一个万亿增量市场，前瞻性布局嵌入式原生AI场景。 ... 曙光8000（登峰）的正式落地，还意味着全国产十万卡级AI基础设施的技术、生态、应用、服务标准已完成闭环验证。 ... "
         },
         {
-          "title": "华为 Ascend 910D 推理集群 2026：国产 AI 算力替代节奏与 A 股受益链",
-          "url": "https://m8.com.cn/article/huawei-ascend-910d-inference-2026-insight",
-          "published": "2026-06-03T01:29:15.000Z",
-          "highlights": " AI 算力 ... 华为 Ascend 910 系列自 2019 年首代发布以来，已经历三次主要迭代。910B（2022 年量产）在训练侧被大量部署于华为云及字节跳动早期集群；910C（2024 年）针对大模型推理进行了显著优化，采用 CoWoS 封装替代方案，提升带宽密度；910D（预计 2025 年底至 2026 年初量产放量）则被行业人士定位为国产\"H100 对位产品\"。 ... .2 TB ... 算），推理 ... 主流 7 ... 参数模型下与 ... 窄至 15 ... ）。需要指出 ... ，华为官方 ... 完整公开 910D 数据表，投资者应以官方 ... | 指标 | Ascend 910D（估算） | NVIDIA H100 SXM5 | 差距 | | --- | --- | --- | --- | | FP16 峰值算力（TOPS） | ~256 | ~267 "
+          "title": "国内首个全国产十万卡AI超集群落地海光信息宣布进军嵌入 ...",
+          "url": "https://www.cls.cn/detail/2423602",
+          "published": "2026-07-11T00:00:00.000Z",
+          "highlights": " 直击光合组织智能计算应用大会：国内首个全国产十万卡AI超集群落地 海光信息宣布进军嵌入式AI市场 ... 直击光合组织智能计算应用大会：国内首个全国产十万卡AI超集群落地 海光信息宣布进军嵌入式AI市场 ... ``` ①中科曙光宣布中国首个全国产十万卡AI超集群——曙光8000（登峰）正式落成，AI基础设施建设迈向十万卡级部署阶段； ②海光CPU与DCU已应用于十万卡AI超集群落地，验证了国产计算和加速芯片对大规模算力基础设施支持能力，同时海光信息宣布将进军嵌入式AI的增量市场。 ``` 《科创板日报》7月11日讯（记者 郭辉） 7月10日，光合组织2026智能计算应用大会在郑州举办。大会围绕智能计算应用与发展范式、AI基础设施创新、国产开放计算生态建设展开探讨交流，推动国产人工智能算力从关注建设到关注应用，从评价单一参数到注重系统能力，从局部场景迈向大规模迁移。 会上，中科曙光宣布中"
         }
       ]
     }
