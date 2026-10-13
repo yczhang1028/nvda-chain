@@ -1,70 +1,100 @@
 {
-  "fetched_at": "2026-10-12T10:02:02",
+  "fetched_at": "2026-10-13T10:02:49",
   "feeds": {
     "nvidia_动向": {
       "label": "🔺 NVIDIA 上游动向",
       "color": "#22d3ee",
-      "count": 10,
+      "count": 20,
       "items": [
         {
-          "title": "NVIDIA Spotlight — AI GPU Supply Chain, HBM4, CoWoS, Vera Rubin & CUDA Moat | SemiconductorX",
-          "url": "http://semiconductorx.com/spotlight-nvidia.html",
+          "title": "GTC Taipei 2026 Keynote with Jensen Huang STW61044 | GTC Taipei 2026 | NVIDIA On-Demand",
+          "url": "https://www.nvidia.com/en-us/on-demand/session/gtctaipei26-stw61044/",
           "published": "N/A",
-          "highlights": " largest customer of SK ... largest user of TSMC ... | HBM4 supply allocation (Vera Rubin) | SK Hynix: ~70% of Vera Rubin HBM4 allocation; base die respun due to performance issues causing original delay; HBM4 qualification still finalizing as of April 2026. Samsung: ~30%; first to begin HBM4 shipments (February 2026); 4nm base die (1c DRAM) - most advanced base die of three suppliers; Samsung lea"
+          "highlights": " GTC Taipei 2026 Keynote with Jensen Huang STW61044 | GTC Taipei 2026 | NVIDIA On-Demand ... 03:08 Ladies and gentlemen, welcome the founder and CEO of NVIDIA, ... 03:15 Welcome to the stage, NVIDIA founder and CEO, Jensen Huang. ... We have so much to tell you and I have so many partners to thank. ... It is incredible how large our ecosystem in Taiwan has become. ... 04:48 But NVIDIA's ecosystem "
         },
         {
-          "title": "JPMorgan Raises TPU Forecast Again on CoWoS Capacity Support: Shipments Expected to Reach 3.7M and 5M Units This Year and Next - 老虎证券",
-          "url": "https://www.itiger.com/hans/news/1109625222",
+          "title": "NVIDIA GTC Taipei 2026 Keynote | Full Replay",
+          "url": "https://www.youtube.com/watch?v=wSp6AiNIrsY",
           "published": "N/A",
-          "highlights": " NVIDIA's allocation remains largely flat, while progress on AMD and AWS projects varies. JPMorgan maintains its 2026 CoWoS allocation for NVIDIA at 700,000 wafers, albeit with a slight product mix adjustment. Due to HBM4 readiness issues, mass production of the Rubin series is delayed by 1-2 months, leading to a minor shipment reduction, while GB300 shipments have been increased. Analysts project"
+          "highlights": " 有請 NVIDIA 創始人兼 CEO 黃仁勳 歡迎上臺演講 NVIDIA 創始人兼 CEO 黃仁勳 大家好 歡迎參加 GTC 台灣大會 很高興見到大家 回到家感覺真好 我帶著爸媽回家 ... 請為我們的暖場表演巨星熱烈鼓掌 看他們多麼可愛 台灣的超級巨星 今天有許多人在這裡參加大會 我們目前正向全台灣其他 70 個直播派對進行轉播 70 個不同的會議正同步舉行 大家都在觀看這場主題演講 我們有太多資訊要告訴大家 我要感謝非常多的合作夥伴 我們在台灣的生態系已經發展得如此龐大 真是令人難以置信 大多數時候人們想到生態系時 想到的都是我們的軟體堆疊 想到的是開發者生態系 也就是建立在 NVIDIA 所打造的運算系統之上 但 NVIDIA 的生態系一直延伸到最上游 涵蓋我們在台的所有供應鏈 這是一切的起點，並一直延伸到下游 直達資料中心，最終抵達終端使用者 今天，我們將討論幾乎所有的生態系 要"
         },
         {
-          "title": "HBM4 contract price +117% WoW; Samsung enters NVIDIA qualification | Silicon Analysts Weekly",
-          "url": "https://siliconanalysts.com/newsletter/qual-watch/2026-10-05",
-          "published": "2026-10-06T14:00:25.000Z",
-          "highlights": " Silicon Analysts Weekly for the week of 2026-09-28 to 2026-10-05: HBM4 contract price +117% WoW; Samsung enters NVIDIA qualification. A sourced, provenance-marked briefing on AI-chip supply-chain and pricing movements — HBM pricing, wafer pricing, foundry and CoWoS capacity, per-chip bill-of-materials cost, and HBM qualification status — derived from public data. Part of the Silicon Analysts semi"
+          "title": "NVIDIA GTC Taipei 2026 Keynote  by NVIDIA CEO Jensen Huang.Taipei Music Center | 2 June 2026",
+          "url": "https://www.youtube.com/watch?v=EZCTdMrt4cU",
+          "published": "N/A",
+          "highlights": " GDP of Taiwan is going to grow almost 10%. [applause] Unbelievable. Well, we have a lot to talk about. Let's get going. Two years ago when I was here I started to talk to you about how AI has moved from gentive AI and the other waves of AIs that are coming. The next wave of AI was agentic AI and today we can say that agentic AI has arrived that useful AI has arrived. Now what does this mean? This"
         },
         {
-          "title": "SK Hynix HBM4 16-Hi volume shipping; CoWoS lead times stretch to 78 weeks | Silicon Analysts Weekly",
-          "url": "https://siliconanalysts.com/newsletter/qual-watch/2026-09-14",
-          "published": "2026-09-15T14:00:37.000Z",
-          "highlights": " SK Hynix moving HBM4 16-Hi to volume shipping for Vera Rubin is the sharpest supply-chain signal this week — it cements first-mover advantage before Samsung clears HBM4 qualification with NVIDIA. CoWoS lead times stretching to 78 weeks mean packaging, not silicon, remains the binding constraint for anyone building AI systems today. ... TSMC CoWoS lead time — ▲ now 52 to 78 weeks (was 2026 52-78 w"
+          "title": "Nvidia gears up to smash CPU hegemony as Vera starts shipping - SDxCentral",
+          "url": "https://www.sdxcentral.com/news/nvidia-gears-up-to-smash-cpu-hegemony-as-vera-starts-shipping/",
+          "published": "2026-10-12T15:23:52.000Z",
+          "highlights": " # Nvidia gears up to smash CPU hegemony as Vera starts shipping - SDxCentral"
         },
         {
-          "title": "NVIDIA to Boost CoWoS Production Capacity by 3.5x to Over 120,000 Wafers/Month by End-2026, Securing HBM4 Supply | Troy Technical",
-          "url": "https://troy-technical.com/2026/09/13/nvidia-to-boost-cowos-production-capacity-by-3-5x-to-over-120000-wafers-month-by-end-2026-securing-hbm4-supply/",
-          "published": "2026-09-13T10:28:07.000Z",
-          "highlights": " NVIDIA to Boost CoWoS Production Capacity by 3.5x to Over 120,000 Wafers/Month by End-2026, Securing HBM4 Supply | Troy Technical ... Overview NVIDIA plans to scale its CoWoS (Chip-on-Wafer-on-Substrate) production capacity by 3.5x to 120,000–130,000 wafers per month by the end of 2026, up from 35,000, driven largely by its own demand. The company is set to consume approximately 60% of TSMC’s tot"
+          "title": "Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide | NVIDIA Blog",
+          "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+          "published": "2026-10-12T15:00:25.000Z",
+          "highlights": " NVIDIA contributed key NVIDIA Vera Rubin rack and compute tray designs to OCP through the open NVIDIA MGX architecture, giving system builders a common foundation for developing next-generation AI factory infrastructure. ... ## **Vera Rubin AI Factories Advance With MGX Rack Contributions at OCP ** ... For NVIDIA Vera Rubin AI factories, the updated MGX 1.2 specification extends the open architec"
         },
         {
-          "title": "CoWoS Q3 alloc hits 850K wafers; Broadcom cut to 200K | Silicon Analysts Weekly",
-          "url": "https://siliconanalysts.com/newsletter/qual-watch/2026-09-07",
-          "published": "2026-09-08T14:00:48.000Z",
-          "highlights": " NVIDIA's CoWoS allocation reaching 800,000–850,000 wafers in Q3 2026 — roughly 60% of total capacity — leaves little room for anyone else, as Broadcom's allocation was trimmed from ~240,000 to 200,000 wafers. With Micron's entire 2026 HBM supply sold out, readers focused on HBM pricing should check the HBM Analysis page. ... NVIDIA CoWoS customer allocation — ▲ now 2026-Q3 800,000–850,000 wafers "
+          "title": "NVIDIA Vera Rubin: Full Guide to Rubin GPU, Vera CPU and NVL72",
+          "url": "https://www.insidedeeptech.com/nvidia-vera-rubin-nvl72-full-guide/",
+          "published": "2026-10-05T06:11:50.000Z",
+          "highlights": " Blackwell taught the industry to buy AI compute by the rack. NVIDIA Vera Rubin is the first generation where the GPU, the CPU, the memory, the rack and the network were all redesigned at once, and as of October 5, 2026 it's no longer a roadmap slide: NVIDIA told investors it commenced production shipments of Vera Rubin in August 2026. So the useful question isn't what Rubin is. It's what Rubin ch"
         },
         {
-          "title": "HBM4 volume shipping; CoWoS lead times stretch past 12 months | Silicon Analysts Weekly",
-          "url": "https://siliconanalysts.com/newsletter/qual-watch/2026-08-25",
-          "published": "2026-08-25T14:01:50.000Z",
-          "highlights": " Silicon Analysts Weekly for the week of 2026-08-18 to 2026-08-25: HBM4 volume shipping; CoWoS lead times stretch past 12 months. A sourced, provenance-marked briefing on AI-chip supply-chain and pricing movements — HBM pricing, wafer pricing, foundry and CoWoS capacity, per-chip bill-of-materials cost, and HBM qualification status — derived from public data. Part of the Silicon Analysts semicondu"
+          "title": "Nvidia's Huang vows to deliver 'giant amounts' of Vera Rubin — company says that 'our roadmap is intact' | Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-huang-vows-to-deliver-giant-amounts-of-vera-rubin-company-says-that-our-roadmap-is-intact",
+          "published": "2026-07-15T19:07:17.000Z",
+          "highlights": " Jensen Huang, chief executive of Nvidia, denied reports about delays of the company's next-generation AI platform and said that production volumes of the upcoming Vera Rubin platforms are 'giant.' He didn't address reports about delays of Vera Rubin Ultra-based rack-scale systems carrying 144 AI GPUs. \"[The reports about Vera Rubin delays are] not true,\" Huang told reporters on the sidelines of a"
         },
         {
-          "title": "TSMC CoWoS +50% to ~120K wpm Q4; Samsung HBM3E qualified at NVIDIA | Silicon Analysts Weekly",
-          "url": "https://siliconanalysts.com/newsletter/qual-watch/2026-08-03",
-          "published": "2026-08-04T14:00:49.000Z",
-          "highlights": " for the week of 2026-07-27 to 2026-08-03: TSMC CoWoS +5 ... % to ~120K wpm Q4; Samsung HBM3E qualified at NVIDIA. A sourced, provenance-marked briefing on AI- ... supply-chain and pricing movements — H ... pricing, wafer ... , foundry and CoWoS capacity, per-chip bill-of-materials cost, and HBM qualification status — derived from public data. Part of the Silicon Analysts semiconductor ... TSMC Co"
+          "title": "Computex 2026: Jensen Huang casts Taiwan as epicenter of the AI revolution | Technology & Innovation | Business | Taiwan Current News",
+          "url": "https://www.tcn.tw/news/6844103",
+          "published": "2026-06-08T05:02:46.000Z",
+          "highlights": " Nvidia CEO Jensen Huang laid out a sweeping vision of an AI-driven future at Computex 2026, portraying Taiwan not merely as a manufacturing hub but as the indispensable foundation of next generation of computing. AI enters its commercial era If previous editions of Computex chronicled the rise of AI, this year’s event suggested that AI has entered a new phase altogether: commercialization at scal"
         },
         {
-          "title": "Silicon Analysts Weekly: HBM4 qualifies across all three vendors, CoWoS expands | Silicon Analysts Weekly",
-          "url": "https://siliconanalysts.com/newsletter/qual-watch/2026-06-22",
-          "published": "2026-06-24T05:50:54.000Z",
-          "highlights": " CoWoS capacity is tracking toward 120,000–130,000 wafers/month by Q4 2026, roughly doubling from end-2025 levels — yet packaging, not wafer supply, remains the binding constraint on AI accelerator output. Simultaneously, all three memory vendors are now HBM4-qualified for Vera Rubin, but SK Hynix's 60% market share means allocation leverage stays concentrated. Bernstein's note that HBM prices wou"
+          "title": "Jensen Huang Puts Taiwan's Supply Chain and Street Food on the Same Map | Sean Wei | AI & Semiconductor - The Storm Media",
+          "url": "https://world.storm.mg/articles/1137617",
+          "published": "2026-06-02T04:30:10.000Z",
+          "highlights": " NVIDIA founder and CEO Jensen Huang delivered a keynote address at the Taipei Music Center on the 1st, displaying NVIDIA's supply chain backdrop, in which Taiwanese snack shops and restaurants — including Hua Niang Xiao Guan — were listed alongside TSMC. ... NVIDIA founder and CEO Jensen Huang (黃仁勳) took the stage at GTC Taiwan and Computex Taipei on June 1, delivering the event's opening keynote"
         },
         {
-          "title": "Nvidia CoWoS production capacity to reach 650,000 units in 2026, up 76% year-on-year; 840,000 units in 2027. Next-generation Rubin GPU mass production target lowered from 2 million to 1.5 million units due to HBM4 validation delays. | Bitget News",
-          "url": "https://www.bitget.com/asia/news/detail/12560605341878",
-          "published": "2026-04-06T16:26:13.000Z",
-          "highlights": " Nvidia CoWoS production capacity to reach 650,000 units in 2026, up 76% year-on-year; 840,000 units in 2027. Next-generation Rubin GPU mass production target lowered from 2 million to 1.5 million units due to HBM4 validation delays. | Bitget News ... Nvidia CoWoS production capacity to reach 650,000 units in 2026, up 76% year-on-year; 840,000 units in 2027. Next-generation Rubin GPU mass producti"
+          "title": "Nvidia chips still in short supply despite partner support, Jensen Huang says at GTC Taipei - The Herald Business",
+          "url": "https://biz.heraldcorp.com/article/10775138",
+          "published": "2026-06-02T00:00:00.000Z",
+          "highlights": " Nvidia chips still in short supply despite partner support, Jensen Huang says at GTC Taipei - The Herald Business ... support, Jensen ... Hyun-il,Park Ji-young Published : June 2, 2026 - 11:21: ... 0 GTC Taipei 2026 media briefing ... Nvidia CEO Jensen Huang answers reporters' questions at the GTC Taipei 2026 media briefing held Monday morning at the Grand Hyatt Hotel in Taipei, Taiwan. Nvidia CE"
+        },
+        {
+          "title": "NVIDIA GTC Taipei 2026 Keynote w/ CEO Jensen Huang (Transcript) – The Singju Post",
+          "url": "https://singjupost.com/nvidia-gtc-taipei-2026-keynote-w-ceo-jensen-huang-transcript/",
+          "published": "2026-06-02T00:00:00.000Z",
+          "highlights": " Editor’s Note: In this keynote address from NVIDIA GTC Taipei 2026, CEO Jensen Huang announces that the era of “agentic AI”—where intelligent agents autonomously reason, plan, and use tools to perform productive work—has officially arrived. He introduces groundbreaking hardware and software solutions, including the Vera Rubin system, designed specifically to power these sophisticated agents at sc"
+        },
+        {
+          "title": "Nvidia explains Vera Rubin timeline as it ramps into \"full production\" of next-gen CPUs & GPUs - PC Guide",
+          "url": "https://www.pcguide.com/news/nvidia-explains-vera-rubin-timeline-as-it-ramps-into-full-production-of-next-gen-cpus-gpus/",
+          "published": "2026-06-01T15:48:13.000Z",
+          "highlights": " # Nvidia explains Vera Rubin timeline as it ramps into “full production” of next-gen CPUs & GPUs ... Nvidia has provided a clearer timeline for its next generation of AI hardware, with the company confirming that its Vera Rubin platform is now ramping into full production ahead of broader deployments later this year. The announcement comes as Nvidia continues to push deeper into the rapidly growi"
+        },
+        {
+          "title": "‘World’s Best Supply Chain’: Jensen Huang Praises Taiwan at Nvidia GTC Keynote - Domino Theory",
+          "url": "https://dominotheory.com/worlds-best-supply-chain-jensen-huang-praises-taiwan-at-nvidia-gtc-keynote/",
+          "published": "2026-06-01T00:00:00.000Z",
+          "highlights": " ‘World’s Best Supply Chain’: Jensen ... Praises Taiwan at Nvidia GTC Key ... - Domino Theory # ‘World’s Best Supply Chain’: Jensen Huang Praises Taiwan at Nvidia GTC Keynote The Nvidia CEO discussed next generation AI infrastructure and Taiwan’s role in building it Nvidia CEO Jensen Huang gives the keynote address at the Nvidia GTC conference in Taipei on June 1. (Photo: I-Hwa Cheng/AFP) Publishe"
+        },
+        {
+          "title": "3 Big Takeaways From Jensen Huang's Keynote Speech at Computex - Business Insider",
+          "url": "https://www.businessinsider.com/jensen-huang-computex-keynote-takeaways-ai-laptop-chip-rtx-spark-2026-6",
+          "published": "2026-06-01T00:00:00.000Z",
+          "highlights": " # 'Compute is profit': 3 big takeaways from Jensen Huang's keynote in Taiwan ... Nvidia CEO Jensen Huang delivered his hotly anticipated keynote speech at Computex on Monday. It was jam-packed with new releases, including a chip aimed at reinventing the personal computer as we know it. Huang also had some words of optimism for software engineers, who are seeing their industry transformed by AI. ."
+        },
+        {
+          "title": "NVIDIA Vera Rubin Ramps Into Full Production to Power ...",
+          "url": "https://nvidianews.nvidia.com/news/vera-rubin-full-production-agentic-ai-factory",
+          "published": "2026-05-31T00:00:00.000Z",
+          "highlights": " - NVIDIA Vera Rubin is ramping into full production, with Taiwan’s top server makers and global supply chain leaders manufacturing Vera Rubin-based systems at scale — fueling AI labs, cloud providers and hyperscalers to build tomorrow’s intelligence. ... - With a proven, open source MGX design, hundreds of NVIDIA supply chain ecosystem partners — 150 in Taiwan alone — across 350+ factories and 30"
         }
       ]
     },
@@ -73,12 +103,6 @@
       "color": "#f472b6",
       "count": 30,
       "items": [
-        {
-          "title": "昇腾 910D · 概念 · AI产业链地图·知识库",
-          "url": "https://aichainmap.com/%E6%A6%82%E5%BF%B5/%E6%98%87%E8%85%BE910D",
-          "published": "N/A",
-          "highlights": " 华为 昇腾系列下一代 AI 训练 NPU（路线图代号，预计 2025-H2 ~ 2026 量产），是 昇腾910C 的升级版，预期采用新一代封装方案和更大 HBM 容量，对标 NVIDIA B200 / NVIDIA B300 时代 昇腾910D CONCEPT · 概念 ... ## 关键规格（路线图，未量产） | 维度 | 路线图数值 | | --- | --- | | 架构 | 达芬奇 NPU 下一代（多 die 集成） | | 预计发布 | 2025-H2 ~ 2026 | | 制程 | 中芯国际 N+2 升级 | | 显存 | HBM3 / HBM3E（容量翻倍至 192GB+，推测） | | FP16 算力 | ~600-800 TFLOPS（推算） | | TDP | ~1,000W | | 整机形态 | Atlas 950 / 960 SuperPoD（路线图） | .."
-        },
         {
           "title": "电子行业深度报告",
           "url": "https://pdf.dfcfw.com/pdf/H3_AP202604141821177994_1.pdf",
@@ -92,10 +116,10 @@
           "highlights": " 10月8日,“港股GPU（图形处理器）第一股”壁仞科技发布公告称，公司与配售代理订立配售协议，按每股31.08港元的价格向预计不少于6名承配人配售1.3亿股股份。本次配售由中金公司、瑞银集团负责，所得款项总额为40.4亿港元，主要用于公司新一代产品的战略供应链采购、生产准备及商业化。 这是该公司三个月内的第二次配售：7月8日，壁仞科技刚以每股46.2港元 ... 售1.53亿股，募资净额约70.4亿港元，本次配售价较上次折让约33%。加上1月上市时全球发售募资55.83亿港元，公司上市不足一年已累计募资近170亿港元。公告将本次募资归因于业务节奏加快：新一代产品进度快于此前配售时的预期，而关键材料、组件及产能价格上涨、交付周期拉长，公司须提前采购、预留产能并预付货款，此前两次募资中 ... 给该产品 ... 准备的款项已不敷使用。 北京商报记者从壁仞科技方面了解到，公司新一代旗舰产品BR"
         },
         {
-          "title": "壁仞新一代GPU点亮，募资40亿加速量产_DOIT",
-          "url": "https://www.doit.com.cn/newsflash/857710220267589.html",
-          "published": "2026-10-09T17:31:59.000Z",
-          "highlights": " 壁仞新一代GPU点亮，募资40亿加速量产_DOIT # 壁仞新一代GPU点亮，募资40亿加速量产 壁仞科技新一代GPU取得关键进展。10月8日，壁仞科技公告称，新一代产品已成功点亮，完成启动测试并进入流片后验证阶段，进度快于此前配售时预期。公司预计未来数个季度内开展客户送样及量产，具体仍取决于后续验证与认证结果。 为加快商业化准备，壁仞科技拟配售1.3亿股新H股，每股31.08港元，净募资约40.2亿港元。资金中约70%将用于新一代产品的战略供应链采购、生产准备及商业化，通过提前采购关键材料与组件、预留产能，应对AI芯片供应紧张和交付周期延长。 产品布局方面，壁仞此前推进基于新一代架构的BR20X系列，原生支持FP8、FP4等数据格式；后续还计划推出面向云端训练与推理的BR30X，以及面向边缘侧的BR31X。据此前媒体报道，壁仞下一代GPU基于国产工艺打造，性能超过英伟达H200，相关性"
+          "title": "国产GPU又进一步！壁仞官宣新一代产品提前点亮：募资40亿冲刺量产_新浪科技_新浪网",
+          "url": "https://finance.sina.com.cn/tech/roll/2026-10-09/doc-iniurmnf6837813.shtml",
+          "published": "2026-10-09T08:39:32.000Z",
+          "highlights": " 国产GPU又进一步！壁仞官宣新一代产品提前点亮：募资40亿冲刺量产_新浪科技_新浪网 ... 国产GPU又进一步！壁仞官宣新一代产品提前点亮：募资40亿冲刺量产 2026年10月09日 16:34 快科技 快科技10月9日消息，国产GPU企业壁仞科技发布公告披露，其新一代产品已成功点亮，目前已完成启动测试并进入流片后验证阶段，其进度较先前配售时的预期更快。 壁仞科技还表示，新一代产品旨在大幅提升计算性能及效率，公司已推进其商业化准备工作，并制定了大规模的生产计划，预期将于未来数个季度内进行客户送样及量产。 为推进商业化准备，壁仞科技同日宣布与中金公司、瑞银集团订立配售协议，按每股31.08港元配售1.3亿股新H股，募资净额约40.2亿港元。 其中约70%用于新一代产品的战略供应链采购、生产准备及商业化，提前采购关键材料和组件并预留产能，应对AI芯片全行业供应紧张、交付周期延长的局面。 ."
         },
         {
           "title": "壁仞科技BR20X点亮 完成超40亿港元配售推进量产 | Token导航",
@@ -107,13 +131,13 @@
           "title": "壁仞点亮、平头哥量产在即：国产AI芯片三强，走的是三条完全不同的路",
           "url": "https://news.futunn.com/post/1000641535/biren-lights-up-t-head-s-mass-production-imminent-china",
           "published": "2026-10-07T05:26:09.000Z",
-          "highlights": " 10月3日， $壁仞科技 (06082.HK)$ 下一代GPU BR20X成功点亮的消息传出来，有消息人士称性能将超过英伟达H200。BR20X点亮这件事本身值得聊，因为它把国产AI芯片高端训推赛道的格局又往前推了一步。 看国产AI芯片不能只盯着某一家的参数表，三家放在一起看才有意思。平头哥、壁仞、寒武纪，这三家是目前国产AI芯片高端训推赛道里真正有产品在交付的玩家，走的却是三条完全不同的路。 ... 壁仞BR20X：Chiplet加1024卡互连，港股GPU第一股的差异化 壁仞的思路跟平头哥不太一样。它从一开始就押注Chiplet芯粒架构，走的是「单卡不够强就把很多卡连在一起」的路线。BR20X是壁仞第二代架构的旗舰产品，面向云端训练和推理，原生支持FP8、FP4等低精度数据格式，配备更大内存和更高互连带宽。 壁仞真正的差异化在互连。它自研的BLink2.0超节点互连协议，最多可以让1"
+          "highlights": " 10月3日， [$壁仞科技 (06082.HK)$](https://www.futunn.com/stock/06082-HK) 下一代GPU BR20X成功点亮的消息传出来，有消息人士称性能将超过英伟达H200。BR20X点亮这件事本身值得聊，因为它把国产AI芯片高端训推赛道的格局又往前推了一步。 看国产AI芯片不能只盯着某一家的参数表，三家放在一起看才有意思。平头哥、壁仞、寒武纪，这三家是目前国产AI芯片高端训推赛道里真正有产品在交付的玩家，走的却是三条完全不同的路。 ... 壁仞BR20X：Chiplet加1024卡互连，港股GPU第一股的差异化 壁仞的思路跟平头哥不太一样。它从一开始就押注Chiplet芯粒架构，走的是「单卡不够强就把很多卡连在一起」的路线。BR20X是壁仞第二代架构的旗舰产品，面向云端训练和推理，原生支持FP8、FP4等低精度数据格式，配备更大内存和更高互连带"
         },
         {
-          "title": "壁仞新代GPU点亮：国产算力剑指国际旗舰 - TMT之家",
-          "url": "https://tmthome.cn/articles/biren-new-gpu-light-up",
-          "published": "2026-10-07T00:00:00.000Z",
-          "highlights": " AI全知道 2026-10-07 ## 事件背景 近日，国产通用GPU企业壁仞科技的下一代图形处理器BR20X成功点亮，并计划于不久后投入量产。据公开报道，这款新品基于国产工艺打造，核心性能目标直接瞄准英伟达H200，有望实现性能层面的超越。在高端人工智能训练与推理芯片长期由海外巨头主导的背景下，一颗国产芯片从设计走向量产，被市场视为自主算力供给提速的关键信号。本文围绕这一事件，梳理国产GPU的进展、挑战与产业意义。 ## 产品定位 BR20X是壁仞科技全新一代架构的代表作。该系列原生支持FP8、FP4等更广泛的数据格式，配备更大内存与更高互连带宽，主攻云端人工智能训练与推理场景。相比前两代产品，新架构在精度覆盖与互联效率上做了针对性增强，目标是在大模型训练、科学计算等高负载任务中提供更强的算力支撑。对国产算力生态而言，支撑起一整套可替代方案，比单点性能突破更具现实意义。 ## 技术路径"
+          "title": "壁仞下一代GPU即將量產　性能據稱超越輝達H200",
+          "url": "https://www.881903.com/news/finance/2653240",
+          "published": "2026-10-05T02:39:00.000Z",
+          "highlights": " 壁仞下一代GPU即將量產 性能據稱超越輝達H200 # 壁仞下一代GPU即將量產 性能據稱超越輝達H ... 00 財經 發佈 05.1 ... 10:3 ... 05 ... 10:39 來源： ... 內地科技媒體報道，中國通用GPU企業壁仞科技(06082.HK)下一代GPU近期已成功完成基本測試程序，即將投入量產。消息指，新產品基於國產工藝打造，性能將超過輝達的H200人工智能芯片。 ... 報道指，壁仞科技年初已明確推進基於新一代架構的BR20X系列。原生支持FP8、FP4等更廣泛的數據格式，配備更大記憶體與更高互連頻寬，為雲端訓練和推理場景提供更強算力。新品預計今年第4季度進入回片後驗證及送測階段，明年實現規模化部署。 繼BR20X之後，壁仞規劃面向雲端訓練與推理的BR30X，以及面向邊緣側的BR31X，預計2028年前後進入商業化階段，形成從雲端到邊緣的完整產品矩陣。 業績"
         },
         {
           "title": "开源证券：国产GPU“四小龙”解析_新浪财经_新浪网",
@@ -128,10 +152,16 @@
           "highlights": " 壁仞科技下一代芯片即将投入量产，性能或超英伟达H200_腾讯新闻 ... 据媒体报道，通用GPU（图形处理器）企业壁仞科技的下一代GPU近期已点亮，并将投入量产。消息人士称，壁仞这款新品基于国产工艺打造，性能超过英伟达H200。 今年年初，壁仞就已明确推进基于新一代架构的 BR20X系列，对 FP8、 FP4等更广泛数据格式的原生支持。此外，壁仞后续还将推出面向云端训练与推理的 BR30X，以及面向边缘侧的 BR31X，预计于2028年前后进入商业化阶段。"
         },
         {
-          "title": "“国产四小龙”齐聚资本市场市值6132亿 中期营收全部高增长商业化落地考验开启",
-          "url": "https://news.10jqka.com.cn/20260914/c679859664.shtml",
-          "published": "2026-09-14T00:00:00.000Z",
-          "highlights": " 9月11日，燧原科技（688801）亮相上交所科创板，“国产GPU四小龙”在资本市场胜利会师。 ... 燧原科技（688801）上市首日没有5倍涨幅，摩尔线程（688795）的股价调整幅度达60%，市场预期正在回归理性。 ... 始于2025年12月，摩尔线程（688795）(688795.SH)、沐曦股份（688802）(688802.SH)、壁仞科技（HK6082）(06082.HK)相继登陆资本市场。 ... 如今，最先上市的摩尔线程（688795），股价回撤幅度高达60%。截至9月11日收盘，四家公司市值合计为6132亿元。 长江商报记者发现，2026年上半年，四家公司均实现了营业收入大幅增长，壁仞科技（HK6082）的涨幅更是高达20倍。 ... 摩尔线程（688795）成立于2020年，由1966年出生的张建中创办。张建中曾任职于惠普（HPQ）、戴尔，2005年加入英伟达（N"
+          "title": "寒武纪思元690涨价20%-30%：国产AI芯片第二梯队集体提价，HBM成本传导全行业 | AI 实战派 · 从技术到赚钱",
+          "url": "https://guijiagi.com/posts/2026-09-17-cambricon-siyuan-690-price-hike/",
+          "published": "2026-09-17T00:00:00.000Z",
+          "highlights": " 寒武纪思元690涨价20%-30%：国产AI芯片第二梯队集体提价，HBM成本传导全行业 | AI 实战派 · 从技术到赚钱 ... 9月10日路透社报道，寒武纪思元690涨价20%-30%，沐曦、天数智芯同步跟涨。HBM成本飙升正在从头部芯片厂商传导到整个国产AI芯片产业链。 ... - 9月10日路透社报道，寒武纪思元690加速卡涨价20%-30%，沐曦、天数智芯同步跟涨。 - 寒武纪官方回应\"不要听信市场消息\"，但未否认涨价本身。 - HBM成本飙升正在从华为、寒武纪头部厂商传导到整个国产AI芯片第二梯队，全行业进入涨价周期。 ... 2026年9月10日，路透社的一篇报道不仅揭示了华为昇腾950DT涨价20%-50%，还顺带披露了中国AI芯片第二梯队的集体提价： - 寒武纪思元690：涨价20%-30% - 沐曦：同步上调现有及下一代产品报价 - 天数智芯：同步跟涨 ... 公司通"
+        },
+        {
+          "title": "摩尔、沐曦、壁仞、天数，谁过得最好？",
+          "url": "https://www.tmtpost.com/8130330.html",
+          "published": "2026-09-07T00:00:00.000Z",
+          "highlights": " 最近，摩尔线程、沐曦股份、壁仞科技、天数智芯四家已经上市的国产GPU公司相继发布财报，2026年上半年，摩尔线程营收规模最高，达到17.36亿元；壁仞科技营收同比增长近20倍，增速最快；沐曦股份和天数智芯则已经实现账面盈利。四份半年报背后，对应着四条不同的国产GPU路线。 ... 国产GPU四小龙，到底谁最能打？我们从营收、增速、利润、研发投入、市值以及未来空间几个维度，对这四家进行了对比。需要说明的是，这场比较还缺了一位选手——燧原科技。 它还没上市，没有可比的财务数据，但它已经站在资本市场门口：8月31日，公司公布IPO发行价格为142.18元/股，预计募资61.19亿元，并于9月2日开启网上、网下申购，按发行价计算，发行后市值约612亿元。等它挂牌，四小龙变五小龙，位次很可能重新洗牌。 ... 2026年上半年，摩尔线程实现营收17.36亿元，是四家公司中规模最大的；沐曦股份营收1"
         },
         {
           "title": "“国产GPU四小龙”贴身肉搏，谁先迎来业绩兑现期？_凤凰网",
@@ -146,12 +176,6 @@
           "highlights": " 摩尔线程、沐曦股份、壁仞科技、燧原科技中，壁仞是第一个登陆港股的。摩尔线程、沐曦股份此前已于2025年12月先后登陆A股科创板，燧原科技也已通过科创板注册。 ... 收盘，摩尔线程和沐曦股份的市值，分别是壁仞 ... 9倍。 ... 最底层是壁砺™系列GPGPU芯片，已量产的主力产品包括BR106和BR166；芯片之外，还有板卡和模组；再往上，是多卡服务器和智算集群的整体交付；最新方向是“超节点”，通俗来讲，就是把几十张到上千张卡连成一台“大计算机”，用来训练万亿参数级别的大模型。为了让客户“开箱即用”，壁仞还自研了BIRENSUPA™软件平台，支持DeepSeek、通义千问、智谱GLM等数十款国产大模型“Day0”级适配。 ... 搞清楚业务，再看数据。2026年上半年，壁仞交出的成绩单是：营收12.36亿元，同比增长1997.6%，接近20倍。这个数字放在国产GPU行业里是什么水平？"
         },
         {
-          "title": "有钱也买不到？华为昇腾910C让大厂采购四处托关系_凤凰网",
-          "url": "https://tech.ifeng.com/c/8vu0OhfVqfd",
-          "published": "2026-08-26T04:52:05.000Z",
-          "highlights": " # 有钱也买不到？华为昇腾910C让大厂采购四处托关系 光年Tech 2026年08月26日 12:52:05 华为昇腾910C被抢光：字节阿里扫空库存，中国AI算力的命门不在华盛顿 作者 | 佳明 编辑 | 陈立峰 八月中旬，几家头部大模型公司的采购负责人私下都在忙同一件事，托关系、加预算、甚至提前预付，只为多抢到几千张华为昇腾910C。 这款一年前还被质疑能不能用的国产训练芯片，如今在现货市场一卡难求，二级市场一度被炒出三成以上的溢价。 字节和阿里已经把现有库存扫光，腾讯、百度、科大讯飞在后面排队等着分货。 ... 到了2026年一季度，英伟达在中国加速卡市场的份额急剧萎缩，国产芯片已实现反超，其中华为昇腾占据领先地位。 就在这个被硬生生腾出来的空 ... 期，华为昇腾成了最确 ... 910C在2025年全年出货约八十一点二万颗，拿下国内近一半份额，2026年一季度又交付15万张，"
-        },
-        {
           "title": "直击光合组织智能计算应用大会：国内首个全国产十万卡AI超集群落地 海光信息宣布进军嵌入式AI市场_腾讯新闻",
           "url": "https://news.qq.com/rain/a/20260711A08VKP00",
           "published": "2026-07-11T18:41:05.000Z",
@@ -162,6 +186,12 @@
           "url": "https://www.cls.cn/detail/2423602",
           "published": "2026-07-11T00:00:00.000Z",
           "highlights": " 直击光合组织智能计算应用大会：国内首个全国产十万卡AI超集群落地 海光信息宣布进军嵌入式AI市场 ... 直击光合组织智能计算应用大会：国内首个全国产十万卡AI超集群落地 海光信息宣布进军嵌入式AI市场 ... ``` ①中科曙光宣布中国首个全国产十万卡AI超集群——曙光8000（登峰）正式落成，AI基础设施建设迈向十万卡级部署阶段； ②海光CPU与DCU已应用于十万卡AI超集群落地，验证了国产计算和加速芯片对大规模算力基础设施支持能力，同时海光信息宣布将进军嵌入式AI的增量市场。 ``` 《科创板日报》7月11日讯（记者 郭辉） 7月10日，光合组织2026智能计算应用大会在郑州举办。大会围绕智能计算应用与发展范式、AI基础设施创新、国产开放计算生态建设展开探讨交流，推动国产人工智能算力从关注建设到关注应用，从评价单一参数到注重系统能力，从局部场景迈向大规模迁移。 会上，中科曙光宣布中"
+        },
+        {
+          "title": "海光DCU Day 0 適配騰訊混元Hy3正式版！ 繼成功適配騰訊混元Hy3 Preview版本之後，海光信息自主研發的深算系列DCU已率先完成與騰訊混元大模型Hy3正式版的全面深度適配同專項性能優化。今次適配喺Preview版本基礎上全面升級，重點針對Hy3正式版明顯增強嘅智能體（Agent）能力、MoE稀疏激活架構，以及更低推理延遲要求，進行軟硬協同調優，為政企客戶提供由模型到算力嘅全栈國產化、高性價比私有化部署方案。",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7480156320839532544",
+          "published": "2026-07-07T00:00:00.000Z",
+          "highlights": " # 海光DCU Day 0 適配騰訊混元Hy3正式版！ 繼成功適配騰訊混元Hy3 Preview版本之後，海光信息自主研發的深算系列DCU已率先完成與騰訊混元大模型Hy3正式版的全面深度適配同專項性能優化。今次適配喺Preview版本基礎上全面升級，重點針對Hy3正式版明顯增強嘅智能體（Agent）能力、MoE稀疏激活架構，以及更低推理延遲要求，進行軟硬協同調優，為政企客戶提供由模型到算力嘅全栈國產化、高性價比私有化部署方案。 · 2026-07-07T00:00:00+00:00 ... 繼成功適配騰訊混元Hy3 Preview版本之後，海光信息自主研發的深算系列DCU已率先完成與騰訊混元大模型Hy3正式版的全面深度適配同專項性能優化。今次適配喺Preview版本基礎上全面升級，重點針對Hy3正式版明顯增強嘅智能體（Agent）能力、MoE稀疏激活架構，以及更低推理延遲要求，進行軟硬協"
         }
       ]
     }

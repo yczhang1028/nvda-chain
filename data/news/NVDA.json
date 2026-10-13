@@ -1,7 +1,78 @@
 {
   "ticker": "NVDA",
   "name": "NVIDIA",
-  "fetched_at": "2026-10-12T10:00:55",
-  "count": 0,
-  "items": []
+  "fetched_at": "2026-10-13T10:01:37",
+  "count": 10,
+  "items": [
+    {
+      "title": "NVIDIA Corporation - NVIDIA Announces Financial Results for Second Quarter Fiscal 2027",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/default.aspx",
+      "published": "2026-08-26T00:00:00.000Z",
+      "author": "N/A",
+      "highlights": " - Revenue of $96.2 billion, up 106% from a year ago - Data Center revenue of $89.0 billion, up 117% from a year ago SANTA CLARA, Calif., Aug. 26, 2026 (GLOBE NEWSWIRE) -- NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago. For the quarter, GAAP and non-GAAP gross margins were both 75.0%. GAAP and non-GAAP earnings per diluted share were $2.46 and $2.22, respectively. “AI has reached its inflection point. It’s doing useful work. Its tokens are productive and profitable. Now, com"
+    },
+    {
+      "title": "Document",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
+      "published": "N/A",
+      "author": "N/A",
+      "highlights": " NVIDIA Announces Financial Results ... • Revenue of $96.2 billion, up 106% from a year ago • Data Center revenue of $89.0 billion, up 117% from a year ago SANTA CLARA, Calif.—Aug. 26, 2026― NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago. For the quarter, GAAP and non-GAAP gross margins were both 75.0%. GAAP and non-GAAP earnings per diluted share were $2.46 and $2.22, respectively. “AI has reached its inflection point. It’s doing useful work. Its tokens are productive and p"
+    },
+    {
+      "title": "NVIDIA Corporation - NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2026",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Fourth-Quarter-and-Fiscal-2026/default.aspx",
+      "published": "2026-02-25T00:00:00.000Z",
+      "author": "N/A",
+      "highlights": " - Record quarterly revenue of $68.1 billion, up 20% from Q3 and up 73% from a year ago - Record quarterly Data Center revenue of $62.3 billion, up 22% from Q3 and up 75% from a year ago - Record full-year revenue of $215.9 billion, up 65% SANTA CLARA, Calif., Feb. 25, 2026 (GLOBE NEWSWIRE) -- NVIDIA (NASDAQ: NVDA) today reported record revenue for the fourth quarter ended January 25, 2026, of $68.1 billion, up 20% from the previous quarter and up 73% from a year ago. For fiscal 2026, revenue was $215.9 billion, up 65% from a year ago. ... “Computing demand is growing exponentially — the agent"
+    },
+    {
+      "title": "NVIDIA CORP. R (NVD.HA) Q2 FY2027 earnings call transcript",
+      "url": "https://www.carsongroup.com/wp-content/uploads/2026/08/NVIDIA-CORP.-R-NVD.HA-Q2-FY2027-earnings-call-transcript.pdf",
+      "published": "N/A",
+      "author": "N/A",
+      "highlights": " ## NVIDIA CORP. R (NVD.HA) Q2 FY2027 earnings ... NVIDIA delivered a record Q2 with revenue of $96 billion, more than doubling year-over-year, driven by surging AI demand and continued data center strength. Management guides for ~70% revenue growth in fiscal 2028, citing ongoing supply constraints despite demand exceeding this level, and expects gross margins to moderate due to memory cost pressures. ... 0:02:10 Thanks, Toshiya. We delivered another outstanding quarter with record revenue, operating income, and EPS. Total revenue of $96 billion more than doubled year-over-year as growth accel"
+    },
+    {
+      "title": "NVIDIA Announces Financial Results for Second Quarter",
+      "url": "https://nvidianews.nvidia.com/_gallery/download_pdf/6a8f4ad73d6332b41f76ab70/",
+      "published": "N/A",
+      "author": "N/A",
+      "highlights": " Revenue of $96.2 billion, up 106% from a year ago Data Center revenue of $89.0 billion, up 117% from a year ago NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago. For the quarter, GAAP and non-GAAP gross margins were both 75.0%. GAAP and non-GAAP earnings per diluted share were $2.46 and $2.22, respectively. “AI has reached its inflection point. It's doing useful work. Its tokens are productive and profitable. Now, compute is revenue,'' said Jensen Huang, founder and CEO of NV"
+    },
+    {
+      "title": "Nvidia's profit triples as Jensen Huang predicts further ...",
+      "url": "https://www.reuters.com/world/us/nvidia-earnings-report-live-ai-chipmaker-expected-post-jump-revenue-2026-05-20/",
+      "published": "2026-05-20T00:00:00.000Z",
+      "author": "Zoe Law",
+      "highlights": " Nvidia’s profit triples as Jensen Huang predicts further revenue growth - as it happened | Reuters ... # Nvidia’s profit triples as Jensen Huang predicts further revenue growth - as it happened ... Save article Nvidia’"
+    },
+    {
+      "title": "Nvidia Corp (NVDA) 10-Q Quarterly Report August 2026",
+      "url": "https://last10k.com/sec-filings/nvda/0001045810-26-000075.htm",
+      "published": "2026-08-26T16:36:00.000Z",
+      "author": "N/A",
+      "highlights": " NVIDIA Announces Financial Results for Second Quarter Fiscal 2027 • Revenue of $96.2 billion, up 106% from a year ago • Data Center revenue of $89.0 billion, up 117% from a year ago ... NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago. For the quarter, GAAP and non-GAAP gross margins were both 75.0%. GAAP and non-GAAP earnings per diluted share were $2.46 and $2.22, respectively. “AI has reached its inflection point. It’s doing useful work. Its tokens are productive and profi"
+    },
+    {
+      "title": "Nvidia's Supply Chain Just Sent a 12-Month Alpha Signal",
+      "url": "https://www.ainvest.com/news/nvidia-supply-chain-12-month-alpha-signal-2607/",
+      "published": "2026-07-16T12:22:28.000Z",
+      "author": "AInvest",
+      "highlights": " # Nvidia's Supply Chain Just Sent a 12-Month Alpha Signal ... - - NVIDIA NVDA-- faces 2M H200 chip orders vs 700K stock, exposing AI supply chain bottlenecks beyond mere demand. - - Supply constraints span advanced packaging, HBM, and leading-edge foundries, elevating NVIDIA's production pipeline value. - - TSMC's advanced semiconductor 861234-- demand confirms supply-led bottlenecks, while Chinese export controls delay revenue conversion. - - Regulatory risks cap short-term gains but preserve long-term opportunities if Beijing approves H200 shipments. ## The signal is a system bottleneck, no"
+    },
+    {
+      "title": "NVIDIA turns the AI trade into a guidance trade: the beat matters less than gross margin discipline and what capex commentary implies for the next build cycle | Plutux Insights",
+      "url": "https://plutux.ai/insights/20260826_nvidia_aug26_post_earnings_expectations_premium",
+      "published": "2026-08-26T00:00:00.000Z",
+      "author": "N/A",
+      "highlights": " After NVIDIA delivered a strong fiscal Q2 FY27 outlook, the market focus shifts from “did it beat?” to “does the guide protect AI gross margin and keep the custom-silicon/mix story intact?”. The key risk for the supply chain is that a high expectations premium can compress quickly if the guidance tolerates weaker mix, narrower gross-margin bands, or slower downstream refresh—especially in the memory and interconnect bottlenecks feeding the AI build cycle. Published Aug 26, 2026 Updated Aug 26, 2026 Revenue outlook (Q2 FY27) $91.0B NVIDIA outlook for the second quarter of fiscal 2027 (announce"
+    },
+    {
+      "title": "Is NVDA Stock a Buy Before Q3 Earnings? Nvidia's China Gap, Debt Surge, and the Rubin Bet — Apsis Markets",
+      "url": "https://apsismarkets.com/blog/is-nvda-stock-a-buy-before-q3-earnings-nvidia-s-china-gap-de",
+      "published": "2026-09-26T14:24:28.000Z",
+      "author": "N/A",
+      "highlights": " NVDA closed its fiscal Q2 FY2027 on August 26, 2026 with a print that would have been a blowout in any other era: $96.22 billion in revenue, roughly 5.7% above its own guidance, with Data Center revenue of $89 billion, up 117% year over year. Management then guided fiscal Q3 to approximately $108 billion — not just growth, but sequential acceleration off a base that is already the largest in semiconductor history. That makes four straight quarters of EPS beats, in a 3.5%–6.2% surprise range. ... That spread is the whole argument. A forward multiple in ... mid-teens on a company compounding Da"
+    }
+  ]
 }
