@@ -1,7 +1,78 @@
 {
   "ticker": "VRT",
   "name": "Vertiv",
-  "fetched_at": "2026-10-28T10:00:55",
-  "count": 0,
-  "items": []
+  "fetched_at": "2026-10-29T10:01:03",
+  "count": 10,
+  "items": [
+    {
+      "title": "Earnings call transcript: Vertiv tops Q3 2026 estimates and raises outlook By Investing.com",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-vertiv-tops-q3-2026-estimates-and-raises-outlook-93CH-4980196",
+      "published": "2026-10-28T16:11:19.000Z",
+      "author": "N/A",
+      "highlights": " indicates how quickly an investment in AI data center and compute becomes revenue-generating ... and modularly deployed infrastructure significantly removes complexity from site. It happens in parallel with site preparation. This cuts deployment time"
+    },
+    {
+      "title": "Vertiv (VRT) Q3 2026 Earnings Call Transcript | The Motley Fool",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/28/vertiv-vrt-q3-2026-earnings-call-transcript/",
+      "published": "2026-10-28T19:08:26.000Z",
+      "author": "Motley Fool Transcribing",
+      "highlights": " ## TAKEAWAYS - Net Sales -- $4,313 million, representing 61% growth driven by broad-based demand across all geographic regions. - Organic Net Sales Growth -- 55% year over year, reflecting strong backlog execution and ongoing capacity expansion. - Organic Orders Growth -- over 100% year over year, indicating significant market demand for artificial intelligence infrastructure. - Adjusted Operating Margin -- 25.2%, an expansion of 290 basis points due to operational leverage on higher volume and manufacturing productivity. - Adjusted Operating Profit -- $1.1 billion, up 83% year over year from"
+    },
+    {
+      "title": "Document",
+      "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026050323/q22026exhibit991vrt07292026.htm",
+      "published": "N/A",
+      "author": "N/A",
+      "highlights": " Vertiv Reports Strong Second Quarter 2026 with Diluted EPS Growth of 53% (Adjusted Diluted EPS Growth of +60%); Raises Full Year 2026 Guidance Across All Key Metrics Second Quarter 2026 Results • Net sales of $3,274 million, 24% higher than second quarter 2025. • Operating profit up 44% and adjusted operating profit(1) up 51% from second quarter 2025. Adjusted operating margin of 22.6%, up 410 basis points compared to second quarter 2025. • Diluted EPS grew 53% to $1.27 and adjusted diluted EPS grew 60% to $1.52 compared to second quarter 2025. • Operating cash flow of $1,100 million and adju"
+    },
+    {
+      "title": "Vertiv Holdings Co. - Vertiv Targets Up to 30% More Cumulative AI Token Output in First 12 Months Using NVIDIA DSX, Polar Deploys Approach at Norway Site",
+      "url": "https://investors.vertiv.com/news/news-details/2026/Vertiv-Targets-Up-to-30-More-Cumulative-AI-Token-Output-in-First-12-Months-Using-NVIDIA-DSX-Polar-Deploys-Approach-at-Norway-Site/default.aspx",
+      "published": "2026-10-21T00:00:00.000Z",
+      "author": "N/A",
+      "highlights": " Vertiv Holdings Co. - Vertiv Targets Up to 30% More Cumulative AI Token Output in First 12 Months Using NVIDIA DSX, Polar Deploys Approach at Norway Site # News details ### Vertiv Targets Up to 30% More Cumulative AI Token Output in First 12 Months Using NVIDIA DSX, Polar Deploys Approach at Norway Site Oct 21, 2026 Pre-engineered reference designs enable configuration and validation up to 10x faster, combined with factory-built infrastructure for faster deployment, integrated with Dassault Systèmes' 3DEXPERIENCE agentic platform COLUMBUS, Ohio, Oct. 21, 2026 /PRNewswire/ -- At NVIDIA GTC Ber"
+    },
+    {
+      "title": "Nvidia Partner Vertiv Soars After AI Data Center Play's Blowout Earnings, Strong Guidance | Investor's Business Daily",
+      "url": "https://www.investors.com/news/nvidia-partner-vertiv-earnings-ai-stocks-data-center/",
+      "published": "2026-10-28T12:11:06.000Z",
+      "author": "PAOLO CONFINO",
+      "highlights": " AI play Vertiv shrugged off concerns about the industry. The data center infrastructure play and Nvidia partner surged on Wednesday after handily beating earnings. Vertiv Holdings (VRT) stock was up 16.6% on Wednesday, trading around $243 a share,"
+    },
+    {
+      "title": "Vertiv stock surges as orders double amid AI build-out: 'Evolving faster than ever'",
+      "url": "https://finance.yahoo.com/markets/stocks/article/vertiv-stock-surges-as-orders-double-amid-ai-build-out-121856424.html",
+      "published": "2026-10-28T12:18:56.000Z",
+      "author": "Grace O'Donnell",
+      "highlights": " makes power and cooling hardware for data centers and enterprise networks. The company explained that ... year over year. The company counts Alphabet, Microsoft, Nvidia (NVDA), and Amazon ( ... , have given Vertiv the confidence to raise its full-year"
+    },
+    {
+      "title": "Vertiv's +16.7% Priced AI's Power Chokepoint: $4.1 Billion Prepaid Before Delivery While NVIDIA's Margin Kept Rising | Plutux Insights",
+      "url": "https://plutux.ai/insights/20261028_vertiv_q3_ai_power_chokepoint_pricing",
+      "published": "2026-10-28T00:00:00.000Z",
+      "author": "N/A",
+      "highlights": " .0% from 72.4% a year earlier, and its operating margin reached 66.2%. What moved was the queue. Customers prepaid $4.12 billion for power and ... while the power chain's queue grew — and the installers still earn roughly20% gross margins on 20% to 54%"
+    },
+    {
+      "title": "Vertiv Q2 Earnings Call Highlights AI Data Center Growth",
+      "url": "https://finance.yahoo.com/technology/ai/articles/vertiv-q2-earnings-call-highlights-140000648.html",
+      "published": "2026-07-30T14:00:00.000Z",
+      "author": "Zacks Equity Research",
+      "highlights": " The company is working with NVIDIA and VisionBay AI on AI data center deployments in ... including power, thermal and services solutions for NVIDIA GB300 systems. Management said that these projects demonstrate demand for higher-density infrastructure"
+    },
+    {
+      "title": "Vertiv Holdings Co (VRT) Earnings Call Transcript & Summary",
+      "url": "https://earningsapi.io/transcripts/vertiv-holdings-co_vrt_earnings_call_transcript_2026-09-08",
+      "published": "2026-09-08T00:00:00.000Z",
+      "author": "N/A",
+      "highlights": " ) reported robust growth driven by a strong market environment and an expanding product pipeline. Revenue for the quarter reached $ ... .2 billion, reflecting a 15% year-over-year increase ... raised its organic revenue CAGR target for 2025-2030 to"
+    },
+    {
+      "title": "The Ecosystem Engine: Co-Creating the AI Factory (Presented by Vertiv) S82232 | GTC San Jose 2026 | NVIDIA On-Demand",
+      "url": "https://www.nvidia.com/en-us/on-demand/session/gtc26-s82232/",
+      "published": "N/A",
+      "author": "N/A",
+      "highlights": " explores how deep, pre-validated collaboration is the only path to de-risking the AI factory. We will discuss how digital twin-driven ... allows the ecosystem to visualize and solve thermal and power challenges before physical deployment, enabling a \""
+    }
+  ]
 }
