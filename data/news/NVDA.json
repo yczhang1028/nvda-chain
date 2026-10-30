@@ -1,7 +1,78 @@
 {
   "ticker": "NVDA",
   "name": "NVIDIA",
-  "fetched_at": "2026-10-29T10:01:03",
-  "count": 0,
-  "items": []
+  "fetched_at": "2026-10-30T10:00:17",
+  "count": 10,
+  "items": [
+    {
+      "title": "NVIDIA Announces Financial Results for Second Quarter ...",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027",
+      "published": "2026-08-26T00:00:00.000Z",
+      "author": "N/A",
+      "highlights": " # NVIDIA Announces Financial Results for Second Quarter Fiscal 2027 - Revenue of $96.2 billion, up 106% from a year ago - Data Center revenue of $89.0 billion, up 117% from a year ago August 26, 2026 NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 26, 2026, of $96.2 billion, up 18% from the previous quarter and up 106% from a year ago. For the quarter, GAAP and non-GAAP gross margins were both 75.0%. GAAP and non-GAAP earnings per diluted share were $2.46 and $2.22, respectively. “AI has reached its inflection point. It’s doing useful work. Its tokens are produc"
+    },
+    {
+      "title": "Nvidia forecasts 70% sales growth next year, signals AI spending boom has years left to run | Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/nvidia-forecasts-quarterly-revenue-above-estimates-2026-08-26/",
+      "published": "2026-08-26T20:24:22.000Z",
+      "author": "Anhata Rooprai, Max Cherney, Deborah Sophia",
+      "highlights": " - Third-quarter revenue forecast is $108 billion, plus or minus 2%, versus $104.19 billion estimate - Nvidia expects fiscal 2028 revenue to grow by about 70% - Nvidia and AWS to deploy 2 million additional GPUs in 2027 and 2028 Aug 26 (Reuters) - Nvidia (NVDA.O), opens new tab on Wednesday forecast a 70% ​jump in revenue next fiscal year, underscoring unabated demand for AI computing, while warning that shortages of memory components would continue to curb how ‌quickly it can expand. ... Nvidia said it expects demand from AI labs to contribute roughly a quarter of its ‌overall business next ⁠"
+    },
+    {
+      "title": "Nvidia says supply shortages are limiting AI revenue growth | Supply Chain Dive",
+      "url": "https://www.supplychaindive.com/news/nvidia-says-supply-shortages-are-limiting-ai-revenue-growth/829115/",
+      "published": "2026-08-31T07:24:00.000Z",
+      "author": "Antone Gonsalves",
+      "highlights": " ### Dive Brief: - Supply constraints are weighing down Nvidia’s financial outlook for its next fiscal year, executives said on an Aug. 26 earnings call. - The shortages span the artificial intelligence infrastructure provider’s supply network, extending from high-speed memory and silicon vendors to suppliers of AI data centers under construction, co-founder and CEO Jen-Hsun Huang told investors. - “We have a really gigantic supply chain, and so, we have incredible partners, and we've secured a lot of supply, but we just need a lot more,” Huang said, noting that while it has supply to drive 70"
+    },
+    {
+      "title": "Nvidia stock rises 7% after blockbuster earnings boost AI confidence",
+      "url": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
+      "published": "2026-08-27T08:04:33.000Z",
+      "author": "Kai Nicol-Schwarz, Arjun Kharpal",
+      "highlights": " Nvidia CFO Colette Kress said on Wednesday that the company expects revenue growth of 70% for fiscal 2028, which runs from February 2027 to January 2028. CEO Jensen Huang said demand \"is much greater than 70%,\" but the company is constrained on the amount of product it can supply. Taiwan Semiconductor Manufacturing Co. Add To Watchlist, Nvidia's main manufacturer, continues to face supply constraints, while memory chips — a key component of Nvidia's systems — also remain in short supply."
+    },
+    {
+      "title": "NVIDIA Corporation - NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Supply-Chain-Partners-Expand-Capacity-to-Accelerate-AI-Infrastructure-Buildout/default.aspx",
+      "published": "2026-10-21T00:00:00.000Z",
+      "author": "N/A",
+      "highlights": " ### NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout October 21, 2026 News Summary: - Substrate agreements with IBIDEN, Samsung Electro-Mechanics and Unimicron Technology Corporation will, in aggregate, drive a 2.5x increase in capacity over the next three years. - Amkor plans to increase its advanced packaging capacity by more than 300% by the end of 2028. - KYEC will build new facilities in the U.S., supported by a $1.1 billion capacity reservation advance from NVIDIA. - SPIL is targeting to increase its optical-engine capacity for co-packaged optics"
+    },
+    {
+      "title": "Earnings call transcript: NVIDIA beats Q2 2026 estimates as AI demand stays hot By Investing.com",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-nvidia-beats-q2-2026-estimates-as-ai-demand-stays-hot-93ch-4878028",
+      "published": "2026-08-26T22:14:17.000Z",
+      "author": "N/A",
+      "highlights": " NVIDIA said fiscal second-quarter revenue more than doubled from a year earlier to $96.2 billion and adjusted earnings topped Wall Street expectations, underscoring how the company remains at the center of the global AI spending boom. The chip maker reported adjusted earnings of $2.22 a share, above the $2.08 forecast, and said revenue exceeded the $91.9 billion consensus. Shares rose 3.98% after hours to $218, after closing the regular session at $209.66, down 1.59%. ... NVIDIA said it expects fiscal third-quarter revenue of $108 billion, plus or minus 2%, which implies a range of about $106"
+    },
+    {
+      "title": "Document",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000019/q4fy26pr.htm",
+      "published": "N/A",
+      "author": "N/A",
+      "highlights": " NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2026 • Record quarterly revenue of $68.1 billion, up 20% from Q3 and up 73% from a year ago • Record quarterly Data Center revenue of $62.3 billion, up 22% from Q3 and up 75% from a year ago • Record full-year revenue of $215.9 billion, up 65% SANTA CLARA, Calif.—Feb. 25, 2026― NVIDIA (NASDAQ: NVDA) today reported record revenue for the fourth quarter ended January 25, 2026, of $68.1 billion, up 20% from the previous quarter and up 73% from a year ago. For fiscal 2026, revenue was $215.9 billion, up 65% from a year ago. For the "
+    },
+    {
+      "title": "NVIDIA Earnings Supplier-Related Key Takeaways",
+      "url": "https://www.pureplayetfs.com/posts/nvidia-earnings-supplier-related-key-takeaways",
+      "published": "2026-09-10T00:00:00.000Z",
+      "author": "N/A",
+      "highlights": " Perhaps the clearest supply-chain signal in the report was the sharp increase in NVIDIA's future supply and capacity commitments. As of July 26, NVIDIA had $279 billion of supply and capacity commitments, compared with $119 billion three months earlier. The increase was primarily related to memory procurement, reflecting the company's efforts to secure critical components and manufacturing capacity ahead of expected demand. The commitments are heavily front-loaded. Approximately $92 billion is scheduled for the remainder of fiscal 2027, followed by $87 billion in fiscal 2028 and $88 billion i"
+    },
+    {
+      "title": "Nvidia bets on new data center chips for growth as sales outlook tops estimates | Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/nvidia-forecasts-quarterly-revenue-above-estimates-announces-80-billion-share-2026-05-20/",
+      "published": "2026-05-20T20:24:35.000Z",
+      "author": "Stephen Nellis, Max Cherney, Zaheer Kachwala",
+      "highlights": " Nvidia expects revenue of $91 billion, plus or minus 2%, ​compared with estimates of $86.84 billion, according to data compiled by LSEG. ... Spending on AI infrastructure continues to grow rapidly, with U.S. tech giants, including Alphabet (GOOGL.O), opens new tab, Amazon (AMZN.O), opens new tab and Microsoft (MSFT.O), opens new tab, expected to spend more than $700 billion on AI this year, a sharp jump from around $400 billion in 2025. ... During the conference call, Huang said Nvidia's new \"Vera\" central processors give it access to a new $200 billion market. Nvidia expects $20 billion in r"
+    },
+    {
+      "title": "NVIDIA Q2 Earnings Call Puts Supply Limits at Center of Outlook",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-q2-earnings-call-puts-140000690.html",
+      "published": "N/A",
+      "author": "Zacks Equity Research      Thu, August 27, 2026 at 10:00 AM EDT   4 min read                 1",
+      "highlights": " NVIDIA Q2 Earnings Call Puts Supply Limits at Center of Outlook NVIDIA Q2 Earnings Call Puts Supply Limits at Center of Outlook"
+    }
+  ]
 }

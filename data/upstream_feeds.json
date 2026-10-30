@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-29T10:02:10",
+  "fetched_at": "2026-10-30T10:01:34",
   "feeds": {
     "nvidia_动向": {
       "label": "🔺 NVIDIA 上游动向",
@@ -10,49 +10,49 @@
           "title": "Infrastructure for Scalable AI Reasoning | NVIDIA Vera Rubin Platform",
           "url": "https://www.nvidia.com/en-us/data-center/technologies/rubin/",
           "published": "N/A",
-          "highlights": " ### NVIDIA Vera Rubin Ramps Into Full Production to Power Agentic AI Factories Worldwide The NVIDIA Vera Rubin is ramping into full production, with Taiwan’s top server makers and global supply chain leaders manufacturing at scale and shipping Vera Rubin-based systems— fueling AI labs, cloud providers, and hyperscalers to build tomorrow’s intelligence. ... ### Japan Government, Industrial Leaders"
+          "highlights": " ### NVIDIA Vera Rubin Ramps Into Full Production to Power Agentic AI Factories Worldwide The NVIDIA Vera Rubin is ramping into full production, with Taiwan’s top server makers and global supply chain leaders manufacturing at scale and shipping Vera Rubin-based systems— fueling AI labs, cloud providers, and hyperscalers to build tomorrow’s intelligence. ### Japan Government, Industrial Leaders and"
         },
         {
           "title": "From Grace to Vera: NVIDIA’s next data center CPU S81680 | GTC San Jose 2026 | NVIDIA On-Demand",
           "url": "https://www.nvidia.com/en-us/on-demand/session/gtc26-s81680/",
           "published": "N/A",
-          "highlights": " scale, 01:22 as you can see there. 01:25 Vera will succeed Grace as our newest CPU platform for AI and HPC. 01:31 We expect it to become generally available later this year. 01:35 Without going into details, I think I can say that everything 01:38 is well on track. 01:41 At our NVIDIA lab, some of our customers, including but not 01:44 limited to Red Panda and Meta, are already running production"
+          "highlights": " 01:25 Vera will succeed Grace as our newest CPU platform for AI and HPC. 01:31 We expect it to become generally available later this year. 01:35 Without going into details, I think I can say that everything 01:38 is well on track. 01:41 At our NVIDIA lab, some of our customers, including but not 01:44 limited to Red Panda and Meta, are already running production-grade 01:48 workloads on top of Ve"
+        },
+        {
+          "title": "Nvidia touts new storage platform, confidential computing for Vera Rubin",
+          "url": "https://www.computing.co.uk/news-network/2026/nvidia-touts-new-storage-platform-confidential-computing-for-vera-rubin",
+          "published": "N/A",
+          "highlights": " The AI infrastructure giant used the CES 2026 keynote by Nvidia CEO Jensen Huang to mark the launch of its Rubin GPU platform, the highly anticipated follow-up to its fast-selling Blackwell Ultra products. But while the company said Rubin is in “full production,” related products won’t be available from partners until the second half of this year. ... The California-based company plans to initial"
         },
         {
           "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure | NVIDIA Blog",
           "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
           "published": "2026-10-21T10:45:17.000Z",
-          "highlights": " Google Cloud A5X instances, accelerated by NVIDIA Vera Rubin NVL72 systems, support European innovators with next-generation agentic and reinforcement learning infrastructure. October 21, 2026 by Uttara Kumar General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinfor"
+          "highlights": " General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9 SuperNICs, Google Cloud Virgo Network and Google Cloud’s fourth-generation advanced liquid-cooling te"
+        },
+        {
+          "title": "NVIDIA Vera Rubin: Full Guide to Rubin GPU, Vera CPU and NVL72",
+          "url": "https://www.insidedeeptech.com/nvidia-vera-rubin-nvl72-full-guide/",
+          "published": "2026-10-05T06:11:50.000Z",
+          "highlights": " Blackwell taught the industry to buy AI compute by the rack. NVIDIA Vera Rubin is the first generation where the GPU, the CPU, the memory, the rack and the network were all redesigned at once, and as of October 5, 2026 it's no longer a roadmap slide: NVIDIA told investors it commenced production shipments of Vera Rubin in August 2026. ... - Vera Rubin NVL72 pairs 72 Rubin GPUs with 36 Vera CPUs; "
         },
         {
           "title": "NVIDIA puts Vera Rubin into production for AI inference",
           "url": "https://datacenter.news/story/nvidia-puts-vera-rubin-into-production-for-ai-inference",
           "published": "2026-08-25T16:15:00.000Z",
-          "highlights": " NVIDIA has put its Vera Rubin NVL72 system with Groq 3 LPX into full production, targeting AI inference for agentic systems. The announcement adds an inference component to NVIDIA's broader Vera Rubin platform, which is positioned around long-context processing, token generation and networking for large AI deployments."
+          "highlights": " NVIDIA has put its Vera Rubin NVL72 system with Groq 3 LPX into full production, targeting AI inference for agentic systems. The announcement adds an inference component to NVIDIA's broader Vera Rubin platform, which is positioned around long-context processing, token generation and networking for large AI deployments. In a benchmark by Artificial Analysis using the Gemma 4 31B model, the system "
         },
         {
           "title": "Nvidia's Huang vows to deliver 'giant amounts' of Vera Rubin — company says that 'our roadmap is intact' | Tom's Hardware",
           "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-huang-vows-to-deliver-giant-amounts-of-vera-rubin-company-says-that-our-roadmap-is-intact",
           "published": "2026-07-15T19:07:17.000Z",
-          "highlights": " But what about Vera Rubin Ultra? (Image credit: Nvidia) Jensen Huang, chief executive of Nvidia, denied reports about delays of the company's next-generation AI platform and said that production volumes of the upcoming Vera Rubin platforms are 'giant.' He didn't address reports about delays of Vera Rubin Ultra-based rack-scale systems carrying 144 AI GPUs. \"[The reports about Vera Rubin delays ar"
+          "highlights": " Jensen Huang, chief executive of Nvidia, denied reports about delays of the company's next-generation AI platform and said that production volumes of the upcoming Vera Rubin platforms are 'giant.' He didn't address reports about delays of Vera Rubin Ultra-based rack-scale systems carrying 144 AI GPUs. \"[The reports about Vera Rubin delays are] not true,\" Huang told reporters on the sidelines of a"
         },
         {
           "title": "NVIDIA (NVDA) Transcript: Bank of America 2026 Global Technology Conference",
           "url": "https://stockanalysis.com/stocks/nvda/transcripts/678933-bank-of-america-2026-global-technology-conference/",
           "published": "2026-06-04T00:00:00.000Z",
           "highlights": " Thank you for having me. I'm going to give you one quick statement at the very beginning here. As a reminder, this discussion may contain forward-looking statements, and investors are advised to read our reports filed with the SEC for information related to our risks and uncertainties facing our business. GTC Taipei was a really great event. We do enjoy going to Taiwan, meeting with such an impor"
-        },
-        {
-          "title": "NVIDIA Vera Rubin Ramps Into Full Production to Power ...",
-          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Vera-Rubin-Ramps-Into-Full-Production-to-Power-Agentic-AI-Factories-Worldwide/default.aspx",
-          "published": "2026-05-31T00:00:00.000Z",
-          "highlights": " NVIDIA Corporation - NVIDIA Vera Rubin Ramps Into Full Production to Power Agentic AI Factories Worldwide ### NVIDIA Vera Rubin Ramps Into Full Production to Power Agentic AI Factories Worldwide May 31, 2026 News Summary: - NVIDIA Vera Rubin is ramping into full production, with Taiwan’s top server makers and global supply chain leaders manufacturing Vera Rubin-based systems at scale — fueling AI"
-        },
-        {
-          "title": "NVIDIA Unveils Vera, the CPU for Agents",
-          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Unveils-Vera-the-CPU-for-Agents/default.aspx",
-          "published": "2026-05-31T00:00:00.000Z",
-          "highlights": " ### NVIDIA Unveils Vera, the CPU for Agents May 31, 2026 News Summary: - NVIDIA launches high-performance, energy-efficient NVIDIA Vera CPUs to drive diverse workloads across industries, including agentic AI, reinforcement learning and data processing. - Vera serves as the CPU powering standalone Vera servers, NVIDIA Vera Rubin systems and Vera BlueField-4 STX AI storage platforms. - Global AI la"
         },
         {
           "title": "NVIDIA Corporation - NVIDIA Vera Rubin Opens Agentic AI Frontier",
@@ -64,104 +64,74 @@
           "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin",
           "url": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer",
           "published": "2026-01-05T00:00:00.000Z",
-          "highlights": " The Rubin platform uses extreme codesign across the six chips — the NVIDIA Vera CPU, NVIDIA Rubin GPU, NVIDIA NVLink™ 6 Switch, NVIDIA ConnectX®-9 SuperNIC, NVIDIA BlueField®-4 DPU and NVIDIA Spectrum™-6 Ethernet Switch — to slash training time and inference token costs. ... - Sixth-Generation NVIDIA NVLink: Delivers the fast, seamless GPU-to-GPU communication required for today’s massive MoE mod"
+          "highlights": " CES— NVIDIA today kickstarted the next generation of AI with the launch of the NVIDIA Rubin platform, comprising six new chips designed to deliver one incredible AI supercomputer. NVIDIA Rubin sets a new standard for building, deploying and securing the world’s largest and most advanced AI systems at the lowest cost to accelerate mainstream AI adoption. The Rubin platform uses extreme codesign ac"
         }
       ]
     },
     "国产推理卡": {
       "label": "🇨🇳 国产 AI 芯片动向",
       "color": "#f472b6",
-      "count": 30,
+      "count": 10,
       "items": [
         {
-          "title": "华为拟明年生产约60万枚升腾910C芯片，产量翻倍（图） | 今日墨尔本",
-          "url": "https://www.meltoday.com/content-1025568745712003",
+          "title": "寒武纪高端芯片思元590、思元690产品供不应求，订单排到27年第二季度_寒武纪(688256)股吧_东方财富网股吧",
+          "url": "https://gubaf10.eastmoney.com/news,688256,1669990814.html",
           "published": "N/A",
-          "highlights": " 据彭博社援引知情人士报导称，华为计划明年生产约60万枚主打芯片升腾910C，约为今年产量的两倍。由于美国的制裁，华为在2025年的大部分时间里都难以将这些产品推上市场。上述知情人士表示，总体而言，这家总部位于深圳的公司将在2026年将其升腾产品线的产量提高至160万片裸芯片。裸芯片是指容纳芯片电路的基本硅元件。 ... 报 ... ， ... 该公司 ... 华为被 ... 脱 ... 的最大 ... ， ... 支撑 ... 世界 ... 经济体 ... 华为轮值董事长 ... 直军发布 ... 系列升腾芯片——950 ... 60 ... 70—— ... 分阶段推出，直至 ... 0 ... 。知 ... 这些 ... 是已有 ... 的升腾91 ... 的自然演进，目前 ... 10 ... 仍然是华为 ... 摇钱树。该公司代表尚未回复置评请求。 ... 但知情人士续指，华为在"
+          "highlights": " 寒武纪高端芯片思元590、思元690产品供不应求，订单排到27年第二季度_寒武纪(688256)股吧_东方财富网股吧 我的消息 - 最近访问： 发表于 2026-02-17 12:15:37 东方财富iPhone版 发布于 广东 寒武纪高端芯片思元590、思元690产品供不应求，订单排到27年第二季度 郑重声明：用户在财富号/股吧/博客等社区发表的所有信息（包括但不限于文字、视频、音频、数据及图表）仅代表个人观点，与本网站立场无关，不对您构成任何投资建议，据此操作风险自担"
         },
         {
-          "title": "电子行业深度报告",
-          "url": "https://pdf.dfcfw.com/pdf/H3_AP202604141821177994_1.pdf",
-          "published": "N/A",
-          "highlights": " 0 ... ### 增持（维持） [Table_Tag][Table_Summary] 投资要点 ◼ 海光&曙光：超节点算力与芯片设计的战略协同。中科曙光与海光信息 保持上市公司独立性的同时深化战略协同，形成“芯片设计+系统集成” 完整技术链条。海光 DCU 为曙光超节点提供自主可控算力核心，其芯 片级互联技术 HSL 与曙光 scaleFabric 高速网络实现全栈互联协同，推 动国产智算平台迈向系统领先。（1）中科曙光：以超级计算起家，30 年 技术沉淀成为核心信息基础设施领军企业。24 年 IT 设备、软件开发及 系统集成业务分别营收 117 亿元、14 亿元，在超节点领域完成 Scale Up、 Scale Out 技术突破并破解部署难题，具备算存网电冷一体化核心能 力；（2）海光信息：国产高端处理器龙头，CPU+DCU 双轮驱动。2022 年上市后主营业务持续放量，CPU 兼容"
+          "title": "前三季度狂揽95亿：寒武纪116亿存货里，有多少是真实订单？",
+          "url": "https://news.marsbit.co/20261027131224926031.html",
+          "published": "2026-10-27T05:12:25.000Z",
+          "highlights": " 寒武纪前三季度营收95.26亿元，同比增长106.76%，主要来自云端产品线，不包含智能计算集群系统业务；存货达116.65亿元，计提跌价准备5.02亿元，但未披露存货中对应真实订单的比例；思元690出货量、客户及收入贡献均未说明，交换芯片尚处规划阶段，全年135亿元目标面临第四季度近40亿元收入压力。 ... 其中一条回答补充了三季报没有披露的信息：前三季度收入主要来自云端产品线,不包含智能计算集群系统业务。 思元690的出货量、客户和收入贡献没有披露。116.65亿元存货中有多少对应现有订单,公司也没有说明。 ... 这一次增长主要由云端产品线带来,意味着寒武纪的收入来源已经发生变化。芯片、加速卡及相关软硬件平台开始直接贡献主要收入,集群系统不再是前三季度业绩增长的来源。 公司称,相关产品已经在金融、互联网等行业持续规模化商用部署。 具体客户仍未披露。 ... 寒武纪还透露,公司正在"
         },
         {
-          "title": "海光加持赋能，乘算力国产化东风",
-          "url": "https://pdf.dfcfw.com/pdf/H3_AP202604121821140984_1.pdf",
-          "published": "N/A",
-          "highlights": " [Table_Tag][Table_Summary] 投资要点 ◼ 背靠中科院与海光，从高端计算到建设生态：中科曙光依托中国科学院 推动组建而成，深耕高端计算，近年逐步向“芯-端-云-算”全产业链转 型。公司为中科院计算所实控，2025 年与海光信息换股吸收合并未果， 双方表示将更进一步合作。2025 年前三季度，公司实现营收 88.20 亿 元，同比上升 9.68%；归母净利 9.66 亿元，同比增速 25.55%。2024 年 IT 设备为主营业务，占比 89.04%，盈利增速回暖，整体毛利率平稳上 升。 ◼ AI 算力需求飞涨，行业国产化率激增：2025 年 7 月-11 月，AIGC 产业 投融资金额达 336.7 亿元，较上半年增加 20.8%。伴随 2026 年初新 AI 模型发力，算力需求预计大幅增长。中美贸易摩擦加剧，英伟达算力芯 片 H20 被曝安全问题，国产芯片需求加"
+          "title": "明年芯片出货量超百万颗？寒武纪董事长回应_新浪财经_新浪网",
+          "url": "https://finance.sina.com.cn/jjxw/2026-10-26/doc-iniwqhxp5279151.shtml",
+          "published": "2026-10-26T12:13:52.000Z",
+          "highlights": " 存货及资金占用问题成为本次说明会的关注焦点。截至三季度末，寒武纪存货达到116.65亿元，较二季度末增加34.17亿元，环比增长约41.43%；预付款项增至30.44亿元，应付票据达到49.66亿元。 ... 寒武纪表示，公司根据客户订单需求以及对市场未来需求的预测情况制定采购计划。公司将加快库存周转速度，降低库存风险。对于具体存货结构、订单覆盖比例和库存消化周期，管理层未披露进一步数据。 ... 对于四季度订单和交付能否支撑上述目标，陈天石表示，当前人工智能算力市场需求持续旺盛，能够支撑公司业务稳步增长，随着市场持续拓展与收入规模扩大，公司业绩有望保持增长。 新一代产品研发持续推进 在产品方面，投资者关注思元690、6系列芯片的大客户导入、量产出货以及供应链瓶颈。陈天石表示，公司将继续保持高强度研发投入，推进智能芯片产品和基础系统软件平台迭代升级，但未披露具体产品的出货量、量产进度和客"
         },
         {
-          "title": "东吴证券-电子行业深度报告：超节点系列报告二，海光&曙光系超节点，HSL+IB构建最全互连体系-260414",
-          "url": "https://www.nxny.com/report/view_6263684.html",
-          "published": "N/A",
-          "highlights": " 投资要点 海光&曙光：超节点算力与芯片设计的战略协同。中科曙光与海光信息保持上市公司独立性的同时深化战略协同，形成“芯片设计+系统集成”完整技术链条。海光DCU为曙光超节点提供自主可控算力核心，其芯片级互联技术HSL与曙光scaleFabric高速网络实现全栈互联协同，推动国产智算平台迈向系统领先。（1）中科曙光：以超级计算起家，30年技术沉淀成为核心信息基础设施领军企业。24年IT设备、软件开发及系统集成业务分别营收117亿元、14亿元，在超节点领域完成Scale Up、Scale Out技术突破并破解部署难题，具备算存网电冷一体化核心能力；（2）海光信息：国产高端处理器龙头，CPU+DCU双轮驱动。2022年上市后主营业务持续放量，CPU兼容x86并迭代至五号，DCU深算系列迭代至四号且性能对标国际，2025年推出的HSL协议带宽、时延表现优异，联合十余家厂商共建生态助力算力集群建设"
+          "title": "明年芯片出货超100万颗？寒武纪董事长陈天石回应：公司从未进行相关沟通 | 每经网",
+          "url": "https://www.nbd.com.cn/articles/2026-10-26/4618733.html",
+          "published": "2026-10-26T00:00:00.000Z",
+          "highlights": " 针对百万颗芯片出货量的市场讨论，有投资者询问，公司是否曾在机构调研或其他投资者交流中提及这一数字。对此，寒武纪董事长、总经理陈天石表示，公司从未进行过相关沟通。市场信息繁杂，公司公告是所有投资者平等获取公司信息的有效途径，如涉及法规要求的应当披露的重大事项，公司会依法履行信息披露义务。敬请投资者提高信息辨别能力，不传播、不采信来源不明或未经核实的信息，以公司发布在上交所官网的公告或公司官方网站披露的信息为准。 对于思元690芯片的生产销售情况、6系列产品导入大厂的进度等问题，陈天石也未披露具体出货数据及时间安排，表示相关信息应以公司公告或官方网站披露的信息为准。 ... 有投资者围绕135亿元全年营收考核目标询问四季度订单和产能情况，按照前三季度95.26亿元的收入计算，第四季度还需实现约39.74亿元营收。对此，陈天石表示，公司第二季度营收环比增长7.84%，第三季度环比增长13.50"
         },
         {
-          "title": "2005年01月12日",
-          "url": "https://pdf.dfcfw.com/pdf/H3_AP202602261820057643_1.pdf?1772117708000.pdf=",
-          "published": "N/A",
-          "highlights": " ## 海光信息 (688041.SH) Trading Buy 区间操作 一季度预计高速增长，CPU+DCU 双轮驱动公司成长 事件： 2025年公司预计营收143.76亿元，同比增长56.91%；实现归母净利润25.42 亿元，同比增长31.7%；扣非归母净利润23.03亿元，同比增长26.82%。其中Q4 预计归母净利润5.81亿元，同比增长43.5%。 此外公司披露2026年一季度预计营收150.98-181.98亿元，同比增长 62.91%-75.82%；预计归母净利润114.11-214.11亿元，扣除股份支付影响后预计 332.22-432.22亿元，同比增长62.95%-81.89%。公司25Q4业绩低于预期，26Q1 业绩略超预期。 ◼ 行业需求带动一季度业绩高速增长：2025年全年随着全球人工智能产业 的发展，市场对公司产品需求不断提升，公司在高端芯片市场提供高性 能、"
+          "title": "研报",
+          "url": "http://news.10jqka.com.cn/field/sr/20261026/60262957.shtml",
+          "published": "2026-10-25T00:00:00.000Z",
+          "highlights": " 公司披露26年三季度报。2026年前三季度，公司实现营收95.3亿元，同比增长106.8%；归母净利润为37.1亿元，同比增长131.5%；扣非归母净利润为35.2亿元，同比增长148.3%。 26Q3，公司营收同比大幅增长。单季度来看，26Q3，公司营收35.3亿元，同比增长104.5%，环比增长约13.5%。营收同比及环比均保持较快增长，反映公司产品商业化应用持续推进。 26Q3，预付款项和存货进一步增加，供应链备货持续推进。26Q3，存货大幅增加，较26年6月底增加34.1亿元，较25年底增长135.8%，验证了公司前期大规模采购的加速推进，反映出公司积极备货、保障后续产品交付的趋势。预付款项维持高位并小幅增长，体现出公司供应链仍处于相对稳定的状态。与此同时，26Q3购买商品、接受劳务支付的现金较26Q2有所减少，或反映短期采购节奏存在一定波动。总体而言，三项指标表明公司供应链保障"
         },
         {
-          "title": "9 家国产厂商增长、昇腾产能遭“疯抢”：英伟达失守中国内幕_腾讯新闻",
-          "url": "https://news.qq.com/rain/a/20261019A0530Q00",
-          "published": "2026-10-19T10:58:09.000Z",
-          "highlights": " 【TechWeb】IDC 最新报告显示，2026 年上半年，中国数据中心 AI 芯片市场格局发生显著变化：英伟达虽仍以 34% 的份额位居第一，但出货量仅 67.8 万颗，同比大幅下降 44%；华为昇腾则以 57.2 万颗的出货量拿下 28% 的份额，两者差距收窄至仅 6 个百分点。而放在一年前，这一差距还是 31 个百分点——短短一年时间，英伟达在中国的领先优势已缩水八成。 ... 国产替代浪潮惠及整个产业链。除华为外，阿里平头哥以 7% 的份额位居第三，寒武纪、昆仑芯、海光信息分别占 5%、4% 和 3%。IDC 追踪的 11 家中国芯片厂商中，有 9 家上半年出货量同比增长。 ... 一个更具标志性的变化是：非 GPU 加速器（ASIC、FPGA、NPU 等）出货量达 101.6 万颗，同比增长近 80%，首次超越 GPU 的 99.1 万颗。华为、平头哥、昆仑芯与寒武纪合计占非 "
+          "title": "国海证券-寒武纪-688256-2026年半年报点评：2026上半年收入/利润翻倍增长，CSP客户成功拓展规模化训练场景-260810-研报-公司调研-慧博投研资讯",
+          "url": "http://m.hibor.com.cn/wap_detail.aspx?id=e6d739757deb71606903e3d049efc500",
+          "published": "2026-08-11T00:00:00.000Z",
+          "highlights": " 公司盈利能力亮眼，2026上半年归母净利润23.11亿元，同比增长122.61%；扣非归母净利润21.66亿元，同比增长137.30%；归母净利率38.54%。2026Q2归母净利润12.98亿元，同比增长90.11%；扣非归母净利润12.31亿元，同比增长93.41%；归母净利率41.72%，同比+3.11pct，环比+6.61pct。截至2026Q2末，预付款项与存货分别为29.14亿元和82.48亿元，环比增长10.17亿元、37.51亿元，单季合计新增47.68亿元；预计可为后续业务放量奠定坚实基础。 思元690量产有望成为新核心引擎，下一代产品重点优化LLM/多模态/垂类模型训推能力 2026年初，公司新一代旗舰云端AI芯片思元690实现量产。该芯片采用双die封装设计，FP16算力超过700 TFLOPS，配备196GBHBM3高带宽内测存互，连实带宽超890Gbps。相比上"
         },
         {
-          "title": "中国芯，杀破英伟达！",
-          "url": "https://m.gelonghui.com/p/7030876",
-          "published": "2026-10-16T17:23:30.000Z",
-          "highlights": " 9月 ... 日开幕 ... 全 ... 几乎同一时间，IDC交出了2026年上半年中国数据中心AI加速器的成绩单：英伟达在华出货约67.8万颗，同比下降44%，份额从2025年全年的约55%降至34%；华为出货57.2万颗，上年同期还只有30多万颗，份额升至28%；加上寒武纪、阿里平头哥，本土芯已经成了大头。 更大的变化藏在另一组数字里：上半年中国AI加速器总出货约200.8万颗，其中GPU同比下降26%，只剩99.1万颗；非GPU加速器同比大增约80%，达到101.6万颗。非GPU，第一次压过了GPU。 ... 7月9日，广东韶关。 一个总投资约55亿元的智算集群正式上线：30个昇腾超节点，11520张昇腾910C加速卡，总算力9000P。从建设、调试到上线，只用了90天，比业界同规模集群的常规工期缩短一半。 它有一个直白的名字——“国芯训国模”，用国产芯片，训练国产大模型。 这是中"
+          "title": "寒武纪半年报营收和净利润增速双双不及预期|内幕信息交易查询",
+          "url": "http://www.gubit.cn/neimu/688256/202608074699.html",
+          "published": "2026-08-07T00:00:00.000Z",
+          "highlights": " 一、第一大主因：新一代主力芯片产能爬坡+供应链卡壳，交付严重滞后 思元580/590（Q2冲量主力）良率、产能处于爬坡期 590/690采用7nm先进制程，受实体清单限制，台积电晶圆配额紧张、排期长达3~6个月，无法按需扩产；新品量产初期良率不稳定，实际有效出货量远低于机构预期的单季12~16万片规模。 HBM高速存储元器件全球紧缺 AI卡必须配套HBM显存，全球产能被英伟达、AMD优先锁定，寒武纪采购配额不足，芯片造出来也没法组装成完整加速卡，直接卡住成品交付。 从卖芯片变成交付整机集群，验收周期大幅拉长 字节等互联网大厂不再单买芯片，直接采购256卡、128卡超大规模算力整机方案。芯片互联调试、整机联调、软件适配、业务实测验收周期从几周拉长至1~2个月，大量Q2发货的产品，要延后至Q3才满足收入确认条件。 ... 字节依旧是寒武纪第一大客户，占总收入65%~70%，是营收基本盘；但2"
         },
         {
-          "title": "大陸國產 GPU 四小龍進入系統競爭期 | 大陸政經 | 兩岸 | 經濟日報",
-          "url": "https://money.udn.com/money/story/5603/9804146?from=edn_newest_index",
-          "published": "2026-10-08T17:41:06.000Z",
-          "highlights": " 大陸國產GPU產業正從單卡性能競爭邁入「系統競爭期」。開源證券指出，大陸「GPU四小龍」（摩爾線程、沐曦、壁仞、燧原）2026年上半年合計營收人民幣55億元，四家業者已跨過從晶片研發到穩定交付集群的階段，下一階段競爭焦點將轉向軟體成熟度、集群有效算力、供應鏈及客戶服務。 開源證券發布研報指出，上述四家企業均已完成從晶片研發到穩定交付集群的第一次跨越，尚未進入普遍穩定的核心盈利階段。 四家約於2018至2020年集中成立，2021至2022年完成首代晶片和產品驗證，2023至2025年進入規模交付和大模型適配階段，2025至2026年逐步完成市場登陸。 摩爾線程定位全功能GPU，涵蓋AI、圖形、科學計算及影片等；沐曦聚焦高性能GPU及全棧計算平台；壁仞聚焦高端GPGPU、CPU及智慧計算方案；燧原布局雲端AI訓練與推理。"
+          "title": "寒武纪成字节供应商_新浪新闻",
+          "url": "https://www.sina.cn/news/detail/5311178444374245.html",
+          "published": "2026-06-18T15:18:00.000Z",
+          "highlights": " #寒武纪成字节跳动供应商#寒武纪已成为字节跳动核心国产AI芯片供应商 一、合作基本事实 寒武纪是字节跳动核心国产算力供应商、第一大客户，双方规模化供货落地多年，并非短期传闻合作。字节构建多国产芯片供应链，寒武纪与华为昇腾为前两大国产GPU供应商，天数智芯为正在洽谈的第三家。 1. 芯片型号与应用场景 供货主力为思元580、590、690系列云端AI加速卡，分工清晰： - 大模型训练：寒武纪高端690卡+华为昇腾，共同支撑字节超大规模预训练集群； - 中高端推理、私有化部署：580/590系列，服务豆包多模态、抖音AIGC、火山引擎政企MaaS业务； - 字节实行训推供应链拆分：海量C端流量推理主力后续拟引入天数智芯，寒武纪聚焦高算力、复杂负载场景。 2. 2026年订单与交付规模（行业调研口径） 1. 字节全年国产算力卡总量近百万张，寒武纪份额约60万颗；- 拆分：690约10万张、58"
         },
         {
-          "title": "开源证券：国产GPU“四小龙”解析_新浪财经_新浪网",
-          "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-05/doc-iniucpwm3086602.shtml",
-          "published": "2026-10-04T23:38:52.000Z",
-          "highlights": " 开源证券近日表示，国产GPU四小龙为摩尔线程（688795.SH）、沐曦（688802.SH）、壁仞（06082）、燧原（688801.SH），四家国产GPU厂商的技术路线定位与核心应用场景存在差异：摩尔线程定位全功能GPU，核心面向AI、图形、科学计算场景，当前主要覆盖训练、推理领域；高性能GPGPU属于高端GPU品类，对应AI IDC应用场景。经营数据方面，2026年上半年四家收入规模较为接近，分别为摩尔线程17亿元、沐曦13亿元、壁仞12亿元、燧原11亿元；毛利率层面，摩尔线程为57% ，壁仞为42%。 ... 当前国产GPU产业正跨越从芯片可用到规模可用的核心门槛，需完成多维度验证：a． 供应链端验证：芯片支持HBM及封装供应链的连续性保障，库存周期健康、供应链流通顺畅是核心前提；b． 客户端验证：涵盖订单落地进展、算力卡长期稳定运行表现、线性度、故障恢复能力及单位算力成本验证；"
+          "title": "寒武纪再创新高，否认向互联网厂商大量供货",
+          "url": "https://www.yicai.com/news/103236845.html",
+          "published": "2026-06-18T00:00:00.000Z",
+          "highlights": " 消息面上，近期有关于国内互联网公司采购国产算力的消息。行业人士称字节跳动正在与天数智芯（09903.HK）讨论采购至少5万颗AI芯片，主要用于推理工作，华为、寒武纪也是字节跳动的供应商。 此外，记者注意到，近期网络上有关于寒武纪内部交流纪要的内容流传。这份交流纪要称，寒武纪向字节跳动供应的两个主要型号是580和690（MLU580和MLU690），今年第二季度会走完12万到16万张580型号的交付，690型号预计下半年交付。 就上述交流纪要内容，第一财经记者以投资者身份拨打寒武纪证券事务代表电话。相关负责人表示，这是网上流传的“小作文”，请投资者注意甄别，还是以官方发布的信息为准，近期寒武纪没有接待过内部交流活动。 记者在寒武纪官网看到，该公司对智能加速卡的介绍包含思元370和270，未包含MLU580和690的信息。其中，思元370是寒武纪于2021年发布的第三代云端AI芯片。寒武纪2"
         },
         {
-          "title": "中国GPU“四小龙”的真正考验尚未到来 - WSJ",
-          "url": "https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BDgpu-%E5%9B%9B%E5%B0%8F%E9%BE%99-%E7%9A%84%E7%9C%9F%E6%AD%A3%E8%80%83%E9%AA%8C%E5%B0%9A%E6%9C%AA%E5%88%B0%E6%9D%A5-d6471b52?eafs_enabled=false",
-          "published": "2026-09-11T07:46:00.000Z",
-          "highlights": " ## 高盛分析师估计，到2030年，中国将需要5,400万块本土AI芯片来满足训练和推理需求。 ... 上海燧原科技(Shanghai Enflame Technology)上市首日股价上涨逾一倍。但对于包括这家中国公司在内的国产GPU“四小龙”来说，真正的考验尚未到来。 在燧原科技上市之前，摩尔线程(Moore Threads)和沐曦集成电路(MetaX Integrated Circuits)已于去年在上海上市，上海壁仞科技(Shanghai Biren Technology)也于今年早些时候在香港上市。"
-        },
-        {
-          "title": "燧原科技上市、国产GPU“四小龙”齐聚资本市场，怎样上车？_新浪财经_新浪网",
-          "url": "https://finance.sina.com.cn/stock/enterprise/sale/2026-09-11/doc-inirmvzz2354773.shtml",
-          "published": "2026-09-11T07:39:32.000Z",
-          "highlights": " 9月11日，国产AI芯片企业燧原科技在科创板正式挂牌上市。至此，国产 GPU“四小龙”摩尔线程、壁仞科技、沐曦股份、燧原科技全部登入资本市场，国产 AI 算力产业从此前的“有芯可用”正式迈入“批量上市”阶段。 ... %，聚集国产 AI 芯片厂商，直接受益于国产 AI ... ，给数字芯片设计约 40% 的权重，同时在半导体材料设备、制造封测等环节也有配置。半导体材料设备指数则押注产业链上游，半导体设备与半导体材料分别占比约"
-        },
-        {
-          "title": "摩尔、沐曦、壁仞、天数，谁过得最好？",
-          "url": "https://www.tmtpost.com/8130330.html",
-          "published": "2026-09-07T00:00:00.000Z",
-          "highlights": " 最近，摩尔线程、沐曦股份、壁仞科技、天数智芯四家已经上市的国产GPU公司相继发布财报，2026年上半年，摩尔线程营收规模最高，达到17.36亿元；壁仞科技营收同比增长近20倍，增速最快；沐曦股份和天数智芯则已经实现账面盈利。四份半年报背后，对应着四条不同的国产GPU路线。 ... 它还没上市，没有可比的财务数据，但它已经站在资本市场门口：8月31日，公司公布IPO发行价格为142.18元/股，预计募资61.19亿元，并于9月2日开启网上、网下申购，按发行价计算，发行后市值约612亿元。等它挂牌，四小龙变五小龙，位次很可能重新洗牌。 ... 2026年上半年，摩尔线程实现营收17.36亿元，是四家公司中规模最大的；沐曦股份营收13.24亿元，壁仞科技为12.36亿元，天数智芯则为9.46亿元。四家的排序是摩尔线程＞沐曦＞壁仞＞天数。 ... 从收入结构看，四家的绝对主力都是销售GPU硬件，"
-        },
-        {
-          "title": "扒开国产芯片厂商的半年报真相，为何七家公司只有两家真正盈利？ - 正观新闻",
-          "url": "https://www.zhengguannews.cn/zghnews/421510.html",
-          "published": "2026-09-06T18:59:52.000Z",
-          "highlights": " 接着是GPU四小龙（摩尔线程、沐曦科技、壁仞科技、燧原科技），四者营收规模相当，均在10-20亿之间，但主营盈利能力却大不同相同。 其中，摩尔线程营收17.36亿元，同比增长147.4%，较2025年下半年增长116.0%，主要由MTT S5000量产和夸娥智算集群交付推动；归母净亏损由2.71亿元收窄至0.12亿元，但扣非净亏损仍为1.51亿元。 沐曦科技营收13.24亿元，同比增长44.7%，较2025年下半年增长81.5%，主要受GPU产品出货量增加推动。公司实现归母净利润6.12亿元，但其中包含约8.87亿元公允价值变动收益，扣非后仍亏损0.49亿元。 壁仞科技营收12.36亿元，同比增长近20倍，主要来自壁砺系列产品和大型智算集群交付；由于上年同期收入仅0.59亿元，高增速带有明显低基数效应。其亏损由16.01亿元收窄至3.77亿元。 燧原科技营收11.20亿元，同比增长279"
-        },
-        {
-          "title": "GPU四小龙进入竞争新阶段",
-          "url": "https://epaper.cena.com.cn/pc/content/202609/04/content_18285.html",
-          "published": "2026-09-04T00:00:00.000Z",
-          "highlights": " 9月2日，燧原科技启动网上、网下申购。至此，摩尔线程、沐曦股份、壁仞科技、燧原科技四家国产算力芯片企业全部完成与资本市场的对接。这意味着国产高端GPU完成了初步的技术验证和资本化，下一阶段将是规模化商用能力的直接比拼。 ... 四家 ... 合称为“ ... 道 ... 产业链 ... 算 ... 产业 ... 国产算力企业 ... 找到自己的位置？ ... 摩尔线程：全功能GPU向下延伸，算力从云端走向终端 2026年上半年，摩尔线程营收17.36亿元，同比增长147%。相比亮眼的增长数字，收入结构变化更值得关注：公司经营正从早期项目交付模式向规模化交付演进——2026年3月签订的6.6亿元夸娥智算集群合同已在报告期内完成交付，意味着国产算力正在从信创示范项目走向常态化采购。 目前，基于MTT S5000构建的夸娥万卡集群已成功部署并上线服务，核心产品MTT S3000云电脑方案单卡支"
-        },
-        {
-          "title": "国产GPU“四小龙”齐聚资本市场后，下一步拼什么",
-          "url": "https://xinwen.bjd.com.cn/content/s6a98c080e4b0e42f8effc94c.html",
-          "published": "2026-09-03T00:00:00.000Z",
-          "highlights": " 9 ... GPU ... 不到一年四家企业竞相奔赴资本市场 燧原科技、摩尔线程、沐曦股份、壁仞科技并称为国产GPU“四小龙”。燧原科技是“四小龙”中最晚上市的一家企业，其发行市值约611.87亿元。 2025年12月5日，摩尔线程登陆科创板，募资80亿元，成为国内首家登陆资本市场的全功能GPU企业。紧接着，2025年12月17日，沐曦股份也在科创板上市，募资39.04亿元。2026年1月2日，壁仞科技选择在港交所挂牌上市，募资规模55.83亿港元。 截至9月2日收盘，摩尔线程、沐曦股份、壁仞科技三家上市公司的市值分别为2505亿元、2657亿元、1122亿港元。 ... 大模型的爆发点燃着GPU市场，带动整个市场规模高速增长。四家企业上半年的业绩已有充分体现：摩尔线程实现营业收入17.36亿元，同比增长147.42%；沐曦股份实现营业收入13.23亿元，同比增长44.67%；壁仞科技实"
+          "title": "寒武纪+智谱Al未来1–2季度（2026Q1–Q2）关键催化+观察指标。一、智谱_财富号_东方财富网",
+          "url": "https://caifuhao.eastmoney.com/news/20260222190312240920250",
+          "published": "2026-02-22T00:00:00.000Z",
+          "highlights": " 二、寒武纪（688256）：国产AI芯片+算力基建 核心催化（1–2季度） 1. 订单与交付 - 智谱/商汤/互联网/智算中心批量订单落地 - 思元590/370 出货加速，产能爬坡（月产能目标5000片） 2. 产品与生态 - 思元690 流片/测试进展（对标H100） - NeuWare 生态成熟，大模型适配广度/深度提升 3. 业绩拐点 - 2025年报/2026一季报：营收高增、盈利持续、毛利率55%+ 4. 国产替代窗口 - 英伟达受限加剧，国产算力采购比例提升 - 智算中心/政务云优先国产芯片 关键观察指标（优先看） - 营收/毛利：季度营收增速、毛利率稳定性 - 订单/产能：在手订单、交付量、产能利用率 - 客户结构：智谱等大模型厂商收入占比、政企订单 - 产品进展：思元690进度、生态适配公告 - 财务健康：现金流、存货/预付、研发投入效率"
         }
       ]
     }
