@@ -1,7 +1,7 @@
 {
   "ticker": "000660.KS",
   "name": "SK 海力士",
-  "fetched_at": "2026-11-02T10:00:47",
+  "fetched_at": "2026-11-03T10:00:47",
   "count": 10,
   "items": [
     {
@@ -16,21 +16,7 @@
       "url": "https://www.moneycontrol.com/news/business/earnings/sk-hynix-q3-profit-jumps-sevenfold-to-record-high-nvidia-supplier-unveils-75-billion-shareholder-return-plan-14061687.html",
       "published": "2026-10-28T01:23:49.000Z",
       "author": "Reuters",
-      "highlights": " South Korean chipmaker SK Hynix reported a more than seven-fold rise in quarterly operating profit to a record high on Wednesday, beating market forecasts, as continued demand for AI infrastructure drove up memory chip prices. The Nvidia supplier also said it will pursue shareholder returns totalling about 100 trillion won ($75.4 billion) this year, comprising cash dividends of 30 trillion won and share repurchases and cancellations of 60 trillion won, including 40 trillion won announced in August. SK Hynix also reiterated that it expects demand to continue to exceed supply through 2030. To i"
-    },
-    {
-      "title": "SK hynix (KRX:000660) Q3 2026 Earnings Call Transcript & Audio",
-      "url": "https://stockanalysis.com/quote/krx/000660/transcripts/717350-q3-2026/",
-      "published": "2026-10-28T00:00:00.000Z",
-      "author": "N/A",
-      "highlights": " Good morning, everyone. This is CFO Kim Woo-hyun. Allow me to first introduce the company's performance for the third quarter of 2026. In the third quarter, tight supply and demand conditions continued due to growing demand for AI memory, leading to sustained rise in memory prices. Both DRAM and NAND recorded high price increase rates for a second consecutive quarter, driven by continued price hikes centered on HBM, server DRAM, and enterprise SSD. Consequently, third quarter revenue increased by 32% quarter-on-quarter and 328% year-on-year, reaching KRW 104.6 trillion. This marks the first t"
-    },
-    {
-      "title": "SK hynix (SKHY) Q3 2026 Earnings Call Transcript | The Motley Fool",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/28/sk-hynix-skhy-q3-2026-earnings-call-transcript/",
-      "published": "2026-10-27T00:00:00.000Z",
-      "author": "Motley Fool Transcribing",
-      "highlights": " Woo-Hyun Kim: [Interpreted] Good morning, everyone. This is CFO, Kim Woo-Hyun. Allow me to first introduce the company's performance for the third quarter of 2026. In the third quarter, tight supply and demand conditions continued due to growing demand for AI memory, leading to sustained rise in memory prices. Both DRAM and NAND recorded high price increase rates for a second consecutive quarter, driven by continued price hikes centered on HBM, server DRAM and enterprise SSD. Consequently, third quarter revenue increased by 32% quarter-on-quarter and 328% year-on-year, reaching KRW 104.6 tril"
+      "highlights": " SK Hynix reported record Q3 operating profit of 83.3 trillion won, beating estimates as AI chip demand surged. The Nvidia supplier plans $75.4 billion in shareholder returns. ... South Korean chipmaker SK Hynix reported a more than seven-fold rise in quarterly operating profit to a record high on Wednesday, beating market forecasts, as continued demand for AI infrastructure drove up memory chip prices. The Nvidia supplier also said it will pursue shareholder returns totalling about 100 trillion won ($75.4 billion) this year, comprising cash dividends of 30 trillion won and share repurchases a"
     },
     {
       "title": "SK海力士(SKHY.US)Q3电话会：DRAM与HBM产能到2029年已近售罄，AI投资主体向主权与企业级扩散",
@@ -40,18 +26,39 @@
       "highlights": " SK 海力士第三季度营收 104.6 万亿韩元，环比增长 32%、同比增长 328%，史上首次单季突破 100 万亿韩元;营业利润 83.3 万亿韩元，环比增 38%、同比增 632%，营业利润率环比再升 3 个百分点至 80%，营业利润与利润率双双刷新季度纪录。分产品看，DRAM 位出货量环比增约 10%，其中 HBM4 三季度启动全面量产与出货、服务器 DDR5 出货环比增逾 40%，DRAM 均价环比涨至 20% 高位段;NAND 位出货因结构调整环比略降，但均价环比涨至 20% 中段。值得留意的是净利润环比下降 58% 至 39.8 万亿韩元——管理层明确归因于非经营性项目：汇兑相关净损失 11.6 万亿、投资资产估值损失 22.9 万亿，合计非经营性净支出 32.6 万亿韩元，与经营层面无关。展望上，公司预计 2027 年全球 CSP 资本开支增长逾 60%、已锁定电力容量同比增长逾 100%，全球 AI 数据中心基础设施市场到 2030 年保持约 40% 的年增速;但受供给能力约束，2027 年可实现的需求增长与今年相近，DRAM 为 20% 中段、NAND 为十几个百分点高段位。四季度指引为 DRAM 位出货环比增 20% 中段、NAND 增个位数中段。资本开支方面，公司称 2027 年将较 2026 年显著增加，投向先进制程设备、龙仁一厂爬坡与国内外基础设施，但未"
     },
     {
-      "title": "SK海力士 2026財年第三季法說會",
-      "url": "https://finance.biggo.com.tw/quote/000660.KS/earnings-call/KR_000660.KS_2026-10-28",
-      "published": "2026-10-28T00:00:00.000Z",
-      "author": "N/A",
-      "highlights": " SK海力士公佈2026年第三季破紀錄的財報，營收首度突破100兆韓元。營收達104.62兆韓元，較上季成長32%，較去年同期暴增328%，主要受惠於記憶體價格飆漲及強勁的AI需求。營業利益達83.33兆韓元，較上季成長38%，較去年同期成長632%，寫下連續第六個季度創新高紀錄。營業利益率擴增至80%，淨利為39.78兆韓元，較去年同期成長216%，但較上季衰退58%，主因營業外損失。此業績凸顯SK海力士在AI記憶體市場的領導地位，尤其是在HBM4及高附加價值DRAM產品方面。 ... 營運方面，公司持續強化產品組合。HBM4出貨進展順利，M15X晶圓廠加速拉昇至2026年底達到滿載產能。1cnm製程正快速匯入伺服器DRAM，321層NAND製程預計第四季佔國內產能比重超過50%。SK海力士亦擴大與14家主要客戶的長期協議（LTA），包括全球大型雲端服務供應商（CSP），確保2027年及2028年總產能超過50%。財務方面，公司維持強健的資產負債表，現金及約當現金達114.5兆韓元，較上季增加26.5兆韓元，計息負債降至15.8兆韓元，淨現金部位達98.7兆韓元，負債權益比為5%。 展望未來，經營階層提供樂觀展望，預期AI基礎建設投資將帶動持續成長。第四季DRAM位元出貨量預估較上季成長逾20%，NAND位元出貨量則預估較上季成長中個位數百分比。公司計劃2027年大幅增加資本支出"
+      "title": "SK hynix (SKHY) Q3 2026 Earnings Call Transcript | The Motley Fool",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/28/sk-hynix-skhy-q3-2026-earnings-call-transcript/",
+      "published": "2026-10-28T15:24:35.000Z",
+      "author": "Motley Fool Transcribing",
+      "highlights": " of application areas. This mid- to long-term growth trend is expected to continue. In ... carries them out over extended periods using multiple tools, AI compute requirements and the volume of data generated transferred and stored are rising sharply"
     },
     {
-      "title": "Nvidia's Record Results Lift Profit Outlook for Samsung, SK hynix - Seoul Economic Daily",
-      "url": "https://en.sedaily.com/finance/2026/08/28/nvidias-record-results-lift-profit-outlook-for-samsung-sk",
-      "published": "2026-08-27T22:00:05.000Z",
-      "author": "Suh Jong-gap, Cho Yang-joon, Lee Seok-jin",
-      "highlights": " Nvidia posted another record quarter as the leader in artificial intelligence chips, prompting analysts to raise their earnings expectations for Samsung Electronics and SK hynix. Expanding investment in AI data centers and a prolonged shortage of high-bandwidth memory (HBM) are expected to sustain profit gains at the South Korean memory makers for some time. Nvidia said on the 26th that revenue reached $96.22 billion, or about 133.2 trillion won, in the second quarter of fiscal 2027, covering May through July 2026, with operating profit of $63.734 billion, or about 88.34 trillion won. Both fi"
+      "title": "SK hynix (KRX:000660) Q3 2026 Earnings Call Transcript & Audio",
+      "url": "https://stockanalysis.com/quote/krx/000660/transcripts/717350-q3-2026/",
+      "published": "2026-10-28T00:00:00.000Z",
+      "author": "N/A",
+      "highlights": " Good morning, everyone. This is CFO Kim Woo-hyun. Allow me to first introduce the company's performance for the third quarter of 2026. In the third quarter, tight supply and demand conditions continued due to growing demand for AI memory, leading to sustained rise in memory prices. Both DRAM and NAND recorded high price increase rates for a second consecutive quarter, driven by continued price hikes centered on HBM, server DRAM, and enterprise SSD. Consequently, third quarter revenue increased by 32% quarter-on-quarter and 328% year-on-year, reaching KRW 104.6 trillion. This marks the first t"
+    },
+    {
+      "title": "SK 海力士（纪要）：营收破百万亿，全年回馈 100 万亿韩元｜长桥证券",
+      "url": "https://longbridge.com/zh-CN/dolphin/post/44580891",
+      "published": "2026-10-28T01:36:44.000Z",
+      "author": "Dolphin Research",
+      "highlights": " a. Q4: DRAM bit shipments to grow by the low-20s percent QoQ; NAND bit shipments to grow by the mid-single digits QoQ.b. In 2027, constrained supply implies achievable demand growth similar to 2026: DRAM up low-20s percent, NAND up high-teens percent; revenue and profit to rise materially in absolute terms.c. 2027 capex to increase sharply vs. 2026 to lift advanced node mix, ramp the first Yongin fab and fund infra at home and abroad, with pace and size tied to demand visibility and returns. ... a. Top line: revenue of KRW 104.6 tn (+32% QoQ, +328% YoY), first-ever quarter above KRW 100 tn.b."
+    },
+    {
+      "title": "野村看多SK海力士：AI供应链最便宜标的之一，市场低估回购注销弹性，供需短缺至少延续至2028年|sk|财年|数据中心业务_网易订阅",
+      "url": "https://www.163.com/dy/article/LAE688F70556IIQK.html",
+      "published": "2026-10-29T10:29:52.000Z",
+      "author": "N/A",
+      "highlights": " 10月28日，野村发布了针对SK海力士（000660.KS）的研究报告《3Q26 beat；among cheapest stocks in the AI supply chain》。报告称，SK海力士三季度业绩均超出预期，认为内存出货量和ASP将继续上升，回购并注销股票将减少股本并推动EPS增长和估值重估；同时称，SK海力士是AI供应链中估值最低的股票之一。 ... 报告显示，SK海力士三季度营收为105万亿韩元，环比增长32%，较野村预测高6.4%；营业利润为83万亿韩元，环比增长38%，高于野村此前77万亿韩元的预测。 分产品看，DRAM位元出货量环比增长10%，其中HBM出货量环比下降9%，通用产品出货量环比增长14%。由于通用产品价格环比上涨27%，高于报告此前24%的预测，DRAM混合平均售价（blended ASP）环比涨幅达到20%以上区间的偏高段，高于预期。NAND位元出货量环比下降1%，而报告此前预期为增长6%；NAND平均售价环比涨幅处于20%以上区间的中段，高于报告此前20%的预测。报告估算3Q26 DRAM和NAND营业利润率分别为83%和72%。 ... 野村预计，2026财年第四季度预测（4Q26F）营收为132万亿韩元，环比增长26%；营业利润为108万亿韩元，环比增长30%，主要来自DRAM出货增长以及DRAM和NAND价格上涨。 具体而言，4Q"
+    },
+    {
+      "title": "SK Hynix Breaks Ground on Critical Nvidia Supply Play",
+      "url": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-breaks-ground-critical-193618012.html",
+      "published": "2026-08-27T19:36:18.000Z",
+      "author": "Moz Farooque ACCA",
+      "highlights": " SK Hynix (NASDAQ:SKHY) is putting another major piece of the AI supply chain on U.S. soil, breaking ground Thursday on an approximately $4 billion high-bandwidth memory packaging and research complex in West Lafayette, Indiana. The project matters to investors because HBM has emerged as one of the most critical components inside Nvidia-powered AI systems, and SK Hynix is betting demand will remain strong enough to justify substantially more capacity through the end of the decade. SK Hynix is one of the world's largest memory-chip manufacturers and a leading supplier of high-bandwidth memory, "
     },
     {
       "title": "SK hynix Earnings: Memory Maker's Operating Margin Now Tops Nvidia's",
@@ -61,18 +68,11 @@
       "highlights": " SK hynix, the AI memory maker, reported operating profit equal to 80% of sales in a record quarter, an operating margin above Nvidia’s latest 66.2%, by our calculation. The average price of its main chips, DRAM, rose in the high 20s percent in three months, and SK hynix expects pricier memory to mean fewer PCs and phones shipped. The short answer. SK hynix reported record sales of 104.6 trillion won for July to September 2026. Its operating margin, operating profit as a share of sales, was 79.7%, which it rounds to 80%, against 66.2% for Nvidia in its latest quarter, by our calculation. Even "
     },
     {
-      "title": "野村看多SK海力士：AI供应链最便宜标的之一，市场低估回购注销弹性，供需短缺至少延续至2028年|sk|财年|数据中心业务_网易订阅",
-      "url": "https://www.163.com/dy/article/LAE688F70556IIQK.html",
-      "published": "2026-10-29T10:29:52.000Z",
-      "author": "N/A",
-      "highlights": " 10月28日，野村发布了针对SK海力士（000660.KS）的研究报告《3Q26 beat；among cheapest stocks in the AI supply chain》。报告称，SK海力士三季度业绩均超出预期，认为内存出货量和ASP将继续上升，回购并注销股票将减少股本并推动EPS增长和估值重估；同时称，SK海力士是AI供应链中估值最低的股票之一。 ... 报告显示，SK海力士三季度营收为105万亿韩元，环比增长32%，较野村预测高6.4%；营业利润为83万亿韩元，环比增长38%，高于野村此前77万亿韩元的预测。 分产品看，DRAM位元出货量环比增长10%，其中HBM出货量环比下降9%，通用产品出货量环比增长14%。由于通用产品价格环比上涨27%，高于报告此前24%的预测，DRAM混合平均售价（blended ASP）环比涨幅达到20%以上区间的偏高段，高于预期。NAND位元出货量环比下降1%，而报告此前预期为增长6%；NAND平均售价环比涨幅处于20%以上区间的中段，高于报告此前20%的预测。报告估算3Q26 DRAM和NAND营业利润率分别为83%和72%。 ... 具体而言，4Q26F DRAM位元出货量预计环比增长25%，其中通用产品增长25%、HBM增长26%；在HBM销售扩张和通用产品价格上升的支持下，DRAM平均售价涨幅达到15%以上，DRAM营收环比增"
-    },
-    {
-      "title": "SK 海力士（纪要）：营收破百万亿，全年回馈 100 万亿韩元｜长桥证券",
-      "url": "https://longbridge.com/zh-CN/dolphin/post/44580891",
-      "published": "2026-10-28T01:36:44.000Z",
-      "author": "Dolphin Research",
-      "highlights": " a. Q4: DRAM bit shipments to grow by the low-20s percent QoQ; NAND bit shipments to grow by the mid-single digits QoQ.b. In 2027, constrained supply implies achievable demand growth similar to 2026: DRAM up low-20s percent, NAND up high-teens percent; revenue and profit to rise materially in absolute terms.c. 2027 capex to increase sharply vs. 2026 to lift advanced node mix, ramp the first Yongin fab and fund infra at home and abroad, with pace and size tied to demand visibility and returns. ... a. Third-party estimates point to global CSP capex growth of 60%+ by 2027, with locked-in power ca"
+      "title": "AI推高算力需求 海力士、摩尔线程三季度营收大增",
+      "url": "https://companies.caixin.com/m/2026-10-29/102498532.html",
+      "published": "2026-10-29T00:00:00.000Z",
+      "author": "文｜财新 葛浩玥 （见习）",
+      "highlights": " 【财新网】 AI算力需求兑现为芯片厂商业绩。三季度，韩国存储巨头SK海力士（KRX:000660；NASDAQ:SKHY）单季营收首次突破100万亿韩元，营业利润同比增长逾六倍，并以长约形式提前锁定2027年至2028年的过半产能。 当地时间10月28日，海力士发布2026年第三季度业绩，营收104.6万亿韩元，同比增长328%，环比增长32%；营业利润83.33万亿韩元，同比增长632%，营业利润率为80%；净利润39.78万亿韩元，同比增长216%，较二季度下滑58%。"
     }
   ]
 }
