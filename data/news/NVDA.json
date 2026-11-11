@@ -1,16 +1,9 @@
 {
   "ticker": "NVDA",
   "name": "NVIDIA",
-  "fetched_at": "2026-11-10T10:01:49",
+  "fetched_at": "2026-11-11T10:01:09",
   "count": 10,
   "items": [
-    {
-      "title": "Nvidia forecasts 70% sales growth next year, signals AI spending boom has years left to run | Reuters",
-      "url": "https://www.reuters.com/business/media-telecom/nvidia-forecasts-quarterly-revenue-above-estimates-2026-08-26/",
-      "published": "2026-08-26T20:24:22.000Z",
-      "author": "Anhata Rooprai, Max Cherney, Deborah Sophia",
-      "highlights": " - Third-quarter revenue forecast is $108 billion, plus or minus 2%, versus $104.19 billion estimate - Nvidia expects fiscal 2028 revenue to grow by about 70% - Nvidia and AWS to deploy 2 million additional GPUs in 2027 and 2028 Aug 26 (Reuters) - Nvidia (NVDA.O), opens new tab on Wednesday forecast a 70% ​jump in revenue next fiscal year, underscoring unabated demand for AI computing, while warning that shortages of memory components would continue to curb how ‌quickly it can expand. ... Executives shared a road map ⁠for growth over the next few years, including a ramp in its next-generation "
-    },
     {
       "title": "Nvidia says supply shortages are limiting AI revenue growth | Supply Chain Dive",
       "url": "https://www.supplychaindive.com/news/nvidia-says-supply-shortages-are-limiting-ai-revenue-growth/829115/",
@@ -19,39 +12,32 @@
       "highlights": " ### Dive Brief: - Supply constraints are weighing down Nvidia’s financial outlook for its next fiscal year, executives said on an Aug. 26 earnings call. - The shortages span the artificial intelligence infrastructure provider’s supply network, extending from high-speed memory and silicon vendors to suppliers of AI data centers under construction, co-founder and CEO Jen-Hsun Huang told investors. - “We have a really gigantic supply chain, and so, we have incredible partners, and we've secured a lot of supply, but we just need a lot more,” Huang said, noting that while it has supply to drive 70"
     },
     {
+      "title": "Nvidia forecasts 70% sales growth next year, signals AI spending boom has years left to run | Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/nvidia-forecasts-quarterly-revenue-above-estimates-2026-08-26/",
+      "published": "2026-08-26T20:24:22.000Z",
+      "author": "Anhata Rooprai, Max Cherney, Deborah Sophia",
+      "highlights": " - Third-quarter revenue forecast is $108 billion, plus or minus 2%, versus $104.19 billion estimate - Nvidia expects fiscal 2028 revenue to grow by about 70% - Nvidia and AWS to deploy 2 million additional GPUs in 2027 and 2028 Aug 26 (Reuters) - Nvidia (NVDA.O), opens new tab on Wednesday forecast a 70% ​jump in revenue next fiscal year, underscoring unabated demand for AI computing, while warning that shortages of memory components would continue to curb how ‌quickly it can expand. ... Executives shared a road map ⁠for growth over the next few years, including a ramp in its next-generation "
+    },
+    {
       "title": "Nvidia adds $440B in value after blowout earnings boost AI confidence",
       "url": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
       "published": "2026-08-27T08:04:33.000Z",
       "author": "Kai Nicol-Schwarz, Arjun Kharpal",
-      "highlights": " Nvidia CFO Colette Kress said on Wednesday that the company expects revenue growth of 70% for fiscal 2028, which runs from February 2027 to January 2028. CEO Jensen Huang said demand \"is much greater than 70%,\" but the company is constrained on the amount of product it can supply. Taiwan Semiconductor Manufacturing Co. Add To Watchlist, Nvidia's main manufacturer, continues to face supply constraints, while memory chips — a key component of Nvidia's systems — also remain in short supply. On Thursday, analysts also pointed to a \"threat\" to Nvidia's near monopoly over the most advanced AI chips"
+      "highlights": " The surge added about $440 billion to the chip giant's market cap. ... Nvidia CFO Colette Kress said on Wednesday that the company expects revenue growth of 70% for fiscal 2028, which runs from February 2027 to January 2028. CEO Jensen Huang said demand \"is much greater than 70%,\" but the company is constrained on the amount of product it can supply. Taiwan Semiconductor Manufacturing Co. Add To Watchlist, Nvidia's main manufacturer, continues to face supply constraints, while memory chips — a key component of Nvidia's systems — also remain in short supply. On Thursday, analysts also pointed "
     },
     {
-      "title": "NVIDIA Q2 Earnings Call Puts Supply Limits at Center of Outlook",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-q2-earnings-call-puts-140000690.html",
-      "published": "2026-08-27T14:00:00.000Z",
-      "author": "Zacks Equity Research",
-      "highlights": " NVIDIA Corporation NVDA used the fiscal second-quarter 2027 earnings call to make one point clear: demand is running ahead of what its supply chain can support. Executive vice president and CFO Colette Kress paired a roughly 70% fiscal 2028 revenue-growth outlook with warnings on supply limits and memory costs, while outlining a broader AI infrastructure strategy. ... Revenues of $96.22 billion topped the Zacks Consensus Estimate of $91.80 billion. Non-GAAP earnings of $2.22 per share beat the Zacks Consensus Estimate of $2.09. Revenues rose 106% year over year. ... Kress said NVIDIA expects "
+      "title": "NVIDIA at Goldman Sachs conference: Huang sees AI buildout still early By Investing.com",
+      "url": "https://www.investing.com/news/transcripts/nvidia-at-goldman-sachs-conference-huang-sees-ai-buildout-still-early-93CH-4896555",
+      "published": "2026-09-10T16:54:05.000Z",
+      "author": "N/A",
+      "highlights": " Thursday, 10 September 2026 — NVIDIA (NVDA) used the Goldman Sachs Communacopia + Technology Conference 2026 to press a familiar but expanding message: the company believes the AI buildout is still in its early stages, even as demand, prices and infrastructure needs keep rising. Chief Executive Jensen Huang said the market is moving toward a new computing model, but he also acknowledged supply-chain limits, land shortages and power constraints that could slow deployment. ... - Grace, Blackwell and NVLink systems grew 27% month over month in 72-rack configurations. - Huang said individual GPU "
     },
     {
       "title": "Nvidia Earnings Recap: Big Revenue Growth and 'Extreme' Memory Costs - Business Insider",
       "url": "https://www.businessinsider.com/nvidia-earnings-report-nvda-stock-ai-chips-jensen-huang-2026-8",
       "published": "2026-08-26T22:21:25.000Z",
       "author": "Steven Tweedie, Ben Shimkus, Brent D. Griffiths, Truman Dickerson, Geoff Weiss",
-      "highlights": " The tech titan delivered second-quarter results on Wednesday that topped Wall Street estimates. The company expects the AI party to continue, projecting $108 billion in revenue for the current quarter, above the $104.57 billion expected by analysts. Nvidia expects its fiscal 2028 revenue to grow around 70% year over year, even as it warned supply is expected to remain bottlenecked. ... The chip maker's all-important data center segment brought in $89.0 billion compared to analysts' estimates of $85.83 billion. That's up 117% year over year. ... \"We've partnered with our extensive network of s"
-    },
-    {
-      "title": "NVIDIA Earnings Supplier-Related Key Takeaways",
-      "url": "https://www.pureplayetfs.com/posts/nvidia-earnings-supplier-related-key-takeaways",
-      "published": "2026-09-10T00:00:00.000Z",
-      "author": "N/A",
-      "highlights": " NVIDIA reported $96.2 billion of quarterly revenue, up 106% year over year, while Data Center revenue reached $89.0 billion, up 117%. Management also provided a preliminary outlook for approximately 70% revenue growth in fiscal 2028, while explicitly noting that this remains a supply-constrained outlook. ... Perhaps the clearest supply-chain signal in the report was the sharp increase in NVIDIA's future supply and capacity commitments. As of July 26, NVIDIA had $279 billion of supply and capacity commitments, compared with $119 billion three months earlier. The increase was primarily related "
-    },
-    {
-      "title": "Nvidia Earnings Scorecard: AI Demand Is Booming, But Risks Remain",
-      "url": "https://www.forbes.com/sites/paulocarvao/2026/08/28/nvidia-earnings-scorecard-ai-demand-is-booming-but-risks-remain/",
-      "published": "2026-08-28T04:54:22.000Z",
-      "author": "Paulo Carvão",
-      "highlights": " Nvidia's Q2 earnings confirmed robust AI demand, with revenue soaring 106% year-over-year to $96.2 billion, largely driven by its data center business. CEO Jensen Huang provided strong forward guidance, forecasting 70% data-center revenue growth for fiscal 2028, indicating demand far exceeds supply. While the new Vera Rubin platform is experiencing the fastest product ramp, profit margins are expected to dip due to memory shortages. Concerns remain regarding high customer concentration, with five clients comprising 70% of receivables, and Nvidia's significant direct financial exposure to AI i"
+      "highlights": " The tech titan delivered second-quarter results on Wednesday that topped Wall Street estimates. The company expects the AI party to continue, projecting $108 billion in revenue for the current quarter, above the $104.57 billion expected by analysts. Nvidia expects its fiscal 2028 revenue to grow around 70% year over year, even as it warned supply is expected to remain bottlenecked. ... The chip maker's all-important data center segment brought in $89.0 billion compared to analysts' estimates of $85.83 billion. That's up 117% year over year. Nvidia's closely watched gross margin was in line wi"
     },
     {
       "title": "Nvidia's 70% sales growth projection for 2028 wows analysts on earnings call",
@@ -61,11 +47,25 @@
       "highlights": " Nvidia reported another blowout quarter on Wednesday, delivering a beat on topline metrics that was strong enough to send the stock up 4% in extended trading. Analysts on the earnings call couldn't get over the 70% growth projection for 2028 revenue delivered by the California-based chipmaker, especially since CFO Colette Kress qualified it as a \"supply-constrained outlook.\" While there had been a lot of chatter prior to the call about additional buybacks, possible price increases and tweaks to the company's capital allocations as a propellant for the stock, the headline for analysts was clea"
     },
     {
-      "title": "NVIDIA at Goldman Sachs conference: Huang sees AI buildout still early By Investing.com",
-      "url": "https://www.investing.com/news/transcripts/nvidia-at-goldman-sachs-conference-huang-sees-ai-buildout-still-early-93CH-4896555",
-      "published": "2026-09-10T16:54:05.000Z",
+      "title": "NVIDIA Q2 Earnings Call Puts Supply Limits at Center of Outlook",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-q2-earnings-call-puts-140000690.html",
+      "published": "2026-08-27T14:00:00.000Z",
+      "author": "Zacks Equity Research",
+      "highlights": " NVIDIA Corporation NVDA used the fiscal second-quarter 2027 earnings call to make one point clear: demand is running ahead of what its supply chain can support. Executive vice president and CFO Colette Kress paired a roughly 70% fiscal 2028 revenue-growth outlook with warnings on supply limits and memory costs, while outlining a broader AI infrastructure strategy. ... Revenues of $96.22 billion topped the Zacks Consensus Estimate of $91.80 billion. Non-GAAP earnings of $2.22 per share beat the Zacks Consensus Estimate of $2.09. Revenues rose 106% year over year. ... Kress said NVIDIA expects "
+    },
+    {
+      "title": "NVIDIA Earnings Supplier-Related Key Takeaways",
+      "url": "https://www.pureplayetfs.com/posts/nvidia-earnings-supplier-related-key-takeaways",
+      "published": "2026-09-10T00:00:00.000Z",
       "author": "N/A",
-      "highlights": " Thursday, 10 September 2026 — NVIDIA (NVDA) used the Goldman Sachs Communacopia + Technology Conference 2026 to press a familiar but expanding message: the company believes the AI buildout is still in its early stages, even as demand, prices and infrastructure needs keep rising. Chief Executive Jensen Huang said the market is moving toward a new computing model, but he also acknowledged supply-chain limits, land shortages and power constraints that could slow deployment. ... - Grace, Blackwell and NVLink systems grew 27% month over month in 72-rack configurations. - Huang said individual GPU "
+      "highlights": " NVIDIA reported $96.2 billion of quarterly revenue, up 106% year over year, while Data Center revenue reached $89.0 billion, up 117%. Management also provided a preliminary outlook for approximately 70% revenue growth in fiscal 2028, while explicitly noting that this remains a supply-constrained outlook. ... Perhaps the clearest supply-chain signal in the report was the sharp increase in NVIDIA's future supply and capacity commitments. As of July 26, NVIDIA had $279 billion of supply and capacity commitments, compared with $119 billion three months earlier. The increase was primarily related "
+    },
+    {
+      "title": "Nvidia Faces “Too Many Semiconductors and Not Enough Data Center Shells” by 2028, Goldman Warns | TIKR.com",
+      "url": "https://www.tikr.com/blog/nvidia-faces-too-many-semiconductors-and-not-enough-data-center-shells-by-2028-goldman-warns",
+      "published": "2026-11-10T16:35:11.000Z",
+      "author": "Roxanna Maglangit",
+      "highlights": " - Goldman Sachs warned that by 2028 there won’t be enough data center shells for all the AI chips being made, and Super Micro Computer’s CFO says shells already set the pace of its deliveries. - For NVIDIA, chips waiting on buildings would hit inventory and pricing long before any customer cancels an order. - NVIDIA’s inventory more than doubled to $31.6 billion over the year to July 2026, about in step with revenue, and gross margin was 75% in the latest quarter. - NVIDIA’s Nov. 17 report is the next test: inventory against revenue, and the margin guide for the January quarter. ... In a note"
     },
     {
       "title": "Where Could NVIDIA’s Next Growth Come From? | Trefis",
