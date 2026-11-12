@@ -1,22 +1,22 @@
 {
   "ticker": "TSM",
   "name": "台积电 ADR",
-  "fetched_at": "2026-11-11T10:01:09",
+  "fetched_at": "2026-11-12T10:01:03",
   "count": 10,
   "items": [
-    {
-      "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
-      "url": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
-      "published": "2026-10-15T05:37:31.000Z",
-      "author": "Jenny Lee",
-      "highlights": " - TSMC reported third-quarter net profit of NT$763.1 billion, up 68.7% from a year earlier. - The company's revenue and net profit both beat expectations. ... Taiwan Semiconductor Manufacturing Co Add To Watchlist. on Thursday reported a record third-quarter profit that beat estimates, powered by an unrelenting global appetite for AI chips. Here are TSMC's third-quarter results against LSEG SmartEstimates, which are weighted toward forecasts from analysts who are more consistently accurate: - Revenue: 1.49 trillion new Taiwan dollars ($46.36 billion) vs. NT$1.47 trillion - Net Income: NT$763."
-    },
     {
       "title": "Nvidia, Apple, Broadcom in 'fierce' battle to make chips at TSMC",
       "url": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
       "published": "2026-10-15T15:04:22.000Z",
       "author": "Katie Tarasov",
-      "highlights": " - TSMC makes the vast majority of the world's most advanced chips, but soaring AI demand has sparked fierce competition for manufacturing capacity. - Chip companies are cultivating relationships in Taiwan and making the case that they could become TSMC's next big customer. - At the center of the competition is TSMC executive Kevin Zhang, who one customer describes as \"the most popular person on the planet.\" As Taiwan Semiconductor Manufacturing Co.'s Add To Watchlist record quarter makes clear, demand from chipmakers shows no sign of slowing down. In fact, TSMC can't manufacture quickly enoug"
+      "highlights": " As Taiwan Semiconductor Manufacturing Co.'s Add To Watchlist record quarter makes clear, demand from chipmakers shows no sign of slowing down. In fact, TSMC can't manufacture quickly enough. The artificial intelligence boom has created unending need for space on factory lines at the world's leading chip manufacturer, and it could put a chokehold on the entire industry's ability to scale. Last year, TSMC said it had the capacity to make more than 17 million 12-inch equivalent wafers. But customers want more. \"The competition is extremely fierce,\" said Jordan Klein, an analyst at Mizuho Securit"
+    },
+    {
+      "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
+      "url": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
+      "published": "2026-10-15T05:37:31.000Z",
+      "author": "Jenny Lee",
+      "highlights": " Here are TSMC's third-quarter results against LSEG SmartEstimates, which are weighted toward forecasts from analysts who are more consistently accurate: - Revenue: 1.49 trillion new Taiwan dollars ($46.36 billion) vs. NT$1.47 trillion - Net Income: NT$763.1 billion vs. NT$746.34 billion expected The world's largest contract chipmaker posted a record net profit for a sixth straight quarter, reporting 68.7% surge in the reported quarter from a year earlier. TSMC's third-quarter operating margin came in at 58.7%, exceeding the upper end of its guidance range of 58%, showcasing the pricing power "
     },
     {
       "title": "Can robust TSMC earnings help settle AI jitters? By Investing.com",
@@ -30,7 +30,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-sales-jump-again-nvidia-111006983.html",
       "published": "2026-11-10T11:10:06.000Z",
       "author": "Nauman Khan",
-      "highlights": " Taiwan Semiconductor Manufacturing (NYSE:TSM) booked October revenue of NT$586.89 billion, about $18.4 billion, up 59.7% from a year earlier. Sales for the first 10 months of the year totaled NT$4.49 trillion, a 43.3% increase. The company, a contract chipmaker that builds chips designed by other firms, gave no outlook or other details in the short statement. TSM GF Value chart Third-quarter revenue of $46.72 billion topped the $45.7 billion analysts had expected. Analysts on average forecast 63% revenue growth for the fourth quarter, so October's pace sits just under that estimate. Demand fo"
+      "highlights": " $4.49 trillion, a 43.3% increase. The company, a contract chipmaker ... Demand for advanced chips used in artificial intelligence appears to be driving the gains. Taiwan Semiconductor counts Nvidia (NASDAQ:NVDA) and Apple (NASDAQ:AAPL) among its customers."
     },
     {
       "title": "Q3 2026 Taiwan Semiconductor Manufacturing Company Limited Earnings Call (Chinese, English) Transcript",
@@ -40,39 +40,39 @@
       "highlights": " Positve - Third quarter revenue increased 16.2% sequentially to $46.7 billion, exceeding the high end of guidance, driven by strong demand for leading-edge process technologies. - Advanced technologies (7nm and below) accounted for 79% of wafer revenue, with 2nm contributing 8%, 3nm 33%, 5nm 28%, and 7nm 10%, demonstrating technology leadership. - HPC platform revenue grew 22% quarter-over-quarter, representing 68% of total revenue, fueled by robust AI-related demand. - Fourth quarter revenue guidance of $52.3-$54.3 billion implies a 14% sequential increase and 58% year-over-year growth, refl"
     },
     {
-      "title": "Beyond NVIDIA: Why TSMC Stock Looks Attractive After Q3 Earnings — TradingView News",
-      "url": "https://www.tradingview.com/news/zacks:e4c38c129094b:0-beyond-nvidia-why-tsmc-stock-looks-attractive-after-q3-earnings/",
-      "published": "2026-10-28T18:00:00.000Z",
-      "author": "N/A",
-      "highlights": " NVIDIA NVDA may dominate the AI chip headlines, but investors looking for another way to capitalize on the artificial intelligence boom should not overlook Taiwan Semiconductor Manufacturing Company TSM or TSMC. The world's leading contract chipmaker is benefiting from surging demand for advanced semiconductors, with third-quarter 2026 revenues rising 41.2% year over year. The company expects full-year revenue growth of approximately 44% in U.S. dollars, supported by robust AI demand and the ramp-up of next-generation 2-nanometer technology. With demand spanning AI accelerators, agentic AI an"
-    },
-    {
-      "title": "TSMC Rallies 7% in Taipei as Nvidia Reportedly Asks It to Draft 3D DRAM Plans | TIKR.com",
-      "url": "https://www.tikr.com/blog/tsmc-rallies-7-in-taipei-as-nvidia-reportedly-asks-it-to-draft-3d-dram-plans",
-      "published": "2026-11-10T15:08:00.000Z",
-      "author": "Rexielyn Diaz",
-      "highlights": " The more interesting news landed Friday. Reuters and Bloomberg, citing The Information, reported that TSMC is drafting plans to make 3D DRAM at the request of Nvidia (NVDA), its largest customer. That would put TSMC up against Samsung, SK Hynix and Micron Technology (MU). And Micron just stumbled: Bloomberg reported Thursday that it has all but halted construction of a Taiwan memory plant over a labor dispute. ... Details are thin, but a few are specific: - TSMC could build new memory fabs, or buy an existing plant and convert it. - Hsu Kuo-chin, the vice president who oversees TSMC’s advance"
-    },
-    {
       "title": "TSMC Says AI Chip Demand Is Still Far Above What It Can Supply. That's Why I'd Buy Nvidia Stock. | The Motley Fool",
       "url": "https://www.fool.com/investing/2026/10/16/tsmc-says-ai-chip-demand-is-still-far-above-what-it-can-supply-that-s-why-i-d-buy-nvidia-stock/",
       "published": "2026-10-17T02:57:01.000Z",
       "author": "Daniel Sparks",
-      "highlights": " - TSMC now expects its 2026 revenue to rise around 44% in U.S. dollars, up from a bit above 40% in July. - TSMC's revenue from high-performance computing climbed 22% from the second quarter to the third. - Nvidia's shares cost less than TSMC's, relative to the earnings analysts expect. Nvidia (NVDA -5.47%) investors got a new look at the demand for artificial intelligence (AI) chips on Thursday, Oct. 15. Taiwan Semiconductor Manufacturing (TSM +2.02%), which makes chip wafers for Nvidia, posted third-quarter revenue of $46.7 billion -- over the high end of the $44.6 billion to $45.8 billion r"
+      "highlights": " - TSMC now expects its 2026 revenue to rise around 44% in U.S. dollars, up from a bit above 40% in July. - TSMC's revenue from high-performance computing climbed 22% from the second quarter to the third. - Nvidia's shares cost less than TSMC's, relative to the earnings analysts expect. Nvidia (NVDA +2.87%) investors got a new look at the demand for artificial intelligence (AI) chips on Thursday, Oct. 15. Taiwan Semiconductor Manufacturing (TSM +4.25%), which makes chip wafers for Nvidia, posted third-quarter revenue of $46.7 billion -- over the high end of the $44.6 billion to $45.8 billion r"
+    },
+    {
+      "title": "TSMC’s Sales Jumped 15% in October. Nvidia’s Supplier Isn’t Seeing the AI Slowdown Yet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-sales-jumped-15-october-115417189.html",
+      "published": "2026-11-11T11:54:17.000Z",
+      "author": "Gian Estrada",
+      "highlights": " TSMC’s Sales Jumped 15% in October. Nvidia’s Supplier Isn’t Seeing the AI Slowdown Yet # TSMC’s Sales Jumped 15% in October. Nvidia’s Supplier Isn’t Seeing the AI Slowdown Yet Gian Estrada Wed, November 11, 2026 at 6:54 AM EST 4 min read ## Trading disclosure The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational. TSMC's Sales Jumped 15% in October. Nvidia's Supplier Isn't"
+    },
+    {
+      "title": "TSMC’s Sales Jumped 15% in October. Nvidia’s Supplier Isn’t Seeing the AI Slowdown Yet | TIKR.com",
+      "url": "https://www.tikr.com/blog/tsmcs-sales-jumped-15-in-october-nvidias-supplier-isnt-seeing-the-ai-slowdown-yet",
+      "published": "2026-11-11T11:54:13.000Z",
+      "author": "Gian Estrada",
+      "highlights": " Taiwan Semiconductor Manufacturing (TSM) reported October revenue of NT$586.89 billion on Nov. 10, up 14.7% from September and 59.7% from a year earlier. It’s TSMC’s first monthly report since the post-midterm chip rout, and it shows no slowdown. That matters for more than TSMC. Nvidia (NVDA) relies on TSMC to make its AI chips, so the foundry’s monthly sales are about as close to a live read on AI hardware demand as investors get. ... Nvidia gets its own test on Nov. 17. It guided revenue for the quarter ended Oct. 25 to $108 billion, plus or minus 2%, up 12% from $96.2 billion the quarter b"
     },
     {
       "title": "台積電（TSMC）2026年第三季財報後，Nvidia（NVDA）與AMD的展望：2奈米製程量產與高效能運算（HPC）需求激增對兩檔股票的意義",
       "url": "https://www.mexc.co/zh-TW/learn/article/nvidia-amd-tsmc-q3-2026-earnings-read-through",
       "published": "2026-10-28T00:00:00.000Z",
-      "author": "作者：Marcus O'Brien",
-      "highlights": " 台積電2026年第三季營收、獲利及第四季財測優於預期，但對GPU股票的影響好壞參半：2奈米占營收8%證實了AMD的MI450量產，HPC成長22%證實了Nvidia的需求，而CoWoS產能仍未量化。 ... - 台積電2026年第三季業績（2026年10月15日）在營收、獲利及財測方面均優於預期。本文探討這份財報對Nvidia和AMD的意義；台積電完整業績另文報導。 - 新資訊好壞參半。2奈米占晶圓營收比重從第二季的3%升至第三季的8%，HPC占營收比重達68%，季增22%。毛利率為66.4%，較第二季下滑1.3個百分點，台積電將其歸因於2奈米初期量產。 - 在法說會上，台積電預估第四季營收為523億至543億美元（以中點計算年增58%），將2026年成長展望上調至約44%，表示AI需求「高於供給」，並表示2奈米產能到2027年將成長逾一倍。台積電未提供CoWoS產能數字。 - 對Nvidia（NVDA）而言：需求獲得證實，封裝供給仍未量化。對AMD而言：2奈米量產及2027年產能倍增是第三方首次證實其MI450節點。兩檔股票10月15日仍因AI資本支出回報疑慮引發的整體類股拋售而下跌，並非受台積電數據影響。 ... 根據 3Q26管理層報告：營收為467.2億美元，高於446億至458億美元的財測；淨利為新台幣7,630.6億元，年增68.7%，優於市場共識；毛利率為66.4%"
+      "author": "作者：MEXC 研究團隊",
+      "highlights": " - 台積電2026年第三季業績（2026年10月15日）在營收、獲利及財測方面均優於預期。本文探討這份財報對Nvidia和AMD的意義；台積電完整業績另文報導。 - 新資訊好壞參半。2奈米占晶圓營收比重從第二季的3%升至第三季的8%，HPC占營收比重達68%，季增22%。毛利率為66.4%，較第二季下滑1.3個百分點，台積電將其歸因於2奈米初期量產。 - 在法說會上，台積電預估第四季營收為523億至543億美元（以中點計算年增58%），將2026年成長展望上調至約44%，表示AI需求「高於供給」，並表示2奈米產能到2027年將成長逾一倍。台積電未提供CoWoS產能數字。 - 對Nvidia（NVDA）而言：需求獲得證實，封裝供給仍未量化。對AMD而言：2奈米量產及2027年產能倍增是第三方首次證實其MI450節點。兩檔股票10月15日仍因AI資本支出回報疑慮引發的整體類股拋售而下跌，並非受台積電數據影響。 ... 報告中有兩項組合數據對GPU投資人比財報本身更重要：2奈米占晶圓營收比重從第二季的3%升至8%，HPC平台占營收比重達68%，季增22%。 2奈米數據是AMD的參考點。AMD是今年該節點的大型AI客戶，EPYC Venice已進入量產，MI450系列於第三季開始生產，因此單季從3%躍升至8%是第三方首次證實AMD的節點正以量產規模而非試產數量爬坡。Nvidia目前的Ru"
     },
     {
-      "title": "TSMC ADRs Jump 2% as Nvidia Extends the Foundry Runway",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-adrs-jump-2-nvidia-170617812.html",
-      "published": "2026-08-27T17:06:17.000Z",
-      "author": "Khac Phu Nguyen",
-      "highlights": " Taiwan Semiconductor Manufacturing (NYSE:TSM), the world's largest contract chipmaker, delivered a tale of two markets Thursday. Taipei shares slipped 0.2%. Hours later, the U.S.-listed ADR jumped approximately 2.0% to $425.97 after Nvidia (NASDAQ:NVDA) projected roughly 70% revenue growth next fiscal year. Taiwan closed before that bombshell. Wall Street did not miss it. TSMC hardly entered the rally empty-handed. July revenue rocketed 44.7% year over year to NT$467.58 billion. First-seven-month revenue climbed 37% to NT$2.872 trillion. July beat that year-to-date growth rate by 7.7 percenta"
+      "title": "TSMC Rallies 7% in Taipei as Nvidia Reportedly Asks It to Draft 3D DRAM Plans | TIKR.com",
+      "url": "https://www.tikr.com/blog/tsmc-rallies-7-in-taipei-as-nvidia-reportedly-asks-it-to-draft-3d-dram-plans?tlnk=yf-261110-gf4fw53h&.tsrc=rss",
+      "published": "2026-11-10T15:08:00.000Z",
+      "author": "Rexielyn Diaz",
+      "highlights": " TSMC Rallies 7% in Taipei as Nvidia Reportedly Asks It to Draft 3D DRAM Plans | TIKR.com # TSMC Rallies 7% in Taipei as Nvidia Reportedly Asks It to Draft 3D DRAM Plans Rexielyn Diaz • 5 minute read Reviewed by: David Hanson Last updated Nov 10, 2026 Aaron Hawkins and Alexander Kuzmin from Getty Images via Canva ### Key Takeaways * TSMC rallied as much as 7.3% in Taipei on Monday after Taiwan activated its stock stabilization fund following the market’s worst week since 2001. * Reuters and Bloomberg reported that TSMC is drafting 3D DRAM plans at Nvidia’s request, which would pit it against S"
     }
   ]
 }
