@@ -1,29 +1,36 @@
 {
   "ticker": "VRT",
   "name": "Vertiv",
-  "fetched_at": "2026-11-18T10:00:53",
+  "fetched_at": "2026-11-19T10:00:58",
   "count": 10,
   "items": [
+    {
+      "title": "Vertiv (VRT) Q3 2026 Earnings Call Transcript | The Motley Fool",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/28/vertiv-vrt-q3-2026-earnings-call-transcript/",
+      "published": "2026-10-28T19:08:26.000Z",
+      "author": "Motley Fool Transcribing",
+      "highlights": " - Net Sales -- $4,313 million, representing 61% growth driven by broad-based demand across all geographic regions. - Organic Net Sales Growth -- 55% year over year, reflecting strong backlog execution and ongoing capacity expansion. - Organic Orders Growth -- over 100% year over year, indicating significant market demand for artificial intelligence infrastructure. - Adjusted Operating Margin -- 25.2%, an expansion of 290 basis points due to operational leverage on higher volume and manufacturing productivity. - Adjusted Operating Profit -- $1.1 billion, up 83% year over year from increased re"
+    },
     {
       "title": "Vertiv Holdings Co. - Vertiv Reports Strong Third Quarter 2026 with Net Sales Growth of 61%, Organic Orders Growth over 100% and Diluted EPS Growth of 91% (Adjusted Diluted EPS Growth of 78%); Raises Full Year 2026 Guidance Across All Key Metrics",
       "url": "https://investors.vertiv.com/news/news-details/2026/Vertiv-Reports-Strong-Third-Quarter-2026-with-Net-Sales-Growth-of-61-Organic-Orders-Growth-over-100-and-Diluted-EPS-Growth-of-91-Adjusted-Diluted-EPS-Growth-of-78-Raises-Full-Year-2026-Guidance-Across-All-Key-Metrics/default.aspx",
       "published": "2026-10-28T00:00:00.000Z",
       "author": "N/A",
-      "highlights": " Vertiv Holdings Co. - Vertiv Reports Strong Third Quarter 2026 with Net Sales Growth of 61%, Organic Orders Growth over 100% and Diluted EPS Growth of 91% (Adjusted Diluted EPS Growth of 78%); Raises Full Year 2026 Guidance Across All Key Metrics # News details ## Vertiv Reports Strong Third Quarter 2026 with Net Sales Growth of 61%, Organic Orders Growth over 100% and Diluted EPS Growth of 91% (Adjusted Diluted EPS Growth of 78%); Raises Full Year 2026 Guidance Across All Key Metrics Oct 28, 2026 Third Quarter 2026 Results - Net sales of $4,313 million, 61% higher than third quarter 2025. - "
+      "highlights": " Vertiv Holdings Co. - Vertiv Reports Strong Third Quarter 2026 with Net Sales Growth of 61%, Organic Orders Growth over 100% and Diluted EPS Growth of 91% (Adjusted Diluted EPS Growth of 78%); Raises Full Year 2026 Guidance Across All Key Metrics ... ## Vertiv Reports Strong Third Quarter 2026 with Net Sales Growth of 61%, Organic Orders Growth over 100% and Diluted EPS Growth of 91% (Adjusted Diluted EPS Growth of 78%); Raises Full Year 2026 Guidance Across All Key Metrics Oct 28, 2026 Third Quarter 2026 Results - Net sales of $4,313 million, 61% higher than third quarter 2025. - Operating p"
     },
     {
       "title": "Vertiv Holdings Co. - Vertiv Targets Up to 30% More Cumulative AI Token Output in First 12 Months Using NVIDIA DSX, Polar Deploys Approach at Norway Site",
       "url": "https://investors.vertiv.com/news/news-details/2026/Vertiv-Targets-Up-to-30-More-Cumulative-AI-Token-Output-in-First-12-Months-Using-NVIDIA-DSX-Polar-Deploys-Approach-at-Norway-Site/default.aspx",
       "published": "2026-10-21T00:00:00.000Z",
       "author": "N/A",
-      "highlights": " Pre-engineered reference designs enable configuration and validation ... COLUMBUS, Ohio, Oct. 21, 2026 /PRNewswire/ -- At NVIDIA GTC Berlin, Vertiv Holdings Co. (NYSE: VRT) and NVIDIA today introduced an AI factory approach that combines rapid configuration and virtual validation of pre-engineered reference architectures with factory-built deployment. The approach is designed to move AI factories from project kickoff to productive capacity faster and, under defined assumptions, generate up to 30% more cumulative token output within the first 12 months with the same installed capacity 1. Polar"
+      "highlights": " Pre-engineered reference designs enable configuration and validation up to 10x faster, combined with factory-built infrastructure for faster deployment, integrated with Dassault Systèmes' 3DEXPERIENCE agentic platform COLUMBUS, Ohio, Oct. 21, 2026 /PRNewswire/ -- At NVIDIA GTC Berlin, Vertiv Holdings Co. (NYSE: VRT) and NVIDIA today introduced an AI factory approach that combines rapid configuration and virtual validation of pre-engineered reference architectures with factory-built deployment. The approach is designed to move AI factories from project kickoff to productive capacity faster and"
     },
     {
-      "title": "Vertiv CFO Says Customers Aren't Pushing Back on Higher Prices Despite Inflation Pressure",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63135575/vertiv-cfo-says-customers-arent-pushing-back-on-higher-prices-despite-inflation-pressure",
-      "published": "2026-11-11T13:04:02.000Z",
-      "author": "N/A",
-      "highlights": " Management expects AI factories using NVIDIA Corp.’s (NASDAQ: NVDA) Vera Rubin platform to adopt DC infrastructure. However, colocation data centers may continue using conventional systems for greater flexibility."
+      "title": "Vertiv Holdings Q3 Conference Call: Management Highlights… | Longbridge",
+      "url": "https://longbridge.com/en/news/303523896",
+      "published": "2026-10-29T08:30:33.000Z",
+      "author": "Zhitong",
+      "highlights": " Time to first token is very important to customers, as it determines how quickly AI data center and computing power investments generate revenue. We collaborate with NVIDIA, Dassault Systemes, and Polar Data Center to significantly shorten time to first token, accelerating various stages of the cycle. In the design phase, pre-engineered reference designs are configured and validated in digital twins, reducing design time by 10 times. In the deployment phase, factory prefabrication and modular deployment significantly reduce on-site complexity and run parallel to site preparation, reducing dep"
     },
     {
       "title": "Nvidia Partner Vertiv Leads S&P 500 Gainers After Strong Earnings, Raised Outlook",
@@ -33,11 +40,18 @@
       "highlights": " Shares of Vertiv (VRT) were up 14% in recent trading, leading gainers on the S&P 500. The company reported adjusted earnings of $2.21 per share in the third quarter on revenue that grew more than 60% year-over-year to $4.31 billion. Both figures were well above estimates compiled by Visible Alpha. The Nvidia (NVDA) partner, which makes data center products including power and cooling equipment, said it expects fourth-quarter revenue of $4.31 billion to $4.51 billion and adjusted EPS between $2.22 and $2.28, with the midpoint of each range topping consensus projections. Vertiv also lifted its "
     },
     {
-      "title": "VRT Earnings Call Transcript — Fiscal Q3 2026",
-      "url": "https://exa.ai/library/markets/stocks/VRT/earnings/FY2026/Q3/transcript",
-      "published": "2026-10-28T15:00:00.000Z",
+      "title": "Vertiv CFO Says Customers Aren't Pushing Back on Higher Prices Despite Inflation Pressure",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63135575/vertiv-cfo-says-customers-arent-pushing-back-on-higher-prices-despite-inflation-pressure",
+      "published": "N/A",
       "author": "N/A",
-      "highlights": " Well, thank you very much, Dave, and let us go to slide 3. A very strong quarter indeed. Net sales up 61% versus Q3 2025, with broad-based trends across all regions. Americas up 75%, APAC up 50%, and EMEA back to convincing growth at 23%. Organic net sales grew approximately 55%, with an additional 6% from acquisitions. Disciplined execution drove adjusted operating margin to 25.2%, up to 190 basis points year-on-year, exceeding our guidance. Adjusted operating profit was over $1 billion, up 83% year-on-year. Adjusted diluted EPS of $2.21 were up 78%, primarily driven by higher volume and con"
+      "highlights": " Management expects AI factories using NVIDIA Corp.’s (NASDAQ: NVDA) Vera Rubin platform to adopt DC infrastructure. However, colocation data centers may continue using conventional ... Hybrid 800-volt DC solutions could arrive in the second half of 2027."
+    },
+    {
+      "title": "Earnings call transcript: NVIDIA tops Q3 2026 estimates and lifts outlook By Investing.com",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-nvidia-tops-q3-2026-estimates-and-lifts-outlook-93CH-5034300",
+      "published": "2026-11-17T22:59:13.000Z",
+      "author": "N/A",
+      "highlights": " NVIDIA reported fiscal third-quarter results that beat Wall Street expectations, with earnings per share of $2.68 versus a forecast of $2.47 and revenue of $115.8 billion versus $108.85 billion expected. The company said revenue doubled from a year earlier, while after-hours trading sent the stock up 4.57% to $162.56 after it closed the regular session at $155.46, down 0.48%. ... - NVIDIA posted record quarterly revenue of $115.8 billion, up 100% from a year earlier and 20% from the prior quarter. - Data center revenue reached $108 billion, underscoring the company’s dependence on AI infrastr"
     },
     {
       "title": "Vertiv Q2 Earnings Call Highlights AI Data Center Growth",
@@ -51,7 +65,7 @@
       "url": "https://www.nvidia.com/en-us/on-demand/session/gtc26-s82232/",
       "published": "N/A",
       "author": "N/A",
-      "highlights": " work closely, I lead a team of four individual teams. 01:12 ... more so a supply chain, obviously, challenge 06:36 than ... else. 06:37 Scale in terms of just sheer size of the data centers 06:40 or AI factories, it's not necessarily a big obstacle."
+      "highlights": " ) S82232 | GTC San Jose ... 06:30 It's probably more so a supply chain, obviously, challenge 06:36 than anything else. 06: ... So what I usually talk about is the infrastructure deficit, and I'll 07:"
     },
     {
       "title": "Vertiv Holdings Co Form 10-Q for the period ended September 30, 2026",
@@ -59,20 +73,6 @@
       "published": "2026-10-28T20:16:05.000Z",
       "author": "N/A",
       "highlights": " | | Three months ended September 30, 2026 | Three months ended September 30, 2025 | Nine months ended September 30, 2026 | Nine months ended September 30, 2025 | | --- | --- | --- | --- | --- | | Net sales | | | | | | Net sales - products | $3,637.1 | $2,214.4 | $8,419.6 | $6,030.1 | | Net sales - services | 675.7 | 461.4 | 1,817.0 | 1,319.8 | | Net sales | 4,312.8 | 2,675.8 | 10,236.6 | 7,349.9 | | Costs and expenses | | | | | | Cost of sales - products | 2,291.5 | 1,398.4 | 5,307.7 | 3,980.8 | | Cost of sales - services | 377.9 | 266.7 | 1,050.9 | 775.3 | | Cost of sales | 2,669.4 | 1,665.1"
-    },
-    {
-      "title": "Vertiv (VRT) Q3 2026 Earnings Call Transcript | The Motley Fool",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/28/vertiv-vrt-q3-2026-earnings-call-transcript/",
-      "published": "2026-10-28T19:08:26.000Z",
-      "author": "Motley Fool Transcribing",
-      "highlights": " - Net Sales -- $4,313 million, representing 61% growth driven by broad-based demand across all geographic regions. - Organic Net Sales Growth -- 55% year over year, reflecting strong backlog execution and ongoing capacity expansion. - Organic Orders Growth -- over 100% year over year, indicating significant market demand for artificial intelligence infrastructure. - Adjusted Operating Margin -- 25.2%, an expansion of 290 basis points due to operational leverage on higher volume and manufacturing productivity. - Adjusted Operating Profit -- $1.1 billion, up 83% year over year from increased re"
-    },
-    {
-      "title": "Vertiv stock surges as orders double amid AI build-out: 'Evolving faster than ever'",
-      "url": "https://finance.yahoo.com/markets/stocks/article/vertiv-stock-surges-as-orders-double-amid-ai-build-out-121856424.html",
-      "published": "2026-10-28T12:18:56.000Z",
-      "author": "Grace O'Donnell",
-      "highlights": " have doubled year over year. The company counts Alphabet, Microsoft, Nvidia (NVDA), and Amazon ( ... That demand, plus strong third quarter results, have given Vertiv the confidence to raise its full-year outlook. In 2026, the company expects net"
     }
   ]
 }
