@@ -1,7 +1,7 @@
 {
   "ticker": "NVDA",
   "name": "NVIDIA",
-  "fetched_at": "2026-11-19T10:00:58",
+  "fetched_at": "2026-11-20T10:00:09",
   "count": 10,
   "items": [
     {
@@ -16,21 +16,14 @@
       "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Expands-Commitments-With-Supply-Chain-Partners-to-Support-AI-Infrastructure-Buildout/default.aspx",
       "published": "2026-11-17T00:00:00.000Z",
       "author": "N/A",
-      "highlights": " November 17, 2026 News Summary: - New agreements with Kinsus and Samsung Electro-Mechanics support additional substrate capacity and expanded production capabilities at existing factories. - NVIDIA’s work with Amkor and SPIL expands advanced packaging capacity for current and next-generation accelerated computing platforms. - NVIDIA Vera Rubin NVL72 and Vera CPUs began volume shipments in the third quarter, leveraging TSMC’s 5nm, 3nm and CoWoS advanced packaging technologies. - Foxconn is deepening its collaboration with NVIDIA, drawing on its global production network to support next-generat"
+      "highlights": " News Summary: - New agreements with Kinsus and Samsung Electro-Mechanics support additional substrate capacity and expanded production capabilities at existing factories. - NVIDIA’s work with Amkor and SPIL expands advanced packaging capacity for current and next-generation accelerated computing platforms. - NVIDIA Vera Rubin NVL72 and Vera CPUs began volume shipments in the third quarter, leveraging TSMC’s 5nm, 3nm and CoWoS advanced packaging technologies. - Foxconn is deepening its collaboration with NVIDIA, drawing on its global production network to support next-generation GPU and networ"
     },
     {
       "title": "Earnings call transcript: NVIDIA tops Q3 2026 estimates and lifts outlook By Investing.com",
       "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-nvidia-tops-q3-2026-estimates-and-lifts-outlook-93CH-5034300",
       "published": "2026-11-17T22:59:13.000Z",
       "author": "N/A",
-      "highlights": " NVIDIA reported fiscal third-quarter results that beat Wall Street expectations, with earnings per share of $2.68 versus a forecast of $2.47 and revenue of $115.8 billion versus $108.85 billion expected. The company said revenue doubled from a year earlier, while after-hours trading sent the stock up 4.57% to $162.56 after it closed the regular session at $155.46, down 0.48%. ... - NVIDIA posted record quarterly revenue of $115.8 billion, up 100% from a year earlier and 20% from the prior quarter. - Data center revenue reached $108 billion, underscoring the company’s dependence on AI infrastr"
-    },
-    {
-      "title": "Nvidia (NVDA) Q3 2027 earnings report",
-      "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
-      "published": "2026-11-17T13:00:01.000Z",
-      "author": "Kif Leswing",
-      "highlights": " - EPS: $2.68 adjusted vs. $2.48 expected - Revenue: $115.84 billion vs. $109.10 billion expected Revenue more than doubled from $57 billion a year earlier, Nvidia said, a sign of continued strength in its core data center business. The company said revenue this quarter will expand by roughly 90% to about $130 billion, topping the $125.1 billion average analyst estimate, according to LSEG. ... Nvidia's commitments to secure supply of parts for its chips and systems increased to $390 million from $279 billion in the prior period. The sharp increase is primarily related to the multi-year procure"
+      "highlights": " NVIDIA reported fiscal third-quarter results that beat Wall Street expectations, with earnings per share of $2.68 versus a forecast of $2.47 and revenue of $115.8 billion versus $108.85 billion expected. The company said revenue doubled from a year earlier, while after-hours trading sent the stock up 4.57% to $162.56 after it closed the regular session at $155.46, down 0.48%. ... - NVIDIA posted record quarterly revenue of $115.8 billion, up 100% from a year earlier and 20% from the prior quarter. ... For the current quarter, NVIDIA guided for revenue of $130 billion, plus or minus 3%. The co"
     },
     {
       "title": "Nvidia interim CEO Colette Kress talks earnings, China: Transcript",
@@ -47,32 +40,39 @@
       "highlights": " As rivals including AMD and ASIC developers vie for capacity amid NVIDIA’s leadership turmoil, the AI chip giant is moving to shore up its supply chain. According to Commercial Times, TSMC executives visited NVIDIA this week to help bridge the supply-demand gap, while Kress reaffirmed that memory and advanced packaging capacity had been secured. NVIDIA also unveiled new agreements with Kinsus and SPIL to expand ABF substrate and advanced packaging capacity, respectively. Kinsus plans to boost dedicated ABF substrate capacity for NVIDIA to more than 3.5 times current levels, with new productio"
     },
     {
-      "title": "Nvidia Tops Forecasts In First Report Without Jensen Huang, But Gets Choosier About Backing Data Centers",
-      "url": "https://exa.ai/library/news/story/nj4dg1w4fgfnkf49knqlmk9jr",
-      "published": "2026-11-18T22:00:00.000Z",
-      "author": "N/A",
-      "highlights": " Nvidia Tops Forecasts In First Report Without Jensen Huang, But Gets Choosier About Backing Data Centers ... : [Nvidia Tops Forecasts In First Report Without ... First reported 2026-11-17 21:44 UTC · last updated 2026-11-18 22:00 UTC · 39 publishers"
+      "title": "Nvidia (NVDA) Q3 2027 earnings report",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+      "published": "2026-11-17T13:00:01.000Z",
+      "author": "Kif Leswing",
+      "highlights": " - EPS: $2.68 adjusted vs. ... Revenue more than doubled from $57 billion a year earlier, Nvidia said, a sign of continued strength in its core data center business. The company said revenue this quarter will expand by roughly 90% to about $130 billion, topping the $125.1 billion average analyst estimate, according to LSEG. ... Nvidia's commitments to secure supply of parts for its chips and systems increased to $390 million from $279 billion in the prior period. The sharp increase is primarily related to the multi-year procurement of memory supply, the company said in its earnings commentary."
     },
     {
       "title": "Nvidia earnings beat, but analysts question who and what comes next",
       "url": "https://www.cnbc.com/2026/11/18/nvidia-earnings-market-analysis.html",
       "published": "2026-11-18T04:04:14.000Z",
       "author": "Shikhar Gupta",
-      "highlights": " came in at $115.84 billion, more than $6 billion above analysts' ... He pointed to Nvidia's supply commitments, which rose to $390 billion from $279 billion in three months, as well as its Vera Rubin platform, which has already brought in $20 billion."
+      "highlights": " Nvidia's third-quarter revenue came in at $115.84 billion, more than $6 billion above analysts' expectations of $109.10 billion, while fourth-quarter guidance of $130 billion topped the $125.1 billion consensus, according to LSEG. ... Wilson said AI remained a \"desirable investment,\" with no slowdown in spending seen or expected from hyperscalers and some neoclouds — newer cloud providers built around AI computing. However, he added that investment may not continue at the pace investors expected six months ago. ... He pointed to Nvidia's supply commitments, which rose to $390 billion from $27"
     },
     {
       "title": "Nvidia earnings beat estimates; firm won’t take questions on resignation By Reuters",
       "url": "https://www.investing.com/news/stock-market-news/nvidia-earnings-beat-estimates-attention-turns-to-call-5034180",
       "published": "2026-11-17T21:54:44.000Z",
       "author": "N/A",
-      "highlights": " Nvidia later began a conference call with ... Colette Kress, interim CEO, told investors the company expects revenue to rise 75% in fiscal 2028. The company expects fourth-quarter revenue of $126 billion to $134 billion, compared with analysts’ average estimate of just over $125 billion, according to data compiled by LSEG. Nvidia said it did not assume any data center chip sales from China in its outlook."
+      "highlights": " The company expects fourth-quarter revenue of $126 billion to $134 billion, compared with analysts’ average estimate of just over $125 billion, according to data compiled by LSEG. Nvidia said it did not"
     },
     {
-      "title": "AI, data center demand drive Nvidia revenue to $115.8B in Q3 | Manufacturing Dive",
-      "url": "https://www.manufacturingdive.com/news/nvidia-revenue-reaches-1158b-q3-more-than-double-year-over-year/874956/",
-      "published": "2026-11-18T10:32:02.000Z",
-      "author": "Jeff Kinney",
-      "highlights": " ### Dive Brief: - Nvidia Nov. 17 reported revenue of $115.8 billion in its fiscal third quarter of 2027 ending Oct. 25, up from $57 billion year over year. Growth was driven in large part by artificial intelligence and data center demand. - On an earnings call, the company announced expanded long-term commitments with supply chain partners to support artificial intelligence infrastructure buildout. Its partners include Kinsus, Samsung Electro-Mechanics, Amkor, SPIL and others. - Nvidia also announced it is establishing a committee to supervise NVIDIA’s national security and global trade compl"
+      "title": "Nvidia forecasts 70% sales growth next year, signals AI spending boom has years left to run | Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/nvidia-forecasts-quarterly-revenue-above-estimates-2026-08-26/",
+      "published": "2026-08-26T20:24:22.000Z",
+      "author": "Anhata Rooprai, Max Cherney, Deborah Sophia",
+      "highlights": " - Third-quarter revenue forecast is $108 billion, plus or minus 2%, versus $104.19 billion estimate - Nvidia expects fiscal 2028 revenue to grow by about 70% - Nvidia and AWS to deploy 2 million additional GPUs in 2027 and 2028 Aug 26 (Reuters) - Nvidia (NVDA.O), opens new tab on Wednesday forecast a 70% ​jump in revenue next fiscal year, underscoring unabated demand for AI computing, while warning that shortages of memory components would continue to curb how ‌quickly it can expand. ... Executives shared a road map ⁠for growth over the next few years, including a ramp in its next-generation "
+    },
+    {
+      "title": "Nvidia adds $440B in value after blowout earnings boost AI confidence",
+      "url": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
+      "published": "2026-08-27T08:04:33.000Z",
+      "author": "Kai Nicol-Schwarz, Arjun Kharpal",
+      "highlights": " Taiwan Semiconductor Manufacturing Co. Add To Watchlist, Nvidia's main manufacturer, continues to face supply constraints, while memory chips — a key component of Nvidia's systems — also remain in short supply."
     }
   ]
 }
