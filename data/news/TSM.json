@@ -1,7 +1,7 @@
 {
   "ticker": "TSM",
   "name": "台积电 ADR",
-  "fetched_at": "2026-11-24T10:00:40",
+  "fetched_at": "2026-11-25T10:00:56",
   "count": 10,
   "items": [
     {
@@ -9,21 +9,28 @@
       "url": "https://investor.tsmc.com/english/quarterly-results/2026/q3",
       "published": "N/A",
       "author": "N/A",
-      "highlights": " | | | 3Q26 | | 4Q26 | | --- | --- | --- | --- | --- | | | | Actual | Guidance | Guidance | | Net Revenue (US$ billion) | 46.72 | 44.6-45.8 | 52.3-54.3 | | | Exchange Rate (USD/NTD) | 31.98 | 32.0 | 31.8 | | | Gross Margin | 66.4% | 65.0%-67.0% | 65.0%-67.0% | | | Operating Margin | 58.7% | 56.0%-58.0% | 56.5%-58.5% | |"
+      "highlights": " | | | | Actual | Guidance | Guidance | | Net Revenue (US$ billion ... -45.8 | 52.3-54.3 | | | ... | 31.98 | 32.0 | 31.8 | | | Gross Margin | 66.4% | 65.0%-67.0% | 65.0%-67.0% | | | Operating Margin | 58.7% | 56. ... %-58.0% | 56.5%-58.5%"
     },
     {
       "title": "Q3 2026 Taiwan Semiconductor Manufacturing Company Limited Earnings Call (Chinese, English) on October 15, 2026 / 6:00AM",
       "url": "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf",
       "published": "N/A",
       "author": "Refinitiv StreetEvents",
-      "highlights": " ## EVENT DATE/TIME: OCTOBER 15, 2026 / 6:00AM GMT ... Third quarter revenue increased 17.6% sequentially in NT, supported by strong demand for our leading-edge process technologies. In US dollar term, revenue increased 16.2% sequentially to $46.7 billion, above the high end of our third quarter guidance. ... ### OCTOBER 15, 2026 / 6:00AM, 2330.TW - Q3 2026 Taiwan Semiconductor Manufacturing Company Limited Earnings Call (Chinese, English) Gross margin decreased by 1.3 percentage points sequentially to 66.4%, primarily due to margin dilution from 2-nanometer ramp. Total operating expenses acco"
+      "highlights": " Third quarter revenue increased 17.6% sequentially in NT, supported by strong demand for our leading-edge process technologies. In US dollar term, revenue increased 16.2% sequentially to $46.7 billion, above the high end of our third quarter guidance. ... ### OCTOBER 15, 2026 / 6:00AM, 2330.TW - Q3 2026 Taiwan Semiconductor Manufacturing Company Limited Earnings Call (Chinese, English) Gross margin decreased by 1.3 percentage points sequentially to 66.4%, primarily due to margin dilution from 2-nanometer ramp. Total operating expenses accounted for 7.8% of net revenue. Operating margin was 58"
     },
     {
       "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
       "url": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
       "published": "2026-10-15T05:37:31.000Z",
       "author": "Jenny Lee",
-      "highlights": " are TSMC's third-quarter results against LSEG SmartEstimates, which are weighted toward forecasts from analysts who are more consistently accurate: - Revenue: 1.49 trillion new Taiwan dollars ($46.36 billion) vs. NT$1.47 trillion - Net Income: NT$763.1"
+      "highlights": " Here are TSMC's third-quarter results against LSEG SmartEstimates, which are weighted toward forecasts from analysts who are ... accurate: - Revenue: 1.49 trillion new Taiwan dollars ($46.36 billion) vs. ... 1.47 trillion - Net Income: NT$763.1"
+    },
+    {
+      "title": "台积电 (TSM) — 2026年第三季度 财报分析 | Aardvark Labs Capital Research",
+      "url": "https://research.aardvarklabs.co/cn/research/tsm/earnings/2026-q3/tsm-2026-q3-recap",
+      "published": "2026-10-18T17:25:00.000Z",
+      "author": "Aardvark Labs",
+      "highlights": " - 又一次超预期，这次靠的是经营。营收$46.72B（NT$1,494.24B），比$44.6–45.8B指引上限高出2.0%；营业利润率58.7%，超过58.0%的上限；ADR EPS为$4.60，比约$4.45–4.46的一致预期高约3%。营业外收入从Q2的NT$95.8B回落到NT$34.6B，所以和Q2不同，本季度的盈利增长来自晶圆，而不是利息和投资收益。 ... ADR当天下跌1.8%，两个交易日累计下跌4.0%，与SMH半导体ETF因AI融资担忧下跌4.4%基本一致。"
     },
     {
       "title": "TSMC Reports Third Quarter EPS of NT$29.43",
@@ -33,39 +40,18 @@
       "highlights": " Issued by: TSMC Issued on: 2026/10/15 HSINCHU, Taiwan, R.O.C., Oct. 15, 2026 -- TSMC (TWSE: 2330, NYSE: TSM) today announced consolidated revenue of NT$1,494.24 billion, net income of NT$763.06 billion, and diluted earnings per share of NT$29.43 (US$4.60 per ADR unit) for the third quarter ended September 30, 2026. Year-over-year, third quarter revenue increased 50.9%, while net income and diluted EPS both increased 68.7%. Compared to second quarter 2026, third quarter results represented a 17.6% increase in revenue and an 8.0% increase in net income. All figures were prepared in accordance w"
     },
     {
-      "title": "台积电 (TSM) — 2026年第三季度 财报分析 | Aardvark Labs Capital Research",
-      "url": "https://research.aardvarklabs.co/cn/research/tsm/earnings/2026-q3/tsm-2026-q3-recap",
-      "published": "2026-10-18T17:25:00.000Z",
-      "author": "Aardvark Labs",
-      "highlights": " - 又一次超预期，这次靠的是经营。营收$46.72B（NT$1,494.24B），比$44.6–45.8B指引上限高出2.0%；营业利润率58.7%，超过58.0%的上限；ADR EPS为$4.60，比约$4.45–4.46的一致预期高约3%。营业外收入从Q2的NT$95.8B回落到NT$34.6B，所以和Q2不同，本季度的盈利增长来自晶圆，而不是利息和投资收益。 - 指引再次上调，而Q4的数字比全年数字更重要。 ... Q4指引65–67%，守住60%区间中段；海外晶圆厂的摊薄目前更接近2%，之后几年会扩大到3–4%。这是公司史上最快制程爬坡的预期成本，并不意外。 - 管理层把消费端的谨慎放在了2027年，市场照样抛售AI。消费类和价格敏感型业务因零部件涨价而“面临挑战”，所以台积电对2027年的规划保持“审慎”，而AI需求则看不到任何“放缓迹象”。ADR当天下跌1.8%，两个交易日累计下跌4.0%，与SMH半导体ETF因AI融资担忧下跌4.4%基本一致。 ... AI需求：“没有放缓迹象”，现在还有实地核查背书 > “此外，我们现在更进一步，派出自己的团队去查看美国数据中心的建设进度和电力供应情况。目前为止反馈都很好，CSP们也已经做好了充分准备。” — C.C. Wei, Chairman & CEO 这场电话会是在一家GPU云服务商的信用担忧引发AI板块抛售几小时后召开的"
-    },
-    {
-      "title": "AI市場雜音不斷！台積電：先進製程需求仍強",
-      "url": "https://exa.ai/library/news/story/g2xwl0l47hfmlw026p0mf3c2p",
-      "published": "2026-11-23T21:30:00.000Z",
-      "author": "N/A",
-      "highlights": " # AI市場雜音不斷！台積電：先進製程需求仍強 Lead ... : [AI市場雜音不斷！台積電：先進製程需求仍強](https://tw.stock. ... /ai%E5%B8%82%E5%A0%B4 ... 96%B7-%E5%8F%B0%E7%A9%8D ... .html) · yahoo.com First reported 2026-11-23 08:49 UTC · last updated 2026-11-23 21:30 UTC · 11 publishers"
-    },
-    {
-      "title": "台积电2026Q3财报：净利7630.6亿新台币、毛利率66.4%与AI估值分歧 | BasisPilot 中文版",
-      "url": "https://basispilot.com/zh/insights/us-stocks/tsmc-q3-2026-earnings-record-profit-q4-guidance-ai-valuation",
-      "published": "2026-10-16T20:04:31.000Z",
-      "author": "N/A",
-      "highlights": " ，投资者担忧的是购买这些芯片的整个客户链条能否创造足够回报。 大型云厂商如果有稳定经营现金流，能够相对从容地建设机房；高杠杆算力租赁商若依赖持续融资、设备抵押或发行新股，则更受利率与信用条件影响。两类客户都可能让台积电今天的订单增加，但它们的财务可持续性并不相同。 ... 。对估值较高的AI股票，折现率提高意味着多年后的利润在今天更不值钱。财报强劲不能自动消除估值和融资担忧 ... 因此，"
-    },
-    {
-      "title": "TSMC Sinks 20% in a Week on Nvidia Jitters and New US Chip Curbs on China. Time to Buy?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-sinks-20-week-nvidia-100729822.html",
-      "published": "2026-11-21T10:07:29.000Z",
-      "author": "Wiltone Asuncion",
-      "highlights": " **Taiwan Semiconductor Manufacturing** **(**TSM:NYSE **)** stock fell 20% in the week ended Nov. 20, and most of the damage started outside its own business. Chip stocks slid on Monday, Nov. 16, ahead of the first earnings report from **Nvidia** **(**NVDA:NASDAQ **)** since Jensen Huang resigned as CEO. The same day, the Trump administration said it would further restrict China's access to advanced AI chips. When the rule took effect on Thursday, Nov. 19, TSMC reportedly paused some shipments to Chinese customers while it applies for US licenses. On Friday, TSMC fell another 9.5% as chip stoc"
-    },
-    {
       "title": "台積電（TSMC）2026年第三季財報後，Nvidia（NVDA）與AMD的展望：2奈米製程量產與高效能運算（HPC）需求激增對兩檔股票的意義",
       "url": "https://www.mexc.co/zh-TW/learn/article/nvidia-amd-tsmc-q3-2026-earnings-read-through",
       "published": "2026-10-28T09:59:14.000Z",
       "author": "MEXC 研究團隊",
-      "highlights": " 作者：MEXC 研究團隊 2026年10月28日 MEXC 研究團隊 台積電2026年第三季營收、獲利及第四季財測優於預期，但對GPU股票的影響好壞參半：2奈米占營收8%證實了AMD的MI450量產，HPC成長22%證實了Nvidia的需求，而CoWoS產能仍未量化。 ... - 台積電2026年第三季業績（2026年10月15日）在營收、獲利及財測方面均優於預期。本文探討這份財報對Nvidia和AMD的意義；台積電完整業績另文報導。 - 新資訊好壞參半。2奈米占晶圓營收比重從第二季的3%升至第三季的8%，HPC占營收比重達68%，季增22%。毛利率為66.4%，較第二季下滑1.3個百分點，台積電將其歸因於2奈米初期量產。 - 在法說會上，台積電預估第四季營收為523億至543億美元（以中點計算年增58%），將2026年成長展望上調至約44%，表示AI需求「高於供給」，並表示2奈米產能到2027年將成長逾一倍。台積電未提供CoWoS產能數字。 - 對Nvidia（NVDA）而言：需求獲得證實，封裝供給仍未量化。對AMD而言：2奈米量產及2027年產能倍增是第三方首次證實其MI450節點。兩檔股票10月15日仍因AI資本支出回報疑慮引發的整體類股拋售而下跌，並非受台積電數據影響。 ## 為何台積電的獲利是Nvidia和AMD的領先指標？ 台積電為Nvidia和AMD銷售的每顆資料中"
+      "highlights": " ## 2奈米和HPC數據對Nvidia和AMD有何意義？ 報告中有兩項組合數據對GPU投資人比財報本身更重要：2奈米占晶圓營收比重從第二季的3%升至8%，HPC平台占營收比重達68%，季增22%。 2奈米數據是AMD的參考點。AMD是今年該節點的大型AI客戶，EPYC Venice已進入量產，MI450系列於第三季開始生產，因此單季從3%躍升至8%是第三方首次證實AMD的節點正以量產規模而非試產數量爬坡。Nvidia目前的Rubin世代採用3奈米級製程，因此2奈米數字對Nvidia 2026年供給的影響有限。 HPC數據首先反映Nvidia，因為Nvidia是該平台最大的單一貢獻者。HPC季增22%，而總營收以美元計僅成長16%，顯示AI比重高的部門在台積電內部持續擴大占比，這是Nvidia在11月自家財報前所需的需求確認。但需注意：HPC也包含PC及傳統伺服器晶片，因此「HPC成長22%」是AI需求的代理指標，而非直接衡量。 財報中唯一的負面因素也因客戶而異：毛利率下滑1.3個百分點來自2奈米初期量產，因此落在AMD的節點上，而非Nvidia。 ... ## 台積電財報對Nvidia（NVDA）有何意義？ 對Nvidia而言，Q3數據確認了需求，但供應問題仍未解決。HPC成長22%證實加速器出貨量在年底前仍持續攀升，而66.4%的毛利率顯示台積電在Nvidia Rubin所用的"
+    },
+    {
+      "title": "AI市場雜音不斷！台積電：先進製程需求仍強",
+      "url": "https://exa.ai/library/news/story/g2xwl0l47hfmlw026p0mf3c2p",
+      "published": "2026-11-24T06:09:00.000Z",
+      "author": "N/A",
+      "highlights": " # AI市場雜音不斷！台積電：先進製程需求仍強 Lead article: [AI市場雜音不斷！台積電：先進製程需求仍強](https:// ... .stock.yahoo.com/news/ai%E5%B8%82%E5%A0%B4%E9%9B%9C%E9%9F%B3%E4%B8 ... First reported 2026-11-23 08:49 UTC · last updated 2026-11-23 11:00 UTC · 13 publishers"
     },
     {
       "title": "Nvidia's record quarter, as Taiwan's sales show it · Taipei Ledger",
@@ -73,6 +59,20 @@
       "published": "2026-11-18T00:00:00.000Z",
       "author": "N/A",
       "highlights": " Feature · 18 November 2026 # Nvidia's record quarter, as Taiwan's sales show it Nvidia sold US$115.8bn in the three months to October. In the same three months, the combined sales of eight Taiwan companies that make, package and build around its chips were +65.1% on a year earlier. Nvidia's first results under its interim chief executive, Colette Kress, came in on Tuesday evening in California. Revenue for the quarter to 25 October was US$115.8bn, up 103% on a year earlier, and its data-centre business, the part that sells AI chips and systems, brought in US$107.6bn, up 110%. Kress said the n"
+    },
+    {
+      "title": "[News] NVIDIA’s 1st Earnings Without Huang: Comeback Ruled Out; Memory, Packaging Secured as TSMC Helps Ease Supply Gap",
+      "url": "https://www.trendforce.com/news/2026/11/18/news-nvidias-1st-earnings-without-huang-comeback-ruled-out-memory-packaging-secured-as-tsmc-helps-ease-supply-gap/",
+      "published": "2026-11-18T10:13:39.000Z",
+      "author": "N/A",
+      "highlights": " billion in the previous quarter, with the increase ... . According to Commercial Times, TSMC executives visited NVIDIA this week to help bridge the supply-demand gap, while Kress reaffirmed that memory and advanced packaging capacity had been secured."
+    },
+    {
+      "title": "NVIDIA Corporation - NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Expands-Commitments-With-Supply-Chain-Partners-to-Support-AI-Infrastructure-Buildout/default.aspx",
+      "published": "2026-11-17T00:00:00.000Z",
+      "author": "N/A",
+      "highlights": " ### NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout November 17, 2026 News Summary: - New agreements with Kinsus and Samsung Electro-Mechanics support additional substrate capacity and expanded production capabilities at existing factories. - NVIDIA’s work with Amkor and SPIL expands advanced packaging capacity for current and next-generation accelerated computing platforms. - NVIDIA Vera Rubin NVL72 and Vera CPUs began volume shipments in the third quarter, leveraging TSMC’s 5nm, 3nm and CoWoS advanced packaging technologies. - Foxconn is deepening"
     }
   ]
 }
