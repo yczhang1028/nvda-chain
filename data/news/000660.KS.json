@@ -1,7 +1,7 @@
 {
   "ticker": "000660.KS",
   "name": "SK 海力士",
-  "fetched_at": "2026-11-26T10:00:57",
+  "fetched_at": "2026-11-27T10:00:06",
   "count": 10,
   "items": [
     {
@@ -9,35 +9,28 @@
       "url": "https://news.skhynix.com/cn/q3-2026-business-results/",
       "published": "2026-10-28T00:00:00.000Z",
       "author": "SK海力士",
-      "highlights": " 韩国首尔， 2026年 10月 28日 – SK海力士（以下简称“公司”， https://www.skhynix.com）今日发布截至2026年9月30日的2026财年第三季度财务报告。公司2026财年第三季度营业收入为104.6155万亿韩元，营业利润为83.3338万亿韩元，净利润为39.7756万亿韩元。2026财年第三季度营业利润率为80%，净利润率为38%。(K-IFRS为准) ... ### 营收与营业利润均创季度历史最高纪录，营收史上首次突破100万亿韩元 在AI存储需求增加推动主要产品价格上涨的市场环境下，公司凭借高附加值产品的竞争力，营业收入和营业利润再次双双刷新季度历史最高纪录。特别是营业收入历史上首次突破100万亿韩元大关。营业收入和营业利润环比分别增长32%和38%。 * 注：2026年第二季度营收为79.3187万亿韩元，营业利润为60.5426万亿韩元 分产品来看，在HBM4出货全面展开的同时，面向服务器的DDR5销售大幅增长，引领了DRAM业绩增长。NAND闪存方面，321层TLC企业级固态硬盘（eSSD）销售也持续扩大，面向数据中心的高附加值产品整体保持增长态势。 财务结构也进一步趋于稳健。截至第三季度末，现金及现金等价物达114.5万亿韩元，较上季度末增加26.5万亿韩元，借款额减少2.8万亿韩元，降至15.8万亿韩元。据此，净现金头寸扩大至9"
+      "highlights": " ▪ 营业收入为104.6155万亿韩元，营业利润为83.3338万亿韩元，净利润为39.7756万亿韩元。季度营收史上首次突破100万亿韩元 ... 韩国首尔， 2026年 10月 28日 – SK海力士（以下简称“公司”， https://www.skhynix.com）今日发布截至2026年9月30日的2026财年第三季度财务报告。公司2026财年第三季度营业收入为104.6155万亿韩元，营业利润为83.3338万亿韩元，净利润为39.7756万亿韩元。2026财年第三季度营业利润率为80%，净利润率为38%。(K-IFRS为准) ... ### 营收与营业利润均创季度历史最高纪录，营收史上首次突破100万亿韩元 在AI存储需求增加推动主要产品价格上涨的市场环境下，公司凭借高附加值产品的竞争力，营业收入和营业利润再次双双刷新季度历史最高纪录。特别是营业收入历史上首次突破100万亿韩元大关。营业收入和营业利润环比分别增长32%和38%。 * 注：2026年第二季度营收为79.3187万亿韩元，营业利润为60.5426万亿韩元 分产品来看，在HBM4出货全面展开的同时，面向服务器的DDR5销售大幅增长，引领了DRAM业绩增长。NAND闪存方面，321层TLC企业级固态硬盘（eSSD）销售也持续扩大，面向数据中心的高附加值产品整体保持增长态势。 财务结构也进一步趋于稳健。截至第三"
     },
     {
-      "title": "SK hynix (SKHY) Q3 2026 Earnings Call Transcript | The Motley Fool",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/28/sk-hynix-skhy-q3-2026-earnings-call-transcript/",
-      "published": "2026-10-28T15:24:35.000Z",
-      "author": "Motley Fool Transcribing",
-      "highlights": " Woo-Hyun Kim: [Interpreted] Good morning, everyone. This is CFO, Kim Woo-Hyun. Allow me to first introduce the company's performance for the third quarter of 2026. In the third quarter, tight supply and demand conditions continued due to growing demand for AI memory, leading to sustained rise in memory prices. Both DRAM and NAND recorded high price increase rates for a second consecutive quarter, driven by continued price hikes centered on HBM, server DRAM and enterprise SSD. Consequently, third quarter revenue increased by 32% quarter-on-quarter and 328% year-on-year, reaching KRW 104.6 tril"
-    },
-    {
-      "title": "SK海力士财报会实录：未来三年存储产能几近售罄 预计供需紧张延续至2030年",
-      "url": "https://m.cls.cn/detail/2517443",
-      "published": "2026-10-28T00:00:00.000Z",
-      "author": "财联社 刘蕊",
-      "highlights": " 首先为大家介绍公司2026年第三季度经营业绩。受益于AI内存需求持续走高，本季度供需格局依旧紧张，内存价格持续上行。受HBM、服务器DRAM以及企业级SSD带动， DRAM与NAND产品价格已经连续两个季度大幅上涨。 受此驱动，第三季度营收环比增长32%，同比大增328%，达到104.6万亿韩元。这是公司单季度营收首次突破100万亿韩元，创下历史新高。 DRAM业务方面，我们以AI服务器相关产品为核心扩大销售规模，按计划实现比特出货量环比约10%的增长。尤其HBM4于第三季度正式实现大规模量产并对外出货。此外，服务器DDR5出货量相较第二季度增长超40%，拉动整体DRAM比特出货实现增长。传统DRAM价格维持强势，叠加售价高于上一代产品的HBM4销售占比提升，DRAM平均销售单价实现20%以上的高位涨幅，增速和上一季度基本持平。 NAND业务方面，我们调整销售策略，重点发力321层TLC企业级SSD等高附加值产品，比特出货量相较第二季度小幅下滑。不过受益于整体产品价格走强，SSD销售占比提升，NAND平均销售单价实现20%左右的涨幅。 虽然韩元走强带来汇率方面的不利影响，但产品涨价叠加高附加值产品销售占比提升，公司第三季度营业利润达到83.3万亿韩元，环比上涨38%，同比暴涨632%。营业利润率环比提升3个百分点至80%，营业利润与营业利润率双双刷新单季度历史纪录。 第三季度折旧"
+      "title": "Earnings call transcript: SK hynix posts record Q3 2026 results, shares jump after hours By Investing.com",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-sk-hynix-posts-record-q3-2026-results-shares-jump-after-hours-93CH-4977343",
+      "published": "2026-10-28T01:28:51.000Z",
+      "author": "N/A",
+      "highlights": " Allow me to first introduce the company’s performance for the third quarter of 2026. In the third quarter, tight supply and demand conditions continued due to growing demand for AI memory, leading to sustained rise in memory prices. Both DRAM and NAND recorded high price increase rates for a second consecutive quarter, driven by continued price hikes centered on HBM, server DRAM, and enterprise SSD. Kim Woo-hyun, CFO, SK hynix: Consequently, third quarter revenue increased by 32% quarter-on-quarter and 328% year-on-year, reaching KRW 104.6 trillion. This marks the first time quarterly revenue"
     },
     {
       "title": "Jensen Huang’s return eases HBM uncertainty for Samsung, SK hynix - The Korea Herald",
       "url": "https://www.koreaherald.com/article/10947677",
       "published": "2026-11-24T06:24:17.000Z",
       "author": "Jie Ye-eun",
-      "highlights": " Published : Nov. 24, 2026 - 15:24:17 Updated : Nov. ... Jensen Huang’s return as Nvidia CEO, announced just 11 days after his resignation, has eased concerns over Samsung Electronics and SK hynix’s high-bandwidth memory partnerships with the US chip giant and the longevity of Korea’s AI-driven memory boom. Both Korean chipmakers, however, are expected to continue broadening their customer base as global tech giants ramp up development of their own artificial intelligence chips. ... For Samsung and SK hynix, much of the uncertainty had centered on whether a new CEO would alter Nvidia’s aggress"
+      "highlights": " Published : Nov. 24, 2026 - 15:24:17 Updated : Nov. 24, 2026 - 16:51:11 ... Fears of peak in memory earnings recede, but Korean chipmakers continue to diversify customer base ... Jensen Huang’s return as Nvidia CEO, announced just 11 days after his resignation, has eased concerns over Samsung Electronics and SK hynix’s high-bandwidth memory partnerships with the US chip giant and the longevity of Korea’s AI-driven memory boom. Both Korean chipmakers, however, are expected to continue broadening their customer base as global tech giants ramp up development of their own artificial intelligence "
     },
     {
       "title": "SK Hynix Q3 profit jumps sevenfold to record high, Nvidia supplier unveils $75 billion shareholder return plan",
       "url": "https://www.moneycontrol.com/news/business/earnings/sk-hynix-q3-profit-jumps-sevenfold-to-record-high-nvidia-supplier-unveils-75-billion-shareholder-return-plan-14061687.html",
       "published": "2026-10-28T01:23:49.000Z",
       "author": "Reuters",
-      "highlights": " profit to a record high on Wednesday, beating market ... will pursue shareholder returns totalling about 100 trillion won ($75.4 billion) this year, comprising cash dividends of 30 trillion won and share repurchases and cancellations of 60 trillion won,"
+      "highlights": " The Nvidia supplier also said it will pursue shareholder returns totalling about 100 trillion won ($75.4 billion) this year, comprising cash dividends of 30 trillion won and share repurchases and cancellations of 60 trillion won, including 40 trillion won"
     },
     {
       "title": "SK하이닉스, 3분기 미국 매출 1년새 102조↑…엔비디아 35조 | 연합뉴스",
@@ -47,32 +40,39 @@
       "highlights": " 송고 2026년11월16일 17시10분 ... ## 또 다른 빅테크서도 24조 매출…중국 매출은 5배가량 증가 (서울=연합뉴스) 강태우 기자 = SK하이닉스[000660]의 올해 3분기 누적 미국 매출이 지난해 같은 기간보다 100조원 넘게 급증하며 전체 매출의 62.5%를 차지한 것으로 나타났다. 특히 최대 고객사인 엔비디아를 상대로 한 매출이 1년 새 두 배 이상 늘어 35조원에 육박했고, 또 다른 빅테크로부터도 약 24조원의 매출을 올린 것으로 추정됐다. 이미지 확대 SK하이닉스 이천캠퍼스 [연합뉴스 자료사진] 16일 SK하이닉스가 공시한 분기보고서에 따르면 올해 3분기까지 누적 기준 국내외 지역별 매출 합계(236조5천105억원)에서 미국은 62.5%(147조7천392억원)를 차지했다. 작년 같은 기간 미국 매출(45조1천802억)보다 매출액이 102조원 넘게 증가했다. 이 같은 매출 성장에는 고대역폭 메모리(HBM)를 비롯한 범용 D램·낸드 등의 수급 불균형이 지속하고, 이에 따른 가격 상승 흐름이 이어간 것이 주효했다. 미국 빅테크를 중심으로 한 매출 확대도 두드러졌다. SK하이닉스는 올해 3분기 말 기준 'AI 큰손' 엔비디아에 34조9천778"
     },
     {
-      "title": "SK海力士对英伟达销售额逼近35万亿韩元：AI存储的客户集中度与议价权之变_腾讯新闻",
-      "url": "https://news.qq.com/rain/a/20261116A0BOUZ00",
-      "published": "2026-11-16T09:48:27.000Z",
-      "author": "N/A",
-      "highlights": " 2026年11月16日，SK海力士披露的第三季度报告，给AI存储供应链提供了一个可量化的观察窗口：截至2026年前三季度，公司最大外部客户——市场普遍估算为英伟达——贡献营收34.9778万亿韩元，占同期总营收的14.79%；仅第三季度，该客户营收就增加17.3691万亿韩元，几乎追平上半年六个月的17.6087万亿韩元，占当季总营收104.6155万亿韩元的约16.6%。这组数字的意义不只在规模，更在于它把头部存储厂商对单一AI客户的依赖，从产业链推测变成了财报上的结构性信号。 ## 一份季报，把“AI单客户依赖”摆上台面 SK海力士并未在财报中公开客户真实名称。市场之所以将客户A指向英伟达，主要依据是 HBM供应关系及其在AI加速器存储链条中的位置。无论最终名称如何，客户A的营收曲线已经足够说明问题：前三季度34.98万亿韩元的累计贡献，占公司总营收14.79%；第三季度单季营收约17.37万亿韩元，较上半年累计额只低约1.4%。换言之，一个季度的收入，已经接近此前六个月的总和。 另一家客户B前三季度贡献23.8509万亿韩元，占比10.08%。两家客户合计营收58.8287万亿韩元，占公司同期总营收236.5105万亿韩元的24.87%。更值得留意的是客户结构的分化：上半年客户A与客户B的营收差距仅约4213亿韩元，到前三季度累计口径已扩大至11.1269万亿韩元。第三季度"
-    },
-    {
-      "title": "Samsung and SK hynix face AI memory demand fears despite record profits",
-      "url": "https://www.koreajoongangdaily.com/business/samsung-sk-hynix-face-ai-memory-doubts-despite-record-profits-as-shares-slide/12984231",
-      "published": "2026-11-22T05:58:32.000Z",
-      "author": "News Team",
-      "highlights": " Published November 22, 2026 - 2:58 p.m. Modified November 23, 2026 - 8:57 p.m. ... Samsung Electronics and SK hynix posted their best-ever results in the third quarter, yet their shares have sunk to about half their peaks as fears that the memory boom is ending overwhelm the earnings. Samsung's memory chips sold at an average of about 3.7 times last year's average price in the first nine months of the year, and production lines at both companies are running without a break. Drawing on the two companies' third quarter reports, released last Monday, and analysts' assessments, the JoongAng Ilbo "
-    },
-    {
-      "title": "SK 海力士（000660.KS） 2026 Q3 法說會重點｜富程環球",
-      "url": "https://www.richjourney.com.tw/earnings/2026q3/000660.KS",
+      "title": "中信证券(香港)-SK海力士(000660.KS)售罄至2029年-261028",
+      "url": "http://www3.nxny.com/report/view_6514841.html",
       "published": "N/A",
       "author": "N/A",
-      "highlights": " - 每股（存託憑證）盈餘 4.01 美元，FMP 共識 5.96，低 32.7%；營收 782.1 億美元，FMP 共識 713.5 億，高 9.6%【FMP】；本業超出預期，落差來自業外匯損與投資資產評價損失。以韓元計（營收 104.6 兆、每股盈餘 54,120 韓元）EPS −36.6%、營收 +6.5%。 - 營業利益 83.3 兆韓元，FnGuide 預期 77.0 兆（+8.3%）。 - 淨利較上季少 58%。"
+      "highlights": " 中信证券财富管理与中信里昂研究观点一致。根据中信里昂研究在2026年10月28日发布的题为《Sold out through2029》的报告，SK海力士在三季度财报电话会议上的信息是，当前存储周期在结构上不同于以往周期。AI资本开支正变得更加广泛，HBM/DRAM能见度现已延伸至2029年，HBM需求是可获得供应的两倍多，产能增加正分阶段推进，而非无差别地爬坡，AI推理正在为NAND创造增量增长驱动力。 ... ，从而降低对个别参与者资本开支决策的敏感性。"
     },
     {
       "title": "SK海力士 2026財年第三季法說會",
       "url": "https://finance.biggo.com.tw/quote/000660.KS/earnings-call/KR_000660.KS_2026-10-28",
       "published": "2026-10-28T00:00:00.000Z",
       "author": "N/A",
-      "highlights": " ，較上季成長38%， ... %，寫下連續第六個季度創新高紀錄。營業利益率擴增至80%，淨利為39.78兆韓元，較去年同期成長216%，但較上季衰退58%，主因營業外損失。 ... %， ... ：1）客戶的AI投資正轉化為實際業務成果， ... 雲端積壓訂單較去年同期成長2-5倍。2）投資基礎正結構性多元化， ... 、主權AI及地端需求，降低單一參與者投資調整的影響。"
+      "highlights": " 營收達104.62兆韓元，較上季成長32%，較去年同期暴增328%，主要受惠於記憶體價格飆漲及強勁的AI需求。營業利益達83.33兆韓元，較上季成長38%，較去年同期成長632%，寫下連續第六個季度創新高紀錄。營業利益率擴增至80%，淨利為39.78兆韓元，較去年同期成長216%，但較上季衰退58%，主因營業外損失。此業績凸顯SK海力士在AI記憶體市場的領導地位，尤其是在HBM4及高附加價值DRAM產品方面。 此卓越表現的主要驅動力是DRAM與NAND平均銷售單價（ASP）顯著上揚。DRAM ASP較上季上漲逾20%，主要受惠於HBM、伺服器DRAM及企業級SSD的強勁需求。NAND ASP亦較上季上漲逾20%，儘管位元出貨量小幅下滑，因公司聚焦於321層TLC企業級SSD等高價值產品。HBM4於第三季開始全面量產出貨，伺服器DDR5出貨量較上季激增逾40%，進一步推升DRAM位元出貨量。這些因素加上高附加價值產品銷售擴增，抵銷了韓元升值帶來的不利匯率影響。 ... 問：考量市場對AI變現延遲的擔憂，SK海力士對AI投資動能持續的信心主要來自哪些原因？ 答：經營階層提出兩大原因：1）客戶的AI投資正轉化為實際業務成果，雲端營收較去年同期成長30-80%，雲端積壓訂單較去年同期成長2-5倍。2）投資基礎正結構性多元化，從少數大型科技公司擴及企業、主權AI及地端需求，降低單一參與者投"
+    },
+    {
+      "title": "SK 海力士（000660.KS） 2026 Q3 法說會重點｜富程環球",
+      "url": "https://www.richjourney.com.tw/earnings/2026q3/000660.KS",
+      "published": "N/A",
+      "author": "N/A",
+      "highlights": " - 每股（存託憑證）盈餘 4.01 美元，FMP 共識 5.96，低 32.7%；營收 782.1 億美元，FMP 共識 713.5 億，高 9.6%【FMP】；本業超出預期，落差來自業外匯損與投資資產評價損失。以韓元計（營收 104.6 兆、每股盈餘 54,120 韓元）EPS −36.6%、營收 +6.5%。 - 營業利益 83.3 兆韓元，FnGuide 預期 77.0 兆（+8.3%）。 - 淨利較上季少 58%。公司在電話會議的說法是本季業外有匯損 11.6 兆、投資資產評價損失 22.9 兆（媒體另說上季有鎧俠持股處分利益，基期偏高）。"
+    },
+    {
+      "title": "SK海力士对英伟达销售额逼近35万亿韩元：AI存储的客户集中度与议价权之变_腾讯新闻",
+      "url": "https://news.qq.com/rain/a/20261116A0BOUZ00",
+      "published": "2026-11-16T09:48:27.000Z",
+      "author": "N/A",
+      "highlights": " 2026-11-16 17:48发布于北京通信世界官方账号 2026年11月16日，SK海力士披露的第三季度报告，给AI存储供应链提供了一个可量化的观察窗口：截至2026年前三季度，公司最大外部客户——市场普遍估算为英伟达——贡献营收34.9778万亿韩元，占同期总营收的14.79%；仅第三季度，该客户营收就增加17.3691万亿韩元，几乎追平上半年六个月的17.6087万亿韩元，占当季总营收104.6155万亿韩元的约16.6%。这组数字的意义不只在规模，更在于它把头部存储厂商对单一AI客户的依赖，从产业链推测变成了财报上的结构性信号。 ## 一份季报，把“AI单客户依赖”摆上台面 SK海力士并未在财报中公开客户真实名称。市场之所以将客户A指向英伟达，主要依据是 HBM供应关系及其在AI加速器存储链条中的位置。无论最终名称如何，客户A的营收曲线已经足够说明问题：前三季度34.98万亿韩元的累计贡献，占公司总营收14.79%；第三季度单季营收约17.37万亿韩元，较上半年累计额只低约1.4%。换言之，一个季度的收入，已经接近此前六个月的总和。 另一家客户B前三季度贡献23.8509万亿韩元，占比10.08%。两家客户合计营收58.8287万亿韩元，占公司同期总营收236.5105万亿韩元的24.87%。更值得留意的是客户结构的分化：上半年客户A与客户B的营收差距仅约4213亿韩元"
+    },
+    {
+      "title": "Samsung and SK hynix face AI memory demand fears despite record profits",
+      "url": "https://www.koreajoongangdaily.com/business/samsung-sk-hynix-face-ai-memory-doubts-despite-record-profits-as-shares-slide/12984231",
+      "published": "2026-11-22T05:58:32.000Z",
+      "author": "News Team",
+      "highlights": " Record third quarter earnings have not eased investor fears over Nvidia, contract durability and potential oversupply in the AI memory boom. ... Published November 22, 2026 - 2:58 p.m. Modified November 23, 2026 - 8:57 p.m. ... Samsung Electronics and SK hynix posted their best-ever results in the third quarter, yet their shares have sunk to about half their peaks as fears that the memory boom is ending overwhelm the earnings. Samsung's memory chips sold at an average of about 3.7 times last year's average price in the first nine months of the year, and production lines at both companies are "
     }
   ]
 }
